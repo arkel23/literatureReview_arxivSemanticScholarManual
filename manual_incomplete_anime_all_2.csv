@@ -1,0 +1,109 @@
+paperId,title
+798cc4f05ac0699215d0083130c2793be17803fc,Improving Shape Deformation in Unsupervised Image-to-Image Translation
+7d01e5c4ab3e4ddeadcda107d946a705c70ac4c8,Two-stage sketch colorization
+9f4d31009a666998918dea4da699361380e7f140,Application of Generative Adversarial Network on Image Style Transformation and Image Processing
+1e10a58cd3d3974d083ec5aa323e5d10c43fc061,Image Generation From Small Datasets via Batch Statistics Adaptation
+fe6b20332d37c50722aee0c6133df6c70826d27f,Spatially Controllable Image Synthesis with Internal Representation Collaging
+80bf8b9598312d7897082057783da583b46f8ffb,MineGAN: effective knowledge transfer from GANs to target domains with few images
+d57622db429112152ee726bbee80ddd567c342bc,Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss
+8c5aa40f3e7a804f1a6a644792deef9f8d810b83,Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence
+135dc574a3f879f853f47c48a1d6a66ca71c32b7,Disentangling Style and Content in Anime Illustrations
+f1b1e792d8b498a7bcf95162785c44b20f90b2ba,Unpaired Sketch-to-Line Translation via Synthesis of Sketches
+690913b22275e4360bc3770948a84999c5c440a8,Unpaired Image-to-Sketch Translation Network for Sketch Synthesis
+59e3f5e66a3cdf3bdfc814e3565b77d2cbc13b83,Why Do Line Drawings Work? A Realism Hypothesis
+38eaad7c9fcb1cf3d8819677a827e5ce211eb8e7,"Content Curation, Evaluation, and Refinement on a Nonlinearly Directed Imageboard: Lessons From Danbooru"
+498afde3bfd1e274af389b76328c881109057115,Interactive Anime Sketch Colorization with Style Consistency via a Deep Residual Neural Network
+b34f49ca5955c19fc1b5f82a356c259d129fdb05,Semantic Example Guided Image-to-Image Translation
+4a44a2924ecdfc6ca4c5e6813a88e18e2d163493,Anime Sketch Coloring with Swish-Gated Residual U-Net
+404252910ac613b89c192555542f0821a3c2ece5,Classification Representations Can be Reused for Downstream Generations
+a6b0788821ee54940c5518568671ff13320bfaa0,Avatar Artist Using GAN
+72271ef9dd1ff6ff2c9b749894d698c8e509a2c7,MDSG: Multi-Density Sketch-to-Image Translation Network
+bf03985a1b5d5fed16fd79ce85058a0bd8b38f4e,Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils
+ad8adbd99d50320789c06b5a6495b06b449efff0,Colorization of Line Drawings with Empty Pupils
+2f7093cc379ed47704de6ff4f905912c484908de,DanbooRegion: An Illustration Region Dataset
+b852de0c475053619602eb93007f6f2c57150a32,SickZil-Machine (SZMC): A Deep Learning Based Script Text Isolation System for Comics Translation
+3912eebbd9f9f2ef27dcad7cfbfcb0049601082b,Unconstrained Text Detection in Manga
+cfb7b3cd096e571337f6a5fd6a26b94a982ca6d1,"Learning from the Past: Meta-Continual Learning with Knowledge Embedding for Jointly Sketch, Cartoon, and Caricature Face Recognition"
+fd1aaaf5ad5e41560ff99c7bcc00a485a2a4a070,Deep learning-based classification of the polar emotions of ‘moe’-style cartoon pictures
+084368bcfe786de94a19e6da08255eb5ffdba152,Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network
+4b8a11d7b2508d64a39e37968a3a00a2e80de187,FSGAN: Few-Shot Adaptation of Generative Adversarial Networks
+e7053f0d899702c1e70ccaf95b96706c1b287671,Watermarking Neural Networks with Watermarked Images
+90561ef74bae02db1f39b027559b75a7e7b11aaa,Network-to-Network Translation with Conditional Invertible Neural Networks
+6c4fe31504d47b8547e47267c0cb4efa464f022b,Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis
+fcc98f7a3e582851cae07797db3b8f5aa11db299,Semantics Factorization (SeFa): Closed-Form Factorization of Latent Semantics in GANs
+9003b24d61aeb282cd3467fbc46fb1c37a1a0cf2,Data Instance Prior for Transfer Learning in GANs
+739497ec657d2c1e6ed7eb424951e0affe117be4,MakeItTalk: Speaker-Aware Talking-Head Animation
+8e8b0174dabf6548f9bbf8050cfd0ee63bc999d6,Automatic Colorization of Anime Style Illustrations Using a Two-Stage Generator
+9992e634f17ed379e2e89092c388c51f1b2b2e70,"DAF: re: A Challenging, Crowd-Sourced, Large-Scale, Long-Tailed Dataset For Anime Character Recognition"
+15af12d267303ff665b3afc96463ba647e9a7b1a,AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation
+67691470dc85852418ab3c113ea111fc74fbf90d,Few-shot Semantic Image Synthesis Using StyleGAN Prior
+ec35e52df54a26688e8f096415c9838d153915e9,Stylized–Colorization for Line Arts
+525d226b9b14fe056e30c8f3261ece7b7eff11f9,Deep Line Art Video Colorization with a Few References
+d937684a392b110fd4b6e28dfa4ca8eaee552d78,Semi-automatic Manga Colorization Using Conditional Adversarial Networks
+69e1da852c06ef47aa9c7d130805b8f03c761ac8,Cross-Domain and Disentangled Face Manipulation with 3D Guidance
+21e348d81033f419199764a040f247ceff81718f,EigenGAN: Layer-Wise Eigen-Learning for GANs
+2cadf52b820d31debe565c15317d86c3fcd3a91e,Line Art Colorization with Concatenated Spatial Attention
+f43302cc6fb115c97add812082db8b77970b4ec6,User-Guided Line Art Flat Filling With Split Filling Mechanism
+59b8a2a1b88ce8dc15a6603f135f7b4d04820a55,Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes
+b51b3bc074cbb5aa75df66b7ab89892cc1807ee0,Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects
+8210470966ca5e5c9679cd4d7ca478699c3d3988,Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario
+1240e294c54b8db79aae28f9f28f9d219eb0cb22,Stereoscopizing Cel Animations
+a730e711f703f40a0c5e21854c928ed79df45872,Pose estimation of anime/manga characters: a case for synthetic data
+dfe3ea5db744de4d6b041e773e355e7d7f8af0ce,A sustainable practice method of hand-drawing by merging user’s stroke and model’s stroke
+549e14748029240b4b6d013e636abe479499f427,Closure-aware Sketch Simplification
+85db4bf566fa8f61ccda7c4b1314284a263afe07,Comics image processing: learning to segment text
+4411973c8d302330ea09b508e4c453c466e3dd43,Comic visualization on smartphones based on eye tracking
+ca52bdcf27f2dd42905f1eea7a440534dc5c2984,Designing a question-answering system for comic contents
+20c5ca0922a85f6c52c7e6e5e85d2a1f5137f929,Detection of comic books twin pages with a non-overlapping stitching method
+fdd5ffa5e448d19a81afc7b3938f0d8074828983,Face Detection for Comic Images with Deformable Part Model
+5fde72da5215d0ef0dd7ca56ac3c15874530a73a,"Manga generator, a future of interactive manga media: invited talk paper"
+48320a4be9cc741fdb28ad72f359c449e41309cc,Manga109 dataset and creation of metadata
+48320a4be9cc741fdb28ad72f359c449e41309cc,Retrieval of comic book images using context relevance information
+fe34ad6026c5c4b91316620d2f67f412c9e35935,Segmentation and indexation of complex objects in comic book images
+914997197ebc05e2cccae6ddc231efa4201eacbc,Text-aware balloon extraction from manga
+6fb9467d75a8ec9f21e0af77e68e5fff4687f989,Toward speech text recognition for comic books
+19951933f0bbebe730c95a908ad2c4409615dde1,Segmentation-Free Speech Text Recognition for Comic Books
+a8e150600931a80aab6433c005aeafad5eb73488,Extraction of Semantic Content and Styles in Comic Books
+378f5305d7250e7290dd1cde87b319617d285d39,Exploiting Aliasing for Manga Restoration
+7de5f1aa200affde036a1bb041be026d1eb92577,Generating Manga from Illustrations via Mimicking Manga Creation Workflow
+10a9c5d183e7e7df51db8bfa366bc862262b37d7,AnimeGAN: A Novel Lightweight GAN for Photo Animation
+dc0092d06ab76465431edfd51b08d823b7d1ff3f,Closed-Form Factorization of Latent Semantics in GANs
+414f7c7b3335df83051efddabaa79dacf3fd32b2,Manga Filling Style Conversion with Screentone Variational Autoencoder
+51500e023a282e94510cacba84635cccc279c6c1,Anime-to-Real clothing: Cosplay Costume Generation via Image-to-Image Translation
+4180a603f66f03a3663b967d8a53d267ff4a43e5,PaintsTorch: a User-Guiden Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network
+59e3f5e66a3cdf3bdfc814e3565b77d2cbc13b83,Why Do Line Drawings Work? A Realism Hypothesis
+88ed54f0e52c7131ee6d3cc9efc3c12d730a7181,Network-to-Network Translation with Conditional Invertible Neural Networks
+3e1a8c969e45a20c6e99d25cd51144c443711853,Generating Digital Painting Lighting Effects via RGB-space Geometry
+a5d6a87e42f3cb1f7bbc23450b1ad0c79f40450b,Breaking the Cycle – Colleagues Are All You Need
+2f7093cc379ed47704de6ff4f905912c484908de,DanbooRegion: An Illustration Region Dataset
+5f4c8a26d30b9a6a078c3f7433477f1c85cfb555,Surrogate Gradient Field for Latent Space Manipulation
+2f5cc15bee412176356ea6e068ff775140a02f8f,U-GAT-IT: Unsupervised generative Attentional Networks with Adaptive layer-Instance Normalization for Image-to-Image Translation
+1d972f2474ffbf4151d4195009b4ed6171db6e28,Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data
+80b802e551b5f4f34d5596c1595abe6ea7b2334a,Unconstrained Text Detection in Manga
+d937684a392b110fd4b6e28dfa4ca8eaee552d78,Semi-automatic Manga Colorization using Conditional Adversarial Networks
+e7053f0d899702c1e70ccaf95b96706c1b287671,Watermarking Neural Networks with Watermarked Images
+600b9eced5b9c399cf510dd3d908e97a61fd325f,CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator
+69e1da852c06ef47aa9c7d130805b8f03c761ac8,Cross-Domain and Disentangled Face Manipulation via 3D Guidance
+c79b7d36351938301877a3fa6d5478f368ef0f3f,"GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)"
+c22325b8c8c321b3591092dfda1c2cf409eb3881,Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation
+728fe8dd3a9cb43da565d6c49d08c39d862e84af,SketchMan: Learning to Create Professional Sketches
+7dc31d7fa8bf8caabed958173c3e220256c64af4,Unsupervised Discovery of Interpretable Directions in the GAN Latent Space
+084368bcfe786de94a19e6da08255eb5ffdba152,Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network
+3618e503068e5f0e4f17ad1557a9bd6692daea79,A Good Image Generator Is What You Need for High-Resolution Video Synthesis
+515ec130736879b3a78859b51ed27e316ed75223,Landmark Assisted CycleGAN for Cartoon Face Generation
+62931b3e0dce8748364e19c87ef318e22ec59c7f,Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space
+8c5aa40f3e7a804f1a6a644792deef9f8d810b83,Reference-Based Sketch Image Colorization using Augmented Self-Reference and Dense Semantic Correspondence
+55f45f009bdf4f8ec0bbf5c1c0da6db0e39508da,Unpaired Photo-to-manga Translation Based on the Methodology of Manga Drawing
+d2159c0b74e5827e8a1a74bd3068dfe7d71fb93f,GANILLA: Generative Adversarial Networks for Image to Illustration Translation
+370211492b976f2b33e0b590abecf27905fc882f,SPatchGAN: A statistical Feature Based discriminator for Unsupervised Image-to-Image Translation
+4b8a11d7b2508d64a39e37968a3a00a2e80de187,Few-shot adaptation of generative adversarial networks
+29cc6d8fab87a70d50b5b156c804e667f785e2a9,Modeling artistic workflows for image generation and editing
+1e10a58cd3d3974d083ec5aa323e5d10c43fc061,Image Generation From Small Datasets via Batch Statistics Adaptation
+e11025c56dbc07293990731d8eb9cb4cef771cac,Exploring sketch-based character design guided by automatic colorization
+b981faf67f377532a8f4b1c9ce7381351186d548,Im2Pencil: Controllable Pencil illustration from photographs
+9f4d31009a666998918dea4da699361380e7f140,Sketch transfer: a challenging new task for exploring detail-invariance and the abstractions learned by deep networks
+f1b1e792d8b498a7bcf95162785c44b20f90b2ba,Unpaired sketch-to-line translation via synthesis of sketches
+f2477ab15c8d0a8d3b87bdb1e0d2edf8c352e723,Bridging Unpaired Facial Photos And Sketches By Line-drawings
+690913b22275e4360bc3770948a84999c5c440a8,Unpaired Image-to-Sketch Translation Network for Sketch Synthesis
+9a1e7148653a0a66d5f9ca999b7a82c1f98a1eb6,Staged Sketch-to-Image Synthesis via Semi-supervised Generative Adversarial Networks
+4da589d5400e8abf219d1c6d3157e9f2e56b86b5,Image Colorization: A Survey and Dataset

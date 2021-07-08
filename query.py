@@ -7,10 +7,10 @@ from query_semantic import paper as semantic_paper
 # title is for the file name
 # keyword queries are for the arxiv search
 
-'''
-title = 'anime_all_1'
-#keyword_list_1 = ['anime', 'animation', 'caricature', 'cartoon', 'comic', 'drawing', 'line art', 'manga', 'sketch', 'toon']
-keyword_list_1 = ['anime', 'cartoon', 'comic', 'manga', 'toon']
+#'''
+title = 'anime_all_2'
+keyword_list_1 = ['anime', 'animation', 'caricature', 'cartoon', 'comic', 'drawing', 'line art', 'manga', 'sketch', 'toon']
+#keyword_list_1 = ['anime', 'cartoon', 'comic', 'manga', 'toon']
 keyword_list_2 = ['automatic', 'understanding', 'analysis', 'learning',
 'color', 'create', 'creation', 'generate', 'generation', 'estimation'
 'classification', 'detection', 'segmentation', 'recognition',
@@ -23,7 +23,7 @@ keyword_list_2 = ['automatic', 'understanding', 'analysis', 'learning',
 'ConvNet', 'CNN', 'recurrent neural network', 'RNN', 
 'long short term memory', 'LSTM', 'transformer', 'attention',
 'generative adversarial network', 'GAN', 'autoencoder']
-'''
+#'''
 
 '''
 title = 'accelerator'
@@ -49,9 +49,11 @@ keyword_list_2 = ['denoising', 'denoise',
                    'prediction', 'forecasting']
 '''
 
+'''
 title = 'weakly_supervised_2'
 keyword_list_1 = ['weakly supervised', 'weakly-supervised', 'wsod', 'weak supervision', 'image-level supervision', 'weak label', 'weakly labeled']
 keyword_list_2 = ['detect', 'localization' , 'recognition', 'segment', 'network']
+'''
 
 #%%
 # basic search query style

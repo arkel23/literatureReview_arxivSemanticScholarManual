@@ -1,0 +1,672 @@
+id,published,title,authors,paperId
+http://arxiv.org/abs/2107.00712v1,2021-07-01T19:38:43Z,"Passing a Non-verbal Turing Test: Evaluating Gesture Animations
+  Generated from Speech","['Manuel Rebol', 'Christian Gütl', 'Krzysztof Pietroszek']",arXiv:2107.00712
+http://arxiv.org/abs/2106.15121v1,2021-06-29T07:03:56Z,Face Sketch Synthesis via Semantic-Driven Generative Adversarial Network,"['Xingqun Qi', 'Muyi Sun', 'Weining Wang', 'Xiaoxiao Dong', 'Qi Li', 'Caifeng Shan']",arXiv:2106.15121
+http://arxiv.org/abs/2106.14843v1,2021-06-28T16:43:26Z,"CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image
+  Encoders","['Kevin Frans', 'L. B. Soros', 'Olaf Witkowski']",arXiv:2106.14843
+http://arxiv.org/abs/2106.14313v1,2021-06-27T19:17:51Z,"AniVis: Generating Animated Transitions Between Statistical Charts with
+  a Tree Model","['Wenchao Li', 'Yun Wang', 'He Huang', 'Weiwei Cui', 'Haidong Zhang', 'Huamin Qu', 'Dongmei Zhang']",arXiv:2106.14313
+http://arxiv.org/abs/2106.15347v1,2021-06-27T07:18:09Z,DeepGD: A Deep Learning Framework for Graph Drawing Using GNN,"['Xiaoqi Wang', 'Kevin Yen', 'Yifan Hu', 'Han-Wei Shen']",arXiv:2106.15347
+http://arxiv.org/abs/2106.12970v1,2021-06-24T12:39:48Z,RikoNet: A Novel Anime Recommendation Engine,"['Badal Soni', 'Debangan Thakuria', 'Nilutpal Nath', 'Navarun Das', 'Bhaskarananda Boro']",arXiv:2106.12970
+http://arxiv.org/abs/2106.11841v1,2021-06-22T14:58:08Z,Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval,"['Zhipeng Wang', 'Hao Wang', 'Jiexi Yan', 'Aming Wu', 'Cheng Deng']",arXiv:2106.11841
+http://arxiv.org/abs/2106.12445v1,2021-06-22T14:00:10Z,Fine-Tuning StyleGAN2 For Cartoon Face Generation,['Jihye Back'],arXiv:2106.12445
+http://arxiv.org/abs/2106.10158v1,2021-06-18T14:50:27Z,Learning to Generate Code Sketches,"['Daya Guo', 'Alexey Svyatkovskiy', 'Jian Yin', 'Nan Duan', 'Marc Brockschmidt', 'Miltiadis Allamanis']",arXiv:2106.10158
+http://arxiv.org/abs/2106.07490v1,2021-06-14T15:20:24Z,"Drawing Inspiration from Biological Dendrites to Empower Artificial
+  Neural Networks","['Spyridon Chavlis', 'Panayiota Poirazi']",arXiv:2106.07490
+http://arxiv.org/abs/2106.07192v1,2021-06-14T06:46:06Z,Automatic Document Sketching: Generating Drafts from Analogous Texts,"['Zeqiu Wu', 'Michel Galley', 'Chris Brockett', 'Yizhe Zhang', 'Bill Dolan']",arXiv:2106.07192
+http://arxiv.org/abs/2106.04486v1,2021-06-08T16:10:36Z,Sketch-Based Streaming Anomaly Detection in Dynamic Graphs,"['Siddharth Bhatia', 'Mohit Wadhwa', 'Philip S. Yu', 'Bryan Hooi']",arXiv:2106.04486
+http://arxiv.org/abs/2106.02711v1,2021-06-04T20:45:03Z,SketchGen: Generating Constrained CAD Sketches,"['Wamiq Reyaz Para', 'Shariq Farooq Bhat', 'Paul Guerrero', 'Tom Kelly', 'Niloy Mitra', 'Leonidas Guibas', 'Peter Wonka']",arXiv:2106.02711
+http://arxiv.org/abs/2106.02067v1,2021-06-03T18:17:55Z,Learning to Draw: Emergent Communication through Sketching,"['Daniela Mihai', 'Jonathon Hare']",arXiv:2106.02067
+http://arxiv.org/abs/2105.14778v1,2021-05-31T08:18:13Z,"Sketch and Refine: Towards Faithful and Informative Table-to-Text
+  Generation","['Peng Wang', 'Junyang Lin', 'An Yang', 'Chang Zhou', 'Yichang Zhang', 'Jingren Zhou', 'Hongxia Yang']",arXiv:2105.14778
+http://arxiv.org/abs/2105.10131v1,2021-05-21T04:57:43Z,"Visual representation of negation: Real world data analysis on comic
+  image design","['Yuri Sato', 'Koji Mineshima', 'Kazuhiro Ueda']",arXiv:2105.10131
+http://arxiv.org/abs/2105.09374v1,2021-05-19T19:39:58Z,Endless Loops: Detecting and Animating Periodic Patterns in Still Images,"['Tavi Halperin', 'Hanit Hakim', 'Orestis Vantzos', 'Gershon Hochman', 'Netai Benaim', 'Lior Sassy', 'Michael Kupchik', 'Ofir Bibi', 'Ohad Fried']",arXiv:2105.09374
+http://arxiv.org/abs/2105.08237v1,2021-05-18T02:38:22Z,Towards Unsupervised Sketch-based Image Retrieval,"['Conghui Hu', 'Yongxin Yang', 'Yunpeng Li', 'Timothy M. Hospedales', 'Yi-Zhe Song']",arXiv:2105.08237
+http://arxiv.org/abs/2105.06992v1,2021-05-14T17:56:59Z,Generalized LR-drawings of trees,"['Therese Biedl', 'Giuseppe Liotta', 'Jayson Lynch', 'Fabrizio Montecchiani']",arXiv:2105.06992
+http://arxiv.org/abs/2105.06920v1,2021-05-14T16:09:38Z,Surface Detection for Sketched Single Photon Lidar,"['Michael P. Sheehan', 'Julián Tachella', 'Mike E. Davies']",arXiv:2105.06920
+http://arxiv.org/abs/2105.06033v1,2021-05-13T01:45:45Z,Extreme Face Inpainting with Sketch-Guided Conditional GAN,"['Nilesh Pandey', 'Andreas Savakis']",arXiv:2105.06033
+http://arxiv.org/abs/2105.05879v1,2021-05-12T18:14:33Z,"Sketching with Kerdock's crayons: Fast sparsifying transforms for
+  arbitrary linear maps","['Tim Fuchs', 'David Gross', 'Felix Krahmer', 'Richard Kueng', 'Dustin G. Mixon']",arXiv:2105.05879
+http://arxiv.org/abs/2105.04242v1,2021-05-10T10:14:32Z,T-EMDE: Sketching-based global similarity for cross-modal retrieval,"['Barbara Rychalska', 'Mikolaj Wieczorek', 'Jacek Dabrowski']",arXiv:2105.04242
+http://arxiv.org/abs/2105.02139v1,2021-05-05T15:44:20Z,"Mixing Modalities of 3D Sketching and Speech for Interactive Model
+  Retrieval in Virtual Reality","['Daniele Giunchi', 'Alejandro Sztrajman', 'Stuart James', 'Anthony Steed']",arXiv:2105.02139
+http://arxiv.org/abs/2105.01147v1,2021-05-03T20:01:54Z,"Sketches image analysis: Web image search engine usingLSH index and DNN
+  InceptionV3","['Alessio Schiavo', 'Filippo Minutella', 'Mattia Daole', 'Marsha Gomez Gomez']",arXiv:2105.01147
+http://arxiv.org/abs/2104.11554v1,2021-04-23T12:30:22Z,Sketch-based Normal Map Generation with Geometric Sampling,"['Yi He', 'Haoran Xie', 'Chao Zhang', 'Xi Yang', 'Kazunori Miyata']",arXiv:2104.11554
+http://arxiv.org/abs/2104.11130v1,2021-04-22T15:28:39Z,Sketch-QNet: A Quadruplet ConvNet for Color Sketch-based Image Retrieval,"['Anibal Fuentes', 'Jose M. Saavedra']",arXiv:2104.11130
+http://arxiv.org/abs/2104.10278v1,2021-04-20T22:48:19Z,Compact and Effective Representations for Sketch-based Image Retrieval,"['Pablo Torres', 'Jose M. Saavedra']",arXiv:2104.10278
+http://arxiv.org/abs/2104.10061v1,2021-04-20T15:37:59Z,"Asymmetric compressive learning guarantees with applications to
+  quantized sketches","['Vincent Schellekens', 'Laurent Jacques']",arXiv:2104.10061
+http://arxiv.org/abs/2104.09918v1,2021-04-20T12:11:12Z,"CrossATNet - A Novel Cross-Attention Based Framework for Sketch-Based
+  Image Retrieval","['Ushasi Chaudhuri', 'Biplab Banerjee', 'Avik Bhattacharya', 'Mihai Datcu']",arXiv:2104.09918
+http://arxiv.org/abs/2104.09621v1,2021-04-19T20:38:36Z,Engineering Sketch Generation for Computer-Aided Design,"['Karl D. D. Willis', 'Pradeep Kumar Jayaraman', 'Joseph G. Lambourne', 'Hang Chu', 'Yewen Pu']",arXiv:2104.09621
+http://arxiv.org/abs/2104.08604v1,2021-04-17T18:07:23Z,Lifelong Learning with Sketched Structural Regularization,"['Haoran Li', 'Aditya Krishnan', 'Jingfeng Wu', 'Soheil Kolouri', 'Praveen K. Pilly', 'Vladimir Braverman']",arXiv:2104.08604
+http://arxiv.org/abs/2104.08292v1,2021-04-16T18:00:06Z,"Capturing the physics of MaNGA galaxies with self-supervised Machine
+  Learning","['Regina Sarmiento', 'Marc Huertas-Company', 'Johan H. Knapen', 'Sebastián F. Sánchez', 'Helena Domínguez Sánchez', 'Niv Drory', 'Jesús Falcón-Barroso']",arXiv:2104.08292
+http://arxiv.org/abs/2104.06358v1,2021-04-13T17:05:27Z,"Data-Driven Reinforcement Learning for Virtual Character Animation
+  Control","['Vihanga Gamage', 'Cathy Ennis', 'Robert Ross']",arXiv:2104.06358
+http://arxiv.org/abs/2104.05703v1,2021-04-12T17:58:46Z,Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis,"['Xiaoyu Xiang', 'Ding Liu', 'Xiao Yang', 'Yiheng Zhu', 'Xiaohui Shen', 'Jan P. Allebach']",arXiv:2104.05703
+http://arxiv.org/abs/2104.04087v1,2021-04-08T21:21:28Z,A Sketch-Based Neural Model for Generating Commit Messages from Diffs,"['Nicolae-Teodor Pavel', 'Traian Rebedea']",arXiv:2104.04087
+http://arxiv.org/abs/2104.02495v1,2021-04-06T13:26:49Z,Deep Animation Video Interpolation in the Wild,"['Li Siyao', 'Shiyu Zhao', 'Weijiang Yu', 'Wenxiu Sun', 'Dimitris N. Metaxas', 'Chen Change Loy', 'Ziwei Liu']",arXiv:2104.02495
+http://arxiv.org/abs/2104.00929v1,2021-04-02T08:14:22Z,Sketch and Customize: A Counterfactual Story Generator,"['Changying Hao', 'Liang Pang', 'Yanyan Lan', 'Yan Wang', 'Jiafeng Guo', 'Xueqi Cheng']",arXiv:2104.00929
+http://arxiv.org/abs/2103.16019v1,2021-03-30T01:30:08Z,Identity-Aware CycleGAN for Face Photo-Sketch Synthesis and Recognition,"['Yuke Fang', 'Jiani Hu', 'Weihong Deng']",arXiv:2103.16019
+http://arxiv.org/abs/2103.15706v2,2021-03-29T15:44:19Z,StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval,"['Aneeshan Sain', 'Ayan Kumar Bhunia', 'Yongxin Yang', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2103.15706
+http://arxiv.org/abs/2103.15536v1,2021-03-29T12:09:42Z,Cloud2Curve: Generation and Vectorization of Parametric Sketches,"['Ayan Das', 'Yongxin Yang', 'Timothy Hospedales', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2103.15536
+http://arxiv.org/abs/2103.15087v1,2021-03-28T09:18:20Z,Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes,"['Chenjie Cao', 'Yanwei Fu']",arXiv:2103.15087
+http://arxiv.org/abs/2103.14984v1,2021-03-27T20:18:14Z,Realistic face animation generation from videos,"['Zihao Jian', 'Minshan Xie']",arXiv:2103.14984
+http://arxiv.org/abs/2103.14675v2,2021-03-26T18:23:29Z,Synthesis of Compositional Animations from Textual Descriptions,"['Anindita Ghosh', 'Noshaba Cheema', 'Cennet Oguz', 'Christian Theobalt', 'Philipp Slusallek']",arXiv:2103.14675
+http://arxiv.org/abs/2103.13990v1,2021-03-25T17:27:08Z,"More Photos are All You Need: Semi-Supervised Learning for Fine-Grained
+  Sketch Based Image Retrieval","['Ayan Kumar Bhunia', 'Pinaki Nath Chowdhury', 'Aneeshan Sain', 'Yongxin Yang', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2103.13990
+http://arxiv.org/abs/2103.13716v1,2021-03-25T09:47:18Z,"Vectorization and Rasterization: Self-Supervised Learning for Sketch and
+  Handwriting","['Ayan Kumar Bhunia', 'Pinaki Nath Chowdhury', 'Yongxin Yang', 'Timothy M. Hospedales', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2103.13716
+http://arxiv.org/abs/2103.05704v1,2021-03-09T20:32:20Z,"Automatic code generation from sketches of mobile applications in
+  end-user development using Deep Learning","['Daniel Baulé', 'Christiane Gresse von Wangenheim', 'Aldo von Wangenheim', 'Jean C. R. Hauck', 'Edson C. Vargas Júnior']",arXiv:2103.05704
+http://arxiv.org/abs/2103.03814v1,2021-03-05T17:27:20Z,"Rubbing and Drawing: Generic Ways to Improve the Thermoelectric Power
+  Factor of Organic Semiconductors?","['Dorothea Scheunemann', 'Vishnu Vijayakumar', 'Huiyan Zeng', 'Pablo Durand', 'Nicolas Leclerc', 'Martin Brinkmann', 'Martijn Kemerink']",arXiv:2103.03814
+http://arxiv.org/abs/2102.12593v2,2021-02-24T22:47:38Z,"AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised
+  Anime Face Generation","['Bing Li', 'Yuanlue Zhu', 'Yitong Wang', 'Chia-Wen Lin', 'Bernard Ghanem', 'Linlin Shen']",arXiv:2102.12593
+http://arxiv.org/abs/2102.12567v1,2021-02-24T21:34:40Z,"Sketching Curvature for Efficient Out-of-Distribution Detection for Deep
+  Neural Networks","['Apoorva Sharma', 'Navid Azizan', 'Marco Pavone']",arXiv:2102.12567
+http://arxiv.org/abs/2102.12317v1,2021-02-24T14:50:59Z,Learning-Augmented Sketches for Hessians,"['Yi Li', 'Honghao Lin', 'David P. Woodruff']",arXiv:2102.12317
+http://arxiv.org/abs/2102.11361v1,2021-02-22T21:05:57Z,"The FaCells. An Exploratory Study about LSTM Layers on Face Sketches
+  Classifiers",['Xavier Ignacio González'],arXiv:2102.11361
+http://arxiv.org/abs/2102.09737v1,2021-02-19T04:29:17Z,One Shot Audio to Animated Video Generation,"['Neeraj Kumar', 'Srishti Goel', 'Ankur Narang', 'Brejesh Lall', 'Mujtaba Hasan', 'Pranshu Agarwal', 'Dipankar Sarkar']",arXiv:2102.09737
+http://arxiv.org/abs/2102.08732v2,2021-02-17T12:51:06Z,A Sketching Framework for Reduced Data Transfer in Photon Counting Lidar,"['Michael P. Sheehan', 'Julián Tachella', 'Mike E. Davies']",arXiv:2102.08732
+http://arxiv.org/abs/2102.06192v2,2021-02-11T18:54:56Z,Adversarial Segmentation Loss for Sketch Colorization,"['Samet Hicsonmez', 'Nermin Samet', 'Emre Akbas', 'Pinar Duygulu']",arXiv:2102.06192
+http://arxiv.org/abs/2102.04462v1,2021-02-08T16:02:30Z,Learning-augmented count-min sketches via Bayesian nonparametrics,"['Emanuele Dolera', 'Stefano Favaro', 'Stefano Peluchetti']",arXiv:2102.04462
+http://arxiv.org/abs/2102.04016v1,2021-02-08T06:10:37Z,An Efficient Framework for Zero-Shot Sketch-Based Image Retrieval,"['Osman Tursun', 'Simon Denman', 'Sridha Sridharan', 'Ethan Goan', 'Clinton Fookes']",arXiv:2102.04016
+http://arxiv.org/abs/2102.01143v1,2021-02-01T20:22:05Z,toon2real: Translating Cartoon Images to Realistic Images,"['K. M. Arefeen Sultan', 'Mohammad Imrul Jubair', 'MD. Nahidul Islam', 'Sayed Hossain Khan']",arXiv:2102.01143
+http://arxiv.org/abs/2101.11111v1,2021-01-26T22:15:15Z,"Automatic Comic Generation with Stylistic Multi-page Layouts and
+  Emotion-driven Text Balloon Generation","['Xin Yang', 'Zongliang Ma', 'Letian Yu', 'Ying Cao', 'Baocai Yin', 'Xiaopeng Wei', 'Qiang Zhang', 'Rynson W. H. Lau']",arXiv:2101.11111
+http://arxiv.org/abs/2101.10639v1,2021-01-26T09:09:51Z,"Hierarchical Clustering via Sketches and Hierarchical Correlation
+  Clustering","['Danny Vainstein', 'Vaggos Chatziafratis', 'Gui Citovsky', 'Anand Rajagopalan', 'Mohammad Mahdian', 'Yossi Azar']",arXiv:2101.10639
+http://arxiv.org/abs/2101.08674v1,2021-01-21T15:40:45Z,"DAF:re: A Challenging, Crowd-Sourced, Large-Scale, Long-Tailed Dataset
+  For Anime Character Recognition","['Edwin Arkel Rios', 'Wen-Huang Cheng', 'Bo-Cheng Lai']",arXiv:2101.08674
+http://arxiv.org/abs/2101.08621v1,2021-01-21T14:10:54Z,"Mindless Attractor: A False-Positive Resistant Intervention for Drawing
+  Attention Using Auditory Perturbation","['Riku Arakawa', 'Hiromu Yakura']",arXiv:2101.08621
+http://arxiv.org/abs/2101.06803v1,2021-01-17T23:23:09Z,Narration Generation for Cartoon Videos,"['Nikos Papasarantopoulos', 'Shay B. Cohen']",arXiv:2101.06803
+http://arxiv.org/abs/2101.06616v1,2021-01-17T08:09:28Z,"A relic sketch extraction framework based on detail-aware hierarchical
+  deep network","['Jinye Peng', 'Jiaxin Wang', 'Jun Wang', 'Erlei Zhang', 'Qunxi Zhang', 'Yongqin Zhang', 'Xianlin Peng', 'Kai Yu']",arXiv:2101.06616
+http://arxiv.org/abs/2101.12338v1,2021-01-14T23:40:23Z,"Enabling Robots to Draw and Tell: Towards Visually Grounded Multimodal
+  Description Generation","['Ting Han', 'Sina Zarrieß']",arXiv:2101.12338
+http://arxiv.org/abs/2012.14271v3,2020-12-28T15:20:52Z,Towards Fully Automated Manga Translation,"['Ryota Hinami', 'Shonosuke Ishiwatari', 'Kazuhiko Yasuda', 'Yusuke Matsui']",arXiv:2012.14271
+http://arxiv.org/abs/2012.11585v3,2020-12-21T18:59:08Z,End-to-End Deep Structured Models for Drawing Crosswalks,"['Justin Liang', 'Raquel Urtasun']",arXiv:2012.11585
+http://arxiv.org/abs/2012.09290v2,2020-12-16T22:14:06Z,Self-Supervised Sketch-to-Image Synthesis,"['Bingchen Liu', 'Yizhe Zhu', 'Kunpeng Song', 'Ahmed Elgammal']",arXiv:2012.09290
+http://arxiv.org/abs/2012.09004v1,2020-12-16T15:02:53Z,"Sketch Generation with Drawing Process Guided by Vector Flow and
+  Grayscale","['Zhengyan Tong', 'Xuanhong Chen', 'Bingbing Ni', 'Xiaohang Wang']",arXiv:2012.09004
+http://arxiv.org/abs/2012.09609v1,2020-12-12T09:44:03Z,Draw your Neural Networks,"['Jatin Sharma', 'Shobha Lata']",arXiv:2012.09609
+http://arxiv.org/abs/2012.01860v1,2020-12-03T12:04:31Z,"Essay Review of Tanya and Jeffrey Bub's Totally Random: Why Nobody
+  Understands Quantum Mechanics: A Serious Comic on Entanglement","['Michael E. Cuffaro', 'Emerson P. Doyle']",arXiv:2012.01860
+http://arxiv.org/abs/2012.00346v1,2020-12-01T09:06:34Z,Ultra-low bitrate video conferencing using deep image animation,"['Goluck Konuko', 'Giuseppe Valenzise', 'Stéphane Lathuilière']",arXiv:2012.00346
+http://arxiv.org/abs/2011.14785v2,2020-11-30T13:42:39Z,S2FGAN: Semantically Aware Interactive Sketch-to-Face Translation,"['Yan Yang', 'Md Zakir Hossain', 'Tom Gedeon', 'Shafin Rahman']",arXiv:2011.14785
+http://arxiv.org/abs/2011.12046v2,2020-11-24T11:44:02Z,Effective and Sparse Count-Sketch via k-means clustering,"['Yuhan Wang', 'Zijian Lei', 'Liang Lan']",arXiv:2011.12046
+http://arxiv.org/abs/2011.10284v1,2020-11-20T08:55:00Z,"ScalarFlow: A Large-Scale Volumetric Data Set of Real-world Scalar
+  Transport Flows for Computer Animation and Machine Learning","['Marie-Lena Eckert', 'Kiwon Um', 'Nils Thuerey']",arXiv:2011.10284
+http://arxiv.org/abs/2011.10039v2,2020-11-19T18:57:00Z,Creative Sketch Generation,"['Songwei Ge', 'Vedanuj Goswami', 'C. Lawrence Zitnick', 'Devi Parikh']",arXiv:2011.10039
+http://arxiv.org/abs/2011.06133v3,2020-11-12T00:34:08Z,Deep Sketch-Based Modeling: Tips and Tricks,"['Yue Zhong', 'Yulia Gryaditskaya', 'Honggang Zhang', 'Yi-Zhe Song']",arXiv:2011.06133
+http://arxiv.org/abs/2011.06012v2,2020-11-11T19:01:58Z,"SDSS-IV MaNGA: Refining Strong Line Diagnostic Classifications Using
+  Spatially Resolved Gas Dynamics","['David R. Law', 'Xihan Ji', 'Francesco Belfiore', 'Matthew A. Bershady', 'Michele Cappellari', 'Kyle B. Westfall', 'Renbin Yan', 'Dmitry Bizyaev', 'Joel R. Brownstein', 'Niv Drory', 'Brett H. Andrews']",arXiv:2011.06012
+http://arxiv.org/abs/2012.02224v1,2020-11-11T00:31:45Z,"Personality-Driven Gaze Animation with Conditional Generative
+  Adversarial Networks",['Funda Durupinar'],arXiv:2012.02224
+http://arxiv.org/abs/2011.04987v2,2020-11-10T09:15:29Z,CircuitBot: Learning to Survive with Robotic Circuit Drawing,"['Xianglong Tan', 'Weijie Lyu', 'Andre Rosendo']",arXiv:2011.04987
+http://arxiv.org/abs/2011.04965v1,2020-11-10T08:14:36Z,"Unsupervised Contrastive Photo-to-Caricature Translation based on
+  Auto-distortion","['Yuhe Ding', 'Xin Ma', 'Mandi Luo', 'Aihua Zheng', 'Ran He']",arXiv:2011.04965
+http://arxiv.org/abs/2011.04280v1,2020-11-09T09:53:03Z,"Sketch-Inspector: a Deep Mixture Model for High-Quality Sketch
+  Generation of Cats","['Yunkui Pang', 'Zhiqing Pan', 'Ruiyang Sun', 'Shuchong Wang']",arXiv:2011.04280
+http://arxiv.org/abs/2011.03479v1,2020-11-06T17:18:14Z,Massively Parallel Graph Drawing and Representation Learning,"['Christian Böhm', 'Claudia Plant']",arXiv:2011.03479
+http://arxiv.org/abs/2011.00748v1,2020-11-02T05:00:14Z,Interpreting Graph Drawing with Multi-Agent Reinforcement Learning,"['Ilkin Safarli', 'Youjia Zhou', 'Bei Wang']",arXiv:2011.00748
+http://arxiv.org/abs/2010.05655v1,2020-10-12T12:51:02Z,Intuitive Facial Animation Editing Based On A Generative RNN Framework,"['Eloïse Berson', 'Catherine Soladié', 'Nicolas Stoiber']",arXiv:2010.05655
+http://arxiv.org/abs/2010.05047v1,2020-10-10T17:29:38Z,"Drawing with AI -- Exploring Collaborative Inking Experiences Based on
+  Mid-air Pointing and Reinforcement Learning","['Franziska Geiger', 'Michelle Martin', 'Monika Pichlmair', 'Ilhan Aslan', 'Hannes Ritschel', 'Björn Bittner', 'Elisabeth André']",arXiv:2010.05047
+http://arxiv.org/abs/2010.04413v1,2020-10-09T07:50:56Z,"A deep learning based interactive sketching system for fashion images
+  design","['Yao Li', 'Xianggang Yu', 'Xiaoguang Han', 'Nianjuan Jiang', 'Kui Jia', 'Jiangbo Lu']",arXiv:2010.04413
+http://arxiv.org/abs/2010.03997v1,2020-10-07T13:28:13Z,Unconstrained Text Detection in Manga,"['Julián Del Gobbo', 'Rosana Matuk Herrera']",arXiv:2010.03997
+http://arxiv.org/abs/2010.01549v2,2020-10-04T11:31:21Z,Static and Animated 3D Scene Generation from Free-form Text Descriptions,"['Faria Huq', 'Nafees Ahmed', 'Anindya Iqbal']",arXiv:2010.01549
+http://arxiv.org/abs/2010.00246v1,2020-10-01T08:14:32Z,CariMe: Unpaired Caricature Generation with Multiple Exaggerations,"['Zheng Gu', 'Chuanqi Dong', 'Jing Huo', 'Wenbin Li', 'Yang Gao']",arXiv:2010.00246
+http://arxiv.org/abs/2009.13144v1,2020-09-28T08:50:18Z,"Segmentation and Analysis of a Sketched Truss Frame Using Morphological
+  Image Processing Techniques","['Mirsalar Kamari', 'Oguz Gunes']",arXiv:2009.13144
+http://arxiv.org/abs/2009.11835v1,2020-09-24T17:32:57Z,Sketch-based community detection in evolving networks,"['Andre Beckus', 'George K. Atia']",arXiv:2009.11835
+http://arxiv.org/abs/2009.08679v1,2020-09-18T08:15:55Z,Face Sketch Synthesis with Style Transfer using Pyramid Column Feature,"['Chaofeng Chen', 'Xiao Tan', 'Kwan-Yee K. Wong']",arXiv:2009.08679
+http://arxiv.org/abs/2009.08273v1,2020-09-14T12:53:03Z,When compressive learning fails: blame the decoder or the sketch?,"['Vincent Schellekens', 'Laurent Jacques']",arXiv:2009.08273
+http://arxiv.org/abs/2009.05252v1,2020-09-11T06:49:28Z,"Novel and Effective CNN-Based Binarization for Historically Degraded
+  As-built Drawing Maps","['Kuo-Liang Chung', 'De-Wei Hsieh']",arXiv:2009.05252
+http://arxiv.org/abs/2009.04042v1,2020-09-09T00:16:51Z,Unconstrained Text Detection in Manga: a New Dataset and Baseline,"['Julián Del Gobbo', 'Rosana Matuk Herrera']",arXiv:2009.04042
+http://arxiv.org/abs/2009.02715v2,2020-09-06T11:52:17Z,"DeePSD: Automatic Deep Skinning And Pose Space Deformation For 3D
+  Garment Animation","['Hugo Bertiche', 'Meysam Madadi', 'Emilio Tylson', 'Sergio Escalera']",arXiv:2009.02715
+http://arxiv.org/abs/2009.02216v1,2020-09-04T14:20:46Z,SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis,"['Noa Fish', 'Lilach Perry', 'Amit Bermano', 'Daniel Cohen-Or']",arXiv:2009.02216
+http://arxiv.org/abs/2009.00261v1,2020-09-01T06:28:09Z,SketchOpt: Sketch-based Parametric Model Retrieval for Generative Design,"['Mohammad Keshavarzi', 'Clayton Hutson', 'Chin-Yi Cheng', 'Mehdi Nourbakhsh', 'Michael Bergin', 'Mohammad Rahmani Asl']",arXiv:2009.00261
+http://arxiv.org/abs/2008.13343v1,2020-08-31T03:35:21Z,DeepFacePencil: Creating Face Images from Freehand Sketches,"['Yuhang Li', 'Xuejin Chen', 'Binxin Yang', 'Zihan Chen', 'Zhihua Cheng', 'Zheng-Jun Zha']",arXiv:2008.13343
+http://arxiv.org/abs/2009.04806v4,2020-08-27T16:43:28Z,SketchEmbedNet: Learning Novel Concepts by Imitating Drawings,"['Alexander Wang', 'Mengye Ren', 'Richard S. Zemel']",arXiv:2009.04806
+http://arxiv.org/abs/2008.12606v1,2020-08-27T08:59:44Z,"Deep Spatial Transformation for Pose-Guided Person Image Generation and
+  Animation","['Yurui Ren', 'Ge Li', 'Shan Liu', 'Thomas H. Li']",arXiv:2008.12606
+http://arxiv.org/abs/2008.11479v1,2020-08-26T10:34:46Z,"Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image
+  Translation","['Koya Tango', 'Marie Katsurai', 'Hayato Maki', 'Ryosuke Goto']",arXiv:2008.11479
+http://arxiv.org/abs/2008.10583v2,2020-08-24T17:47:52Z,Layered Drawing of Undirected Graphs with Generalized Port Constraints,"['Julian Walter', 'Johannes Zink', 'Joachim Baumeister', 'Alexander Wolff']",arXiv:2008.10583
+http://arxiv.org/abs/2008.09692v1,2020-08-21T22:03:03Z,Coloring Drawings of Graphs,"['Christoph Hertrich', 'Felix Schröder', 'Raphael Steiner']",arXiv:2008.09692
+http://arxiv.org/abs/2008.08827v1,2020-08-20T08:07:04Z,Plane Spanning Trees in Edge-Colored Simple Drawings of $K_n$,"['Oswin Aichholzer', 'Michael Hoffmann', 'Johannes Obenaus', 'Rosna Paul', 'Daniel Perz', 'Nadja Seiferth', 'Birgit Vogtenhuber', 'Alexandra Weinberger']",arXiv:2008.08827
+http://arxiv.org/abs/2008.05225v1,2020-08-12T10:51:24Z,"A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote
+  Sensing Images","['Ushasi Chaudhuri', 'Biplab Banerjee', 'Avik Bhattacharya', 'Mihai Datcu']",arXiv:2008.05225
+http://arxiv.org/abs/2008.05090v2,2020-08-12T03:41:49Z,Learning to Caricature via Semantic Shape Transform,"['Wenqing Chu', 'Wei-Chih Hung', 'Yi-Hsuan Tsai', 'Yu-Ting Chang', 'Yijun Li', 'Deng Cai', 'Ming-Hsuan Yang']",arXiv:2008.05090
+http://arxiv.org/abs/2008.04975v1,2020-08-11T19:22:48Z,"FedSKETCH: Communication-Efficient and Private Federated Learning via
+  Sketching","['Farzin Haddadpour', 'Belhal Karimi', 'Ping Li', 'Xiaoyun Li']",arXiv:2008.04975
+http://arxiv.org/abs/2008.04270v1,2020-08-10T17:10:29Z,Sketching semidefinite programs for faster clustering,"['Dustin G. Mixon', 'Kaiying Xie']",arXiv:2008.04270
+http://arxiv.org/abs/2008.04149v2,2020-08-10T14:22:04Z,Deep Sketch-guided Cartoon Video Inbetweening,"['Xiaoyu Li', 'Bo Zhang', 'Jing Liao', 'Pedro V. Sander']",arXiv:2008.04149
+http://arxiv.org/abs/2008.03834v1,2020-08-09T23:14:16Z,"Dual In-painting Model for Unsupervised Gaze Correction and Animation in
+  the Wild","['Jichao Zhang', 'Jingjing Chen', 'Hao Tang', 'Wei Wang', 'Yan Yan', 'Enver Sangineto', 'Nicu Sebe']",arXiv:2008.03834
+http://arxiv.org/abs/2008.03519v1,2020-08-08T13:31:14Z,"Learning abstract structure for drawing by efficient motor program
+  induction","['Lucas Y. Tian', 'Kevin Ellis', 'Marta Kryven', 'Joshua B. Tenenbaum']",arXiv:2008.03519
+http://arxiv.org/abs/2008.01839v3,2020-08-04T21:29:05Z,Sketching Datasets for Large-Scale Learning (long version),"['Rémi Gribonval', 'Antoine Chatalic', 'Nicolas Keriven', 'Vincent Schellekens', 'Laurent Jacques', 'Philip Schniter']",arXiv:2008.01839
+http://arxiv.org/abs/2007.15171v1,2020-07-30T01:12:33Z,"DroneLight: Drone Draws in the Air using Long Exposure Light Painting
+  and ML","['Roman Ibrahimov', 'Nikolay Zherdev', 'Dzmitry Tsetserukou']",arXiv:2007.15171
+http://arxiv.org/abs/2007.15103v2,2020-07-29T20:50:25Z,"Cross-Modal Hierarchical Modelling for Fine-Grained Sketch Based Image
+  Retrieval","['Aneeshan Sain', 'Ayan Kumar Bhunia', 'Yongxin Yang', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2007.15103
+http://arxiv.org/abs/2007.13332v1,2020-07-27T07:13:10Z,Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation,"['Nan Zhuang', 'Cheng Yang']",arXiv:2007.13332
+http://arxiv.org/abs/2007.12669v1,2020-07-24T17:38:04Z,Scaling Graph Clustering with Distributed Sketches,"['Benjamin W. Priest', 'Alec Dunton', 'Geoffrey Sanders']",arXiv:2007.12669
+http://arxiv.org/abs/2007.12553v1,2020-07-24T15:01:02Z,"Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker
+  Conditional-Mixture Approach","['Chaitanya Ahuja', 'Dong Won Lee', 'Yukiko I. Nakano', 'Louis-Philippe Morency']",arXiv:2007.12553
+http://arxiv.org/abs/2007.11301v3,2020-07-22T09:36:31Z,DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation,"['Alexandre Carlier', 'Martin Danelljan', 'Alexandre Alahi', 'Radu Timofte']",arXiv:2007.11301
+http://arxiv.org/abs/2007.09344v1,2020-07-18T06:38:45Z,"Unsupervised Domain Attention Adaptation Network for Caricature
+  Attribute Recognition","['Wen Ji', 'Kelei He', 'Jing Huo', 'Zheng Gu', 'Yang Gao']",arXiv:2007.09344
+http://arxiv.org/abs/2007.08760v1,2020-07-17T05:12:13Z,Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation,"['Wenbin Wang', 'Ruiping Wang', 'Shiguang Shan', 'Xilin Chen']",arXiv:2007.08760
+http://arxiv.org/abs/2007.07682v2,2020-07-15T13:46:34Z,FetchSGD: Communication-Efficient Federated Learning with Sketching,"['Daniel Rothchild', 'Ashwinee Panda', 'Enayat Ullah', 'Nikita Ivkin', 'Ion Stoica', 'Vladimir Braverman', 'Joseph Gonzalez', 'Raman Arora']",arXiv:2007.07682
+http://arxiv.org/abs/2007.04717v1,2020-07-09T11:36:48Z,Animated GIF optimization by adaptive color local table management,"['Oliver Giudice', 'Dario Allegra', 'Francesco Guarnera', 'Filippo Stanco', 'Sebastiano Battiato']",arXiv:2007.04717
+http://arxiv.org/abs/2007.04101v1,2020-07-07T15:23:22Z,"On Learning Semantic Representations for Million-Scale Free-Hand
+  Sketches","['Peng Xu', 'Yongye Huang', 'Tongtong Yuan', 'Tao Xiang', 'Timothy M. Hospedales', 'Yi-Zhe Song', 'Liang Wang']",arXiv:2007.04101
+http://arxiv.org/abs/2007.02190v2,2020-07-04T21:30:52Z,BézierSketch: A generative model for scalable vector sketches,"['Ayan Das', 'Yongxin Yang', 'Timothy Hospedales', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2007.02190
+http://arxiv.org/abs/2006.13717v2,2020-06-22T22:30:39Z,Artist-Guided Semiautomatic Animation Colorization,"['Harrish Thasarathan', 'Mehran Ebrahimi']",arXiv:2006.13717
+http://arxiv.org/abs/2006.11397v1,2020-06-20T22:43:53Z,"Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-based
+  Image Retrieval","['Anjan Dutta', 'Zeynep Akata']",arXiv:2006.11397
+http://arxiv.org/abs/2006.10649v1,2020-06-18T16:21:04Z,Multi-Density Sketch-to-Image Translation Network,"['Jialu Huang', 'Jing Liao', 'Zhifeng Tan', 'Sam Kwong']",arXiv:2006.10649
+http://arxiv.org/abs/2006.09807v1,2020-06-17T12:21:22Z,"Multi-Domain Level Generation and Blending with Sketches via
+  Example-Driven BSP and Variational Autoencoders","['Sam Snodgrass', 'Anurag Sarkar']",arXiv:2006.09807
+http://arxiv.org/abs/2006.09352v1,2020-06-16T17:47:48Z,A One-Pass Private Sketch for Most Machine Learning Tasks,"['Benjamin Coleman', 'Anshumali Shrivastava']",arXiv:2006.09352
+http://arxiv.org/abs/2006.06165v1,2020-06-11T03:01:43Z,Automatic Photo to Ideophone Manga Matching,"['David A. Shamma', 'Tony Dunnigan', 'Lyndon Kennedy']",arXiv:2006.06165
+http://arxiv.org/abs/2006.02071v1,2020-06-03T07:08:36Z,"Stellar Population Synthesis with Distinct Kinematics: Multi-Age
+  Asymmetric Drift in SDSS-IV MaNGA Galaxies","['Shravan Shetty', 'Matthew A. Bershady', 'Kyle B. Westfall', 'Michele Cappellari', 'Niv Drory', 'David R. Law', 'Renbin Yan', 'Kevin Bundy']",arXiv:2006.02071
+http://arxiv.org/abs/2006.01047v2,2020-06-01T16:20:23Z,Deep Generation of Face Images from Sketches,"['Shu-Yu Chen', 'Wanchao Su', 'Lin Gao', 'Shihong Xia', 'Hongbo Fu']",arXiv:2006.01047
+http://arxiv.org/abs/2005.12744v1,2020-05-26T14:13:07Z,"Circumnuclear regions of different BPT types in star-forming MaNGA
+  galaxies: AGN detectability","['L. S. Pilyugin', 'E. K. Grebel', 'I. A. Zinchenko', 'M. A. Lara-Lopez', 'Y. A. Nefedyev', 'V. M. Shulga']",arXiv:2005.12744
+http://arxiv.org/abs/2005.11489v1,2020-05-23T07:47:46Z,"AnimGAN: A Spatiotemporally-Conditioned Generative Adversarial Network
+  for Character Animation","['Maryam Sadat Mirzaei', 'Kourosh Meshgi', 'Etienne Frigo', 'Toyoaki Nishida']",arXiv:2005.11489
+http://arxiv.org/abs/2005.09159v1,2020-05-19T01:35:44Z,"Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from
+  Transformers by Self-supervised Learning of Sketch Gestalt","['Hangyu Lin', 'Yanwei Fu', 'Yu-Gang Jiang', 'Xiangyang Xue']",arXiv:2005.09159
+http://arxiv.org/abs/2005.07702v1,2020-05-15T19:26:11Z,"Generative Adversarial Networks for photo to Hayao Miyazaki style
+  cartoons","['Filip Andersson', 'Simon Arvidsson']",arXiv:2005.07702
+http://arxiv.org/abs/2005.07328v2,2020-05-15T02:28:35Z,Exploring Crowd Co-creation Scenarios for Sketches,"['Devi Parikh', 'C. Lawrence Zitnick']",arXiv:2005.07328
+http://arxiv.org/abs/2005.05751v1,2020-05-12T13:21:27Z,Unpaired Motion Style Transfer from Video to Animation,"['Kfir Aberman', 'Yijia Weng', 'Dani Lischinski', 'Daniel Cohen-Or', 'Baoquan Chen']",arXiv:2005.05751
+http://arxiv.org/abs/2005.05207v1,2020-05-11T15:52:50Z,"Reference-Based Sketch Image Colorization using Augmented-Self Reference
+  and Dense Semantic Correspondence","['Junsoo Lee', 'Eungyeup Kim', 'Yunsung Lee', 'Dongjun Kim', 'Jaehyuk Chang', 'Jaegul Choo']",arXiv:2005.05207
+http://arxiv.org/abs/2004.10780v1,2020-04-22T18:27:46Z,"Diagram Image Retrieval using Sketch-Based Deep Learning and Transfer
+  Learning","['Manish Bhattarai', 'Diane Oyen', 'Juan Castorena', 'Liping Yang', 'Brendt Wohlberg']",arXiv:2004.10780
+http://arxiv.org/abs/2004.10634v2,2020-04-22T15:23:42Z,"MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology
+  of Manga Drawing","['Hao Su', 'Jianwei Niu', 'Xuefeng Liu', 'Qingfeng Li', 'Jiahe Cui', 'Ji Wan']",arXiv:2004.10634
+http://arxiv.org/abs/2005.02133v1,2020-04-20T16:00:01Z,Quality Guided Sketch-to-Photo Image Synthesis,"['Uche Osahor', 'Hadi Kazemi', 'Ali Dabouei', 'Nasser Nasrabadi']",arXiv:2005.02133
+http://arxiv.org/abs/2004.09190v2,2020-04-20T10:34:52Z,"Landmark Detection and 3D Face Reconstruction for Caricature using a
+  Nonlinear Parametric Model","['Hongrui Cai', 'Yudong Guo', 'Zhuang Peng', 'Juyong Zhang']",arXiv:2004.09190
+http://arxiv.org/abs/2004.06718v3,2020-04-14T06:50:08Z,"Line Art Correlation Matching Feature Transfer Network for Automatic
+  Animation Colorization","['Zhang Qian', 'Wang Bo', 'Wen Wei', 'Li Hai', 'Liu Jun Hui']",arXiv:2004.06718
+http://arxiv.org/abs/2004.02377v1,2020-04-06T02:27:51Z,AutoToon: Automatic Geometric Warping for Face Cartoon Generation,"['Julia Gong', 'Yannick Hold-Geoffroy', 'Jingwan Lu']",arXiv:2004.02377
+http://arxiv.org/abs/2004.00226v1,2020-04-01T04:24:01Z,"Synthesis and Edition of Ultrasound Images via Sketch Guided Progressive
+  Growing GANs","['Jiamin Liang', 'Xin Yang', 'Haoming Li', 'Yi Wang', 'Manh The Van', 'Haoran Dou', 'Chaoyu Chen', 'Jinghui Fang', 'Xiaowen Liang', 'Zixin Mai', 'Guowen Zhu', 'Zhiyi Chen', 'Dong Ni']",arXiv:2004.00226
+http://arxiv.org/abs/2003.14121v2,2020-03-31T11:53:50Z,"HATSUKI : An anime character like robot figure platform with anime-style
+  expressions and imitation learning based action generation","['Pin-Chu Yang', 'Mohammed Al-Sada', 'Chang-Chieh Chiu', 'Kevin Kuo', 'Tito Pradhono Tomo', 'Kanata Suzuki', 'Nelson Yalta', 'Kuo-Hao Shu', 'Tetsuya Ogata']",arXiv:2003.14121
+http://arxiv.org/abs/2003.10685v2,2020-03-24T06:57:40Z,Deep Line Art Video Colorization with a Few References,"['Min Shi', 'Jia-Qi Zhang', 'Shu-Yu Chen', 'Lin Gao', 'Yu-Kun Lai', 'Fang-Lue Zhang']",arXiv:2003.10685
+http://arxiv.org/abs/2003.10333v3,2020-03-23T15:37:49Z,Neural Contours: Learning to Draw Lines from 3D Shapes,"['Difan Liu', 'Mohamed Nabail', 'Aaron Hertzmann', 'Evangelos Kalogerakis']",arXiv:2003.10333
+http://arxiv.org/abs/2003.09869v1,2020-03-22T12:07:23Z,"Progressive Domain-Independent Feature Decomposition Network for
+  Zero-Shot Sketch-Based Image Retrieval","['Xinxun Xu', 'Cheng Deng', 'Muli Yang', 'Hao Wang']",arXiv:2003.09869
+http://arxiv.org/abs/2003.08578v2,2020-03-19T05:28:31Z,"SDSS-IV MaNGA: Bayesian analysis of the star formation history of
+  low-mass galaxies in the local Universe","['Shuang Zhou', 'H. J. Mo', 'Cheng Li', 'Médéric Boquien', 'Graziano Rossi']",arXiv:2003.08578
+http://arxiv.org/abs/2003.06841v1,2020-03-15T14:42:15Z,"3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Face
+  Photos","['Zipeng Ye', 'Ran Yi', 'Minjing Yu', 'Juyong Zhang', 'Yu-Kun Lai', 'Yong-jin Liu']",arXiv:2003.06841
+http://arxiv.org/abs/2003.06182v1,2020-03-13T10:10:59Z,"A Wide Dataset of Ear Shapes and Pinna-Related Transfer Functions
+  Generated by Random Ear Drawings","['Corentin Guezenoc', 'Renaud Seguier']",arXiv:2003.06182
+http://arxiv.org/abs/2003.05471v3,2020-03-11T18:19:00Z,Deep Vectorization of Technical Drawings,"['Vage Egiazarian', 'Oleg Voynov', 'Alexey Artemov', 'Denis Volkhonskiy', 'Aleksandr Safin', 'Maria Taktasheva', 'Denis Zorin', 'Evgeny Burnaev']",arXiv:2003.05471
+http://arxiv.org/abs/2003.05787v1,2020-03-10T18:08:19Z,"Cross-modal Multi-task Learning for Graphic Recognition of Caricature
+  Face","['Zuheng Ming', 'Jean-Christophe Burie', 'Muhammad Muzzamil Luqman']",arXiv:2003.05787
+http://arxiv.org/abs/2003.02683v5,2020-03-05T14:54:10Z,SketchyCOCO: Image Generation from Freehand Scene Sketches,"['Chengying Gao', 'Qi Liu', 'Qi Xu', 'Limin Wang', 'Jianzhuang Liu', 'Changqing Zou']",arXiv:2003.02683
+http://arxiv.org/abs/2003.00678v2,2020-03-02T05:48:55Z,SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks,"['Lumin Yang', 'Jiajie Zhuang', 'Hongbo Fu', 'Xiangzhi Wei', 'Kun Zhou', 'Youyi Zheng']",arXiv:2003.00678
+http://arxiv.org/abs/2002.11812v2,2020-02-26T21:57:17Z,Learning to Shadow Hand-drawn Sketches,"['Qingyuan Zheng', 'Zhuoru Li', 'Adam Bargteil']",arXiv:2002.11812
+http://arxiv.org/abs/2002.10381v1,2020-02-24T17:11:53Z,Sketchformer: Transformer-based Representation for Sketched Structure,"['Leo Sampaio Ferraz Ribeiro', 'Tu Bui', 'John Collomosse', 'Moacir Ponti']",arXiv:2002.10381
+http://arxiv.org/abs/2002.10310v4,2020-02-24T15:36:02Z,"Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image
+  Retrieval","['Ayan Kumar Bhunia', 'Yongxin Yang', 'Timothy M. Hospedales', 'Tao Xiang', 'Yi-Zhe Song']",arXiv:2002.10310
+http://arxiv.org/abs/2002.09812v1,2020-02-23T03:07:31Z,"Sketching Transformed Matrices with Applications to Natural Language
+  Processing","['Yingyu Liang', 'Zhao Song', 'Mengdi Wang', 'Lin F. Yang', 'Xin Yang']",arXiv:2002.09812
+http://arxiv.org/abs/2002.09461v1,2020-02-21T18:28:35Z,Fine-Grained Instance-Level Sketch-Based Video Retrieval,"['Peng Xu', 'Kun Liu', 'Tao Xiang', 'Timothy M. Hospedales', 'Zhanyu Ma', 'Jun Guo', 'Yi-Zhe Song']",arXiv:2002.09461
+http://arxiv.org/abs/2002.00867v1,2020-02-03T16:28:29Z,Deep Self-Supervised Representation Learning for Free-Hand Sketch,"['Peng Xu', 'Zeyu Song', 'Qiyue Yin', 'Yi-Zhe Song', 'Liang Wang']",arXiv:2002.00867
+http://arxiv.org/abs/2002.00864v5,2020-02-03T16:17:50Z,"Optimal Iterative Sketching with the Subsampled Randomized Hadamard
+  Transform","['Jonathan Lacotte', 'Sifan Liu', 'Edgar Dobriban', 'Mert Pilanci']",arXiv:2002.00864
+http://arxiv.org/abs/2001.07922v1,2020-01-22T09:19:12Z,"Get Rid of Suspended Animation Problem: Deep Diffusive Neural Network on
+  Graph Semi-Supervised Classification",['Jiawei Zhang'],arXiv:2001.07922
+http://arxiv.org/abs/2001.06657v1,2020-01-18T12:18:28Z,Stacked Adversarial Network for Zero-Shot Sketch based Image Retrieval,"['Anubha Pandey', 'Ashish Mishra', 'Vinay Kumar Verma', 'Anurag Mittal', 'Hema A. Murthy']",arXiv:2001.06657
+http://arxiv.org/abs/2001.05744v3,2020-01-16T11:31:21Z,"SketchDesc: Learning Local Sketch Descriptors for Multi-view
+  Correspondence","['Deng Yu', 'Lei Li', 'Youyi Zheng', 'Manfred Lau', 'Yi-Zhe Song', 'Chiew-Lan Tai', 'Hongbo Fu']",arXiv:2001.05744
+http://arxiv.org/abs/2001.02890v1,2020-01-09T08:57:50Z,"Deep Plastic Surgery: Robust and Controllable Image Editing with
+  Human-Drawn Sketches","['Shuai Yang', 'Zhangyang Wang', 'Jiaying Liu', 'Zongming Guo']",arXiv:2001.02890
+http://arxiv.org/abs/2001.02600v2,2020-01-08T16:23:56Z,Deep Learning for Free-Hand Sketch: A Survey and A Toolbox,"['Peng Xu', 'Timothy M. Hospedales', 'Qiyue Yin', 'Yi-Zhe Song', 'Tao Xiang', 'Liang Wang']",arXiv:2001.02600
+http://arxiv.org/abs/2001.01870v1,2020-01-07T03:08:30Z,"MW-GAN: Multi-Warping GAN for Caricature Generation with Multi-Style
+  Geometric Exaggeration","['Haodi Hou', 'Jing Huo', 'Jing Wu', 'Yu-Kun Lai', 'Yang Gao']",arXiv:2001.01870
+http://arxiv.org/abs/1912.11258v3,2019-12-24T09:28:10Z,Multi-Graph Transformer for Free-Hand Sketch Recognition,"['Peng Xu', 'Chaitanya K. Joshi', 'Xavier Bresson']",arXiv:1912.11258
+http://arxiv.org/abs/1912.09581v1,2019-12-19T22:41:43Z,Line Drawings of Natural Scenes Guide Visual Attention,"['Kai-Fu Yang', 'Wen-Wen Jiang', 'Teng-Fei Zhan', 'Yong-Jie Li']",arXiv:1912.09581
+http://arxiv.org/abs/1912.10479v1,2019-12-17T22:53:23Z,"Facial Synthesis from Visual Attributes via Sketch using Multi-Scale
+  Generators","['Xing Di', 'Vishal M. Patel']",arXiv:1912.10479
+http://arxiv.org/abs/1912.05099v1,2019-12-11T03:20:54Z,"RoboCoDraw: Robotic Avatar Drawing with GAN-based Style Transfer and
+  Time-efficient Path Optimization","['Tianying Wang', 'Wei Qi Toh', 'Hao Zhang', 'Xiuchao Sui', 'Shaohua Li', 'Yong Liu', 'Wei Jing']",arXiv:1912.05099
+http://arxiv.org/abs/1912.00905v1,2019-12-02T16:33:15Z,Matrix sketching for supervised classification with imbalanced classes,"['Roberta Falcone', 'Angela Montanari', 'Laura Anderlucci']",arXiv:1912.00905
+http://arxiv.org/abs/1911.13251v2,2019-11-29T17:43:45Z,"Zero-Shot Sketch-Based Image Retrieval with Structure-aware Asymmetric
+  Disentanglement","['Jiangtong Li', 'Zhixin Ling', 'Li Niu', 'Liqing Zhang']",arXiv:1911.13251
+http://arxiv.org/abs/1912.05019v2,2019-11-29T14:31:33Z,SketchZooms: Deep multi-view descriptors for matching line drawings,"['Pablo Navarro', 'José Ignacio Orlando', 'Claudio Delrieux', 'Emmanuel Iarussi']",arXiv:1912.05019
+http://arxiv.org/abs/1911.09224v1,2019-11-21T00:07:43Z,"FLNet: Landmark Driven Fetching and Learning Network for Faithful
+  Talking Facial Animation Synthesis","['Kuangxiao Gu', 'Yuqian Zhou', 'Thomas Huang']",arXiv:1911.09224
+http://arxiv.org/abs/1911.08444v1,2019-11-19T18:10:56Z,MANGA: Method Agnostic Neural-policy Generalization and Adaptation,"['Homanga Bharadhwaj', 'Shoichiro Yamaguchi', 'Shin-ichi Maeda']",arXiv:1911.08444
+http://arxiv.org/abs/1911.06102v1,2019-11-14T14:15:14Z,CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator,"['Yugang Chen', 'Muchun Chen', 'Chaoyue Song', 'Bingbing Ni']",arXiv:1911.06102
+http://arxiv.org/abs/1911.04470v1,2019-11-10T02:53:06Z,"Semi-Heterogeneous Three-Way Joint Embedding Network for Sketch-Based
+  Image Retrieval","['Jianjun Lei', 'Yuxin Song', 'Bo Peng', 'Zhanyu Ma', 'Ling Shao', 'Yi-Zhe Song']",arXiv:1911.04470
+http://arxiv.org/abs/1911.03341v1,2019-11-08T16:04:08Z,Dynamic Deep Multi-task Learning for Caricature-Visual Face Recognition,"['Zuheng Ming', 'Jean-Christophe Burie', 'Muhammad Muzzamil Luqman']",arXiv:1911.03341
+http://arxiv.org/abs/1911.01812v1,2019-11-05T14:38:18Z,Enhancing the Privacy of Federated Learning with Sketching,"['Zaoxing Liu', 'Tian Li', 'Virginia Smith', 'Vyas Sekar']",arXiv:1911.01812
+http://arxiv.org/abs/1911.00972v2,2019-11-03T21:19:13Z,"Privacy for Free: Communication-Efficient Learning with Differential
+  Privacy Using Sketches","['Tian Li', 'Zaoxing Liu', 'Vyas Sekar', 'Virginia Smith']",arXiv:1911.00972
+http://arxiv.org/abs/1911.00426v1,2019-11-01T15:32:42Z,"Cali-Sketch: Stroke Calibration and Completion for High-Quality Face
+  Image Generation from Poorly-Drawn Sketches","['Weihao Xia', 'Yujiu Yang', 'Jing-Hao Xue']",arXiv:1911.00426
+http://arxiv.org/abs/1910.13008v1,2019-10-28T23:49:26Z,Sketch-Fill-A-R: A Persona-Grounded Chit-Chat Generation Framework,"['Michael Shum', 'Stephan Zheng', 'Wojciech Kryściński', 'Caiming Xiong', 'Richard Socher']",arXiv:1910.13008
+http://arxiv.org/abs/1910.13830v1,2019-10-28T19:41:28Z,"Extreme Classification in Log Memory using Count-Min Sketch: A Case
+  Study of Amazon Search with 50M Products","['Tharun Medini', 'Qixuan Huang', 'Yiqiu Wang', 'Vijai Mohan', 'Anshumali Shrivastava']",arXiv:1910.13830
+http://arxiv.org/abs/1910.11637v2,2019-10-25T11:52:25Z,Mixing realities for sketch retrieval in Virtual Reality,"['Daniele Giunchi', 'Stuart james', 'Donald Degraen', 'Anthony Steed']",arXiv:1910.11637
+http://arxiv.org/abs/1910.10441v2,2019-10-23T10:10:14Z,"A Fast and Compact Invertible Sketch for Network-Wide Heavy Flow
+  Detection","['Lu Tang', 'Qun Huang', 'Patrick P. C. Lee']",arXiv:1910.10441
+http://arxiv.org/abs/1910.09233v1,2019-10-21T09:37:46Z,"CNN based Extraction of Panels/Characters from Bengali Comic Book Page
+  Images","['Arpita Dutta', 'Samit Biswas']",arXiv:1910.09233
+http://arxiv.org/abs/1910.08930v1,2019-10-20T08:59:11Z,"Sketch2Code: Transformation of Sketches to UI in Real-time Using Deep
+  Neural Network","['Vanita Jain', 'Piyush Agrawal', 'Subham Banga', 'Rishabh Kapoor', 'Shashwat Gulyani']",arXiv:1910.08930
+http://arxiv.org/abs/1910.08462v1,2019-10-18T15:15:09Z,Animation Synthesis Triggered by Vocal Mimics,"['Adrien Nivaggioli', 'Damien Rohmer']",arXiv:1910.08462
+http://arxiv.org/abs/1910.07192v1,2019-10-16T07:20:58Z,"Animating Landscape: Self-Supervised Learning of Decoupled Motion and
+  Appearance for Single-Image Video Synthesis","['Yuki Endo', 'Yoshihiro Kanamori', 'Shigeru Kuriyama']",arXiv:1910.07192
+http://arxiv.org/abs/1910.06038v2,2019-10-14T11:15:07Z,Sketch-Specific Data Augmentation for Freehand Sketch Recognition,"['Ying Zheng', 'Hongxun Yao', 'Xiaoshuai Sun', 'Shengping Zhang', 'Sicheng Zhao', 'Fatih Porikli']",arXiv:1910.06038
+http://arxiv.org/abs/1910.06023v2,2019-10-14T10:21:44Z,"Deep Semantic Parsing of Freehand Sketches with Homogeneous
+  Transformation, Soft-Weighted Loss, and Staged Learning","['Ying Zheng', 'Hongxun Yao', 'Xiaoshuai Sun']",arXiv:1910.06023
+http://arxiv.org/abs/1910.05595v1,2019-10-12T16:36:54Z,"Facial Expression Recognition Using Human to Animated-Character
+  Expression Translation","['Kamran Ali', 'Ilkin Isler', 'Charles Hughes']",arXiv:1910.05595
+http://arxiv.org/abs/1910.05139v1,2019-10-11T12:47:55Z,"SDSS-IV MaNGA: New benchmark for the connection between stellar angular
+  momentum and environment: a study of about 900 groups/clusters","['Mark T. Graham', 'Michele Cappellari', 'Matthew A. Bershady', 'Niv Drory']",arXiv:1910.05139
+http://arxiv.org/abs/1910.02060v3,2019-10-04T17:40:51Z,Neural Puppet: Generative Layered Cartoon Characters,"['Omid Poursaeed', 'Vladimir G. Kim', 'Eli Shechtman', 'Jun Saito', 'Serge Belongie']",arXiv:1910.02060
+http://arxiv.org/abs/1909.12383v1,2019-09-26T20:53:12Z,"Graph-Preserving Grid Layout: A Simple Graph Drawing Method for Graph
+  Classification using CNNs","['Yecheng Lyu', 'Xinming Huang', 'Ziming Zhang']",arXiv:1909.12383
+http://arxiv.org/abs/1909.12200v3,2019-09-26T15:45:23Z,"Scaling data-driven robotics with reward sketching and batch
+  reinforcement learning","['Serkan Cabi', 'Sergio Gómez Colmenarejo', 'Alexander Novikov', 'Ksenia Konyushkova', 'Scott Reed', 'Rae Jeong', 'Konrad Zolna', 'Yusuf Aytar', 'David Budden', 'Mel Vecerik', 'Oleg Sushkov', 'David Barker', 'Jonathan Scholz', 'Misha Denil', 'Nando de Freitas', 'Ziyu Wang']",arXiv:1909.12200
+http://arxiv.org/abs/1909.11957v4,2019-09-26T07:43:56Z,"Drawing early-bird tickets: Towards more efficient training of deep
+  networks","['Haoran You', 'Chaojian Li', 'Pengfei Xu', 'Yonggan Fu', 'Yue Wang', 'Xiaohan Chen', 'Richard G. Baraniuk', 'Zhangyang Wang', 'Yingyan Lin']",arXiv:1909.11957
+http://arxiv.org/abs/1909.11201v3,2019-09-24T21:55:26Z,Matrix Sketching for Secure Collaborative Machine Learning,"['Shusen Wang', 'Mengjiao Zhang']",arXiv:1909.11201
+http://arxiv.org/abs/1909.11081v2,2019-09-24T17:56:37Z,Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation,"['Arnab Ghosh', 'Richard Zhang', 'Puneet K. Dokania', 'Oliver Wang', 'Alexei A. Efros', 'Philip H. S. Torr', 'Eli Shechtman']",arXiv:1909.11081
+http://arxiv.org/abs/1909.09821v3,2019-09-21T13:17:03Z,"Drawing Phase Diagrams of Random Quantum Systems by Deep Learning the
+  Wave Functions","['Tomi Ohtsuki', 'Tomohiro Mano']",arXiv:1909.09821
+http://arxiv.org/abs/1909.08552v1,2019-09-18T16:22:08Z,"An Automated Engineering Assistant: Learning Parsers for Technical
+  Drawings","['Dries Van Daele', 'Nicholas Decleyre', 'Herman Dubois', 'Wannes Meert']",arXiv:1909.08552
+http://arxiv.org/abs/1909.08313v3,2019-09-18T09:33:10Z,Unsupervised Sketch-to-Photo Synthesis,"['Runtao Liu', 'Qian Yu', 'Stella Yu']",arXiv:1909.08313
+http://arxiv.org/abs/1909.07088v2,2019-09-16T09:45:49Z,BasketballGAN: Generating Basketball Play Simulation Through Sketching,"['Hsin-Ying Hsieh', 'Chieh-Yu Chen', 'Yu-Shuen Wang', 'Jung-Hong Chuang']",arXiv:1909.07088
+http://arxiv.org/abs/1909.05729v2,2019-09-12T14:46:12Z,"GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended
+  Animation","['Jiawei Zhang', 'Lin Meng']",arXiv:1909.05729
+http://arxiv.org/abs/1908.08151v1,2019-08-22T00:24:06Z,Multi-level Graph Drawing using Infomap Clustering,"['Seok-Hee Hong', 'Peter Eades', 'Marnijati Torkel', 'Ziyang Wang', 'David Chae', 'Sungpack Hong', 'Daniel Langerenken', 'Hassan Chafi']",arXiv:1908.08151
+http://arxiv.org/abs/1908.07198v1,2019-08-20T07:39:21Z,DeepSketchHair: Deep Sketch-based 3D Hair Modeling,"['Yuefan Shen', 'Changgeng Zhang', 'Hongbo Fu', 'Kun Zhou', 'Youyi Zheng']",arXiv:1908.07198
+http://arxiv.org/abs/1908.05848v2,2019-08-16T05:09:57Z,"Sketch-Driven Regular Expression Generation from Natural Language and
+  Examples","['Xi Ye', 'Qiaochu Chen', 'Xinyu Wang', 'Isil Dillig', 'Greg Durrett']",arXiv:1908.05848
+http://arxiv.org/abs/1908.05840v1,2019-08-16T04:24:38Z,"Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing
+  Loss","['Hyunsu Kim', 'Ho Young Jhoo', 'Eunhyeok Park', 'Sungjoo Yoo']",arXiv:1908.05840
+http://arxiv.org/abs/1908.05389v1,2019-08-15T01:35:36Z,"SFSegNet: Parse Freehand Sketches using Deep Fully Convolutional
+  Networks","['Junkun Jiang', 'Ruomei Wang', 'Shujin Lin', 'Fei Wang']",arXiv:1908.05389
+http://arxiv.org/abs/1908.04346v1,2019-08-06T12:14:56Z,"SkrGAN: Sketching-rendering Unconditional Generative Adversarial
+  Networks for Medical Image Synthesis","['Tianyang Zhang', 'Huazhu Fu', 'Yitian Zhao', 'Jun Cheng', 'Mengjie Guo', 'Zaiwang Gu', 'Bing Yang', 'Yuting Xiao', 'Shenghua Gao', 'Jiang Liu']",arXiv:1908.04346
+http://arxiv.org/abs/1907.13394v3,2019-07-31T09:48:41Z,Cartoon Face Recognition: A Benchmark Dataset,"['Yi Zheng', 'Yifan Zhao', 'Mengyuan Ren', 'He Yan', 'Xiangju Lu', 'Junhui Liu', 'Jia Li']",arXiv:1907.13394
+http://arxiv.org/abs/1907.12845v1,2019-07-30T11:53:49Z,"Overlap-free Drawing of Generalized Pythagoras Trees for Hierarchy
+  Visualization","['Tanja Munz', 'Michael Burch', 'Toon van Benthem', 'Yoeri Poels', 'Fabian Beck', 'Daniel Weiskopf']",arXiv:1907.12845
+http://arxiv.org/abs/1907.11040v3,2019-07-17T15:34:44Z,DeepDrawing: A Deep Learning Approach to Graph Drawing,"['Yong Wang', 'Zhihua Jin', 'Qianwen Wang', 'Weiwei Cui', 'Tengfei Ma', 'Huamin Qu']",arXiv:1907.11040
+http://arxiv.org/abs/1907.06417v2,2019-07-15T10:28:34Z,"Quick, Stat!: A Statistical Analysis of the Quick, Draw! Dataset","['Raul Fernandez-Fernandez', 'Juan G. Victores', 'David Estevez', 'Carlos Balaguer']",arXiv:1907.06417
+http://arxiv.org/abs/1907.01424v1,2019-07-02T15:00:50Z,Landmark Assisted CycleGAN for Cartoon Face Generation,"['Ruizheng Wu', 'Xiaodong Gu', 'Xin Tao', 'Xiaoyong Shen', 'Yu-Wing Tai', 'J iaya Jia']",arXiv:1907.01424
+http://arxiv.org/abs/1907.01004v3,2019-07-01T18:20:03Z,Symmetry Detection and Classification in Drawings of Graphs,"['Felice De Luca', 'Md Iqbal Hossain', 'Stephen Kobourov']",arXiv:1907.01004
+http://arxiv.org/abs/1906.06337v1,2019-06-14T16:52:27Z,Realistic Speech-Driven Facial Animation with GANs,"['Konstantinos Vougioukas', 'Stavros Petridis', 'Maja Pantic']",arXiv:1906.06337
+http://arxiv.org/abs/1906.04845v1,2019-06-11T22:21:19Z,"Discrepancy, Coresets, and Sketches in Machine Learning","['Zohar Karnin', 'Edo Liberty']",arXiv:1906.04845
+http://arxiv.org/abs/1906.11880v1,2019-06-05T17:58:28Z,Style Generator Inversion for Image Enhancement and Animation,"['Aviv Gabbay', 'Yedid Hoshen']",arXiv:1906.11880
+http://arxiv.org/abs/1906.00544v1,2019-06-03T03:12:29Z,3D Magic Mirror: Automatic Video to 3D Caricature Translation,"['Yudong Guo', 'Luo Jiang', 'Lin Cai', 'Juyong Zhang']",arXiv:1906.00544
+http://arxiv.org/abs/1905.12730v2,2019-05-29T21:10:58Z,Recursive Sketches for Modular Deep Learning,"['Badih Ghazi', 'Rina Panigrahy', 'Joshua R. Wang']",arXiv:1905.12730
+http://arxiv.org/abs/1905.11142v1,2019-05-27T11:40:21Z,"Audio2Face: Generating Speech/Face Animation from Single Audio with
+  Attention-Based Bidirectional LSTM Networks","['Guanzhong Tian', 'Yi Yuan', 'Yong liu']",arXiv:1905.11142
+http://arxiv.org/abs/1905.04510v1,2019-05-11T12:07:16Z,Deep Zero-Shot Learning for Scene Sketch,"['Yao Xie', 'Peng Xu', 'Zhanyu Ma']",arXiv:1905.04510
+http://arxiv.org/abs/1905.02327v2,2019-05-07T02:20:42Z,Semantic Adversarial Network for Zero-Shot Sketch-Based Image Retrieval,"['Xinxun Xu', 'Hao Wang', 'Leida Li', 'Cheng Deng']",arXiv:1905.02327
+http://arxiv.org/abs/1904.12371v1,2019-04-28T19:15:33Z,Counterexample-Driven Synthesis for Probabilistic Program Sketches,"['Milan Češka', 'Christian Hensel', 'Sebastian Junges', 'Joost-Pieter Katoen']",arXiv:1904.12371
+http://arxiv.org/abs/1904.12201v1,2019-04-27T20:16:04Z,Human-Centered Emotion Recognition in Animated GIFs,"['Zhengyuan Yang', 'Yixuan Zhang', 'Jiebo Luo']",arXiv:1904.12201
+http://arxiv.org/abs/1904.12615v1,2019-04-20T11:23:40Z,"Everyone is a Cartoonist: Selfie Cartoonization with Attentive
+  Adversarial Networks","['Xinyu Li', 'Wei Zhang', 'Tong Shen', 'Tao Mei']",arXiv:1904.12615
+http://arxiv.org/abs/1904.08910v1,2019-04-18T17:43:42Z,"Combating the Elsagate phenomenon: Deep learning architectures for
+  disturbing cartoons","['Akari Ishikawa', 'Edson Bollis', 'Sandra Avila']",arXiv:1904.08910
+http://arxiv.org/abs/1904.08542v1,2019-04-18T00:11:04Z,Generative Model for Zero-Shot Sketch-Based Image Retrieval,"['Vinay Kumar Verma', 'Aakansha Mishra', 'Ashish Mishra', 'Piyush Rai']",arXiv:1904.08542
+http://arxiv.org/abs/1904.08223v1,2019-04-17T12:29:28Z,Estimating Cardinalities with Deep Sketches,"['Andreas Kipf', 'Dimitri Vorona', 'Jonas Müller', 'Thomas Kipf', 'Bernhard Radke', 'Viktor Leis', 'Peter Boncz', 'Thomas Neumann', 'Alfons Kemper']",arXiv:1904.08223
+http://arxiv.org/abs/1904.08029v1,2019-04-17T00:38:40Z,"Optimal loss-carry-forward taxation for Lévy risk processes stopped
+  at general draw-down time","['Wenyuan Wang', 'Zhimin Zhang']",arXiv:1904.08029
+http://arxiv.org/abs/1904.05440v1,2019-04-10T21:04:54Z,Generating Animations from Screenplays,"['Yeyao Zhang', 'Eleftheria Tsipidi', 'Sasha Schriber', 'Mubbasir Kapadia', 'Markus Gross', 'Ashutosh Modi']",arXiv:1904.05440
+http://arxiv.org/abs/1904.03620v1,2019-04-07T10:23:47Z,Teaching GANs to Sketch in Vector Format,"['Varshaneya V', 'S Balasubramanian', 'Vineeth N Balasubramanian']",arXiv:1904.03620
+http://arxiv.org/abs/1904.03451v2,2019-04-06T14:02:50Z,Doodle to Search: Practical Zero-Shot Sketch-based Image Retrieval,"['Sounak Dey', 'Pau Riba', 'Anjan Dutta', 'Josep Llados', 'Yi-Zhe Song']",arXiv:1904.03451
+http://arxiv.org/abs/1904.03208v3,2019-04-05T18:04:40Z,"Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image
+  Retrieval","['Qing Liu', 'Lingxi Xie', 'Huiyu Wang', 'Alan Yuille']",arXiv:1904.03208
+http://arxiv.org/abs/1904.01971v2,2019-04-03T12:33:47Z,"Stacked Semantic-Guided Network for Zero-Shot Sketch-Based Image
+  Retrieval","['Hao Wang', 'Cheng Deng', 'Xinxu Xu', 'Wei Liu', 'Xinbo Gao', 'Dacheng Tao']",arXiv:1904.01971
+http://arxiv.org/abs/1904.01509v1,2019-04-02T15:50:11Z,"FEAFA: A Well-Annotated Dataset for Facial Expression Analysis and 3D
+  Facial Animation","['Yanfu Yan', 'Ke Lu', 'Jian Xue', 'Pengcheng Gao', 'Jiayi Lyu']",arXiv:1904.01509
+http://arxiv.org/abs/1903.09623v1,2019-03-22T17:34:21Z,"""The Perfect One"": Understanding Communication Practices and Challenges
+  with Animated GIFs","['Jialun ""Aaron"" Jiang', 'Casey Fiesler', 'Jed R. Brubaker']",arXiv:1903.09623
+http://arxiv.org/abs/1903.08496v2,2019-03-20T13:19:44Z,Drawing planar graphs with few segments on a polynomial grid,"['Philipp Kindermann', 'Tamara Mchedlidze', 'Thomas Schneck', 'Antonios Symvonis']",arXiv:1903.08496
+http://arxiv.org/abs/1903.07190v1,2019-03-17T22:43:28Z,Learning-Based Animation of Clothing for Virtual Try-On,"['Igor Santesteban', 'Miguel A. Otaduy', 'Dan Casas']",arXiv:1903.07190
+http://arxiv.org/abs/1903.03372v1,2019-03-08T11:20:39Z,"Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-based
+  Image Retrieval","['Anjan Dutta', 'Zeynep Akata']",arXiv:1903.03372
+http://arxiv.org/abs/1903.02546v1,2019-03-06T18:52:33Z,"A Sketch of Some Stochastic Models and Analysis Methods for Fiber Bundle
+  Failure under Increasing Tensile Load","['Shuang Li', 'James Lynch']",arXiv:1903.02546
+http://arxiv.org/abs/1903.01072v3,2019-03-04T05:09:16Z,COMIC: Towards A Compact Image Captioning Model with Attention,"['Jia Huei Tan', 'Chee Seng Chan', 'Joon Huang Chuah']",arXiv:1903.01072
+http://arxiv.org/abs/1903.00117v2,2019-03-01T01:13:30Z,"A Sketch Based 3D Shape Retrieval Approach Based on Efficient Deep
+  Point-to-Subspace Metric Learning","['Yinjie Lei', 'Ziqin Zhou', 'Pingping Zhang', 'Yulan Guo', 'Zijun Ma', 'Lingqiao Liu']",arXiv:1903.00117
+http://arxiv.org/abs/1902.08137v1,2019-02-21T16:49:12Z,Deep CNN-based Speech Balloon Detection and Segmentation for Comic Books,"['David Dubray', 'Jochen Laubrock']",arXiv:1902.08137
+http://arxiv.org/abs/1902.06838v1,2019-02-18T23:28:30Z,"SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch
+  and Color","['Youngjoo Jo', 'Jongyoul Park']",arXiv:1902.06838
+http://arxiv.org/abs/1902.06349v2,2019-02-17T23:21:34Z,Learning to Infer Program Sketches,"['Maxwell Nye', 'Luke Hewitt', 'Joshua Tenenbaum', 'Armando Solar-Lezama']",arXiv:1902.06349
+http://arxiv.org/abs/1902.05630v1,2019-02-14T22:34:43Z,"Using Key Player Analysis as a Method for Examining the Role of
+  Community Animators in Technology Adoption","['Jomara Sandbulte', 'Jessica Kropczynski', 'John M. Carroll']",arXiv:1902.05630
+http://arxiv.org/abs/1901.09774v2,2019-01-28T16:20:20Z,Attribute-Guided Sketch Generation,"['Hao Tang', 'Xinya Chen', 'Wei Wang', 'Dan Xu', 'Jason J. Corso', 'Nicu Sebe', 'Yan Yan']",arXiv:1901.09774
+http://arxiv.org/abs/1901.08969v1,2019-01-24T11:35:37Z,"A Zero-Shot Learning application in Deep Drawing process using
+  Hyper-Process Model","['João Reis', 'Gil Gonçalves']",arXiv:1901.08969
+http://arxiv.org/abs/1901.03991v1,2019-01-13T14:23:44Z,RNN-based Generative Model for Fine-Grained Sketching,"['Andrin Jenal', 'Nikolay Savinov', 'Torsten Sattler', 'Gaurav Chaurasia']",arXiv:1901.03991
+http://arxiv.org/abs/1901.03427v2,2019-01-10T23:04:46Z,Stroke-based sketched symbol reconstruction and segmentation,"['Kurmanbek Kaiyrbekov', 'Metin Sezgin']",arXiv:1901.03427
+http://arxiv.org/abs/1901.00866v3,2019-01-03T19:00:01Z,"The Data Analysis Pipeline for the SDSS-IV MaNGA IFU Galaxy Survey:
+  Emission-Line Modeling","['Francesco Belfiore', 'Kyle B. Westfall', 'Adam Schaefer', 'Michele Cappellari', 'Xihan Ji', 'Matthew A. Bershady', 'Christy Tremonti', 'David R. Law', 'Renbin Yan', 'Kevin Bundy', 'Shravan Shetty', 'Niv Drory', 'Daniel Thomas', 'Eric Emsellem', 'Sebastián F. Sánchez']",arXiv:1901.00866
+http://arxiv.org/abs/1901.00856v2,2019-01-03T18:59:59Z,"The Data Analysis Pipeline for the SDSS-IV MaNGA IFU Galaxy Survey:
+  Overview","['Kyle B. Westfall', 'Michele Cappellari', 'Matthew A. Bershady', 'Kevin Bundy', 'Francesco Belfiore', 'Xihan Ji', 'David R. Law', 'Adam Schaefer', 'Shravan Shetty', 'Christy A. Tremonti', 'Renbin Yan', 'Brett H. Andrews', 'Joel R. Brownstein', 'Brian Cherinka', 'Lodovico Coccato', 'Niv Drory', 'Claudia Maraston', 'Taniya Parikh', 'José R. Sánchez-Gallego', 'Daniel Thomas', 'Anne-Marie Weijmans', 'Jorge Barrera-Ballesteros', 'Cheng Du', 'Daniel Goddard', 'Niu Li', 'Karen Masters', 'Héctor Javier Ibarra Medel', 'Sebastián F. Sánchez', 'Meng Yang', 'Zheng Zheng', 'Shuang Zhou']",arXiv:1901.00856
+http://arxiv.org/abs/1812.11029v1,2018-12-28T15:13:21Z,Multi-column Point-CNN for Sketch Segmentation,"['Fei Wang', 'Shujin Lin', 'Hanhui Li', 'Hefeng Wu', 'Junkun Jiang', 'Ruomei Wang', 'Xiaonan Luo']",arXiv:1812.11029
+http://arxiv.org/abs/1812.10902v1,2018-12-28T06:16:23Z,"Deep Convolutional Neural Networks in the Face of Caricature: Identity
+  and Image Revealed","['Matthew Q. Hill', 'Connor J. Parde', 'Carlos D. Castillo', 'Y. Ivette Colon', 'Rajeev Ranjan', 'Jun-Cheng Chen', 'Volker Blanz', ""Alice J. O'Toole""]",arXiv:1812.10902
+http://arxiv.org/abs/1812.08861v3,2018-12-20T21:45:56Z,Animating Arbitrary Objects via Deep Motion Transfer,"['Aliaksandr Siarohin', 'Stéphane Lathuilière', 'Sergey Tulyakov', 'Elisa Ricci', 'Nicu Sebe']",arXiv:1812.08861
+http://arxiv.org/abs/1812.08438v1,2018-12-20T09:35:26Z,"A Pontryaghin Maximum Principle Approach For The Optimization Of
+  Dividends/consumption Of Spectrally Negative Markov Processes, Until A
+  Generalized Draw-down Time","['Florin Avram', 'Dan Goreac']",arXiv:1812.08438
+http://arxiv.org/abs/1812.04929v2,2018-12-12T13:13:02Z,Semi-Supervised Learning for Face Sketch Synthesis in the Wild,"['Chaofeng Chen', 'Wei Liu', 'Xiao Tan', 'Kwan-Yee K. Wong']",arXiv:1812.04929
+http://arxiv.org/abs/1812.04275v1,2018-12-11T08:57:31Z,Learning Large Euclidean Margin for Sketch-based Image Retrieval,"['Peng Lu', 'Gao Huang', 'Yanwei Fu', 'Guodong Guo', 'Hangyu Lin']",arXiv:1812.04275
+http://arxiv.org/abs/1812.03473v1,2018-12-09T12:36:38Z,Comixify: Transform video into a comics,"['Maciej Pęśko', 'Adam Svystun', 'Paweł Andruszkiewicz', 'Przemysław Rokita', 'Tomasz Trzciński']",arXiv:1812.03473
+http://arxiv.org/abs/1812.02466v1,2018-12-06T11:20:58Z,"Deep Embedding using Bayesian Risk Minimization with Application to
+  Sketch Recognition","['Anand Mishra', 'Ajeet Kumar Singh']",arXiv:1812.02466
+http://arxiv.org/abs/1811.11796v3,2018-11-28T19:40:32Z,"Cartoon-to-real: An Approach to Translate Cartoon to Realistic Images
+  using GAN","['K M Arefeen Sultan', 'Labiba Kanij Rupty', 'Nahidul Islam Pranto', 'Sayed Khan Shuvo', 'Mohammad Imrul Jubair']",arXiv:1811.11796
+http://arxiv.org/abs/1811.11375v2,2018-11-28T03:52:18Z,"Instance-level Sketch-based Retrieval by Deep Triplet Classification
+  Siamese Network","['Peng Lu', 'Hangyu Lin', 'Yanwei Fu', 'Shaogang Gong', 'Yu-Gang Jiang', 'Xiangyang Xue']",arXiv:1811.11375
+http://arxiv.org/abs/1811.10100v3,2018-11-25T21:36:01Z,WarpGAN: Automatic Caricature Generation,"['Yichun Shi', 'Debayan Deb', 'Anil K. Jain']",arXiv:1811.10100
+http://arxiv.org/abs/1811.09845v3,2018-11-24T14:42:18Z,"Tell, Draw, and Repeat: Generating and Modifying Images Based on
+  Continual Linguistic Instruction","['Alaaeldin El-Nouby', 'Shikhar Sharma', 'Hannes Schulz', 'Devon Hjelm', 'Layla El Asri', 'Samira Ebrahimi Kahou', 'Yoshua Bengio', 'Graham W. Taylor']",arXiv:1811.09845
+http://arxiv.org/abs/1811.09799v2,2018-11-24T09:39:41Z,"SDSS-IV MaNGA: Stellar initial mass function variation inferred from
+  Bayesian analysis of the integral field spectroscopy of early type galaxies","['Shuang Zhou', 'H. J. Mo', 'Cheng Li', 'Zheng Zheng', 'Niu Li', 'Cheng Du', 'Shude Mao', 'Taniya Parikh', 'Richard R. Lane', 'Daniel Thomas']",arXiv:1811.09799
+http://arxiv.org/abs/1811.08170v1,2018-11-20T10:44:34Z,Sketch-R2CNN: An Attentive Network for Vector Sketch Recognition,"['Lei Li', 'Changqing Zou', 'Youyi Zheng', 'Qingkun Su', 'Hongbo Fu', 'Chiew-Lan Tai']",arXiv:1811.08170
+http://arxiv.org/abs/1811.06287v1,2018-11-15T10:44:35Z,Sketch based Reduced Memory Hough Transform,"['Levi Offen', 'Michael Werman']",arXiv:1811.06287
+http://arxiv.org/abs/1811.05705v1,2018-11-14T09:58:33Z,"An analysis of a fair division protocol for drawing legislative
+  districts","['Jessica De Silva', 'Brady Gales', 'Bryson Kagy', 'David Offner']",arXiv:1811.05705
+http://arxiv.org/abs/1811.03214v1,2018-11-08T01:36:51Z,Facial Landmark Detection for Manga Images,"['Marco Stricker', 'Olivier Augereau', 'Koichi Kise', 'Motoi Iwata']",arXiv:1811.03214
+http://arxiv.org/abs/1811.03151v1,2018-11-07T21:23:31Z,"DragonPaint: Rule based bootstrapping for small data with an application
+  to cartoon coloring",['K. Gretchen Greene'],arXiv:1811.03151
+http://arxiv.org/abs/1811.02580v2,2018-11-06T19:00:07Z,"SDSS-IV MaNGA PyMorph Photometric and Deep Learning Morphological
+  Catalogs and implications for bulge properties and stellar angular momentum","['J. -L. Fischer', 'H. Domínguez Sánchez', 'M. Bernardi']",arXiv:1811.02580
+http://arxiv.org/abs/1811.00785v1,2018-11-02T09:05:43Z,Drawing Clustered Graphs on Disk Arrangements,"['Tamara Mchedlidze', 'Marcel Radermacher', 'Ignaz Rutter', 'Nina Zimbel']",arXiv:1811.00785
+http://arxiv.org/abs/1811.00445v2,2018-11-01T15:40:23Z,"CariGAN: Caricature Generation through Weakly Paired Adversarial
+  Learning","['Wenbin Li', 'Wei Xiong', 'Haofu Liao', 'Jing Huo', 'Yang Gao', 'Jiebo Luo']",arXiv:1811.00445
+http://arxiv.org/abs/1811.00249v1,2018-11-01T05:59:53Z,"Examining Performance of Sketch-to-Image Translation Models with
+  Multiclass Automatically Generated Paired Training Data",['Dichao Hu'],arXiv:1811.00249
+http://arxiv.org/abs/1811.00222v2,2018-11-01T04:39:20Z,CariGANs: Unpaired Photo-to-Caricature Translation,"['Kaidi Cao', 'Jing Liao', 'Lu Yuan']",arXiv:1811.00222
+http://arxiv.org/abs/1810.05977v1,2018-10-14T05:25:49Z,Learning to Sketch with Deep Q Networks and Demonstrated Strokes,"['Tao Zhou', 'Chen Fang', 'Zhaowen Wang', 'Jimei Yang', 'Byungmoon Kim', 'Zhili Chen', 'Jonathan Brandt', 'Demetri Terzopoulos']",arXiv:1810.05977
+http://arxiv.org/abs/1810.05361v1,2018-10-12T05:22:56Z,Unsupervised Facial Geometry Learning for Sketch to Photo Synthesis,"['Hadi Kazemi', 'Fariborz Taherkhani', 'Nasser M. Nasrabadi']",arXiv:1810.05361
+http://arxiv.org/abs/1810.02042v1,2018-10-04T03:43:16Z,"Learning Bidirectional LSTM Networks for Synthesizing 3D Mesh Animation
+  Sequences","['Yi-Ling Qiao', 'Lin Gao', 'Yu-Kun Lai', 'Shihong Xia']",arXiv:1810.02042
+http://arxiv.org/abs/1809.03137v3,2018-09-10T04:59:25Z,"Tracking by Animation: Unsupervised Learning of Multi-Object Attentive
+  Trackers","['Zhen He', 'Jian Li', 'Daxue Liu', 'Hangen He', 'David Barber']",arXiv:1809.03137
+http://arxiv.org/abs/1809.01890v1,2018-09-06T09:09:40Z,"Full-body High-resolution Anime Generation with Progressive
+  Structure-conditional Generative Adversarial Networks","['Koichi Hamada', 'Kentaro Tachibana', 'Tianqi Li', 'Hiroto Honda', 'Yusuke Uchida']",arXiv:1809.01890
+http://arxiv.org/abs/1809.01726v2,2018-09-05T20:37:53Z,Neural Comic Style Transfer: Case Study,"['Maciej Pęśko', 'Tomasz Trzciński']",arXiv:1809.01726
+http://arxiv.org/abs/1809.00628v1,2018-09-03T15:30:09Z,The Weighted Barycenter Drawing Recognition Problem,"['Peter Eades', 'Patrick Healy', 'Nikola S. Nikolov']",arXiv:1809.00628
+http://arxiv.org/abs/1808.10005v1,2018-08-29T18:32:29Z,Recognition and Drawing of Stick Graphs,"['Felice De Luca', 'Md Iqbal Hossain', 'Stephen Kobourov', 'Anna Lubiw', 'Debajyoti Mondal']",arXiv:1808.10005
+http://arxiv.org/abs/1808.09094v1,2018-08-28T02:44:05Z,PyDraw: a GUI drawing generator based on Tkinter and its design concept,"['Jinwei Lin', 'Aimin Zhou']",arXiv:1808.09094
+http://arxiv.org/abs/1809.02665v1,2018-08-26T01:42:29Z,"DreamNLP: Novel NLP System for Clinical Report Metadata Extraction using
+  Count Sketch Data Streaming Algorithm: Preliminary Results","['Sanghyun Choi', 'Nikita Ivkin', 'Vladimir Braverman', 'Michael A. Jacobs']",arXiv:1809.02665
+http://arxiv.org/abs/1808.03240v2,2018-08-09T17:17:47Z,"User-Guided Deep Anime Line Art Colorization with Conditional
+  Adversarial Networks","['Yuanzheng Ci', 'Xinzhu Ma', 'Zhihui Wang', 'Haojie Li', 'Zhongxuan Luo']",arXiv:1808.03240
+http://arxiv.org/abs/1808.02313v1,2018-08-07T11:51:20Z,Deep Factorised Inverse-Sketching,"['Kaiyue Pang', 'Da Li', 'Jifei Song', 'Yi-Zhe Song', 'Tao Xiang', 'Timothy M. Hospedales']",arXiv:1808.02313
+http://arxiv.org/abs/1808.01745v1,2018-08-06T06:46:02Z,"Scaling notifications beyond alerts: from subtly drawing attention up to
+  forcing the user to take action","['Denys J. C. Matthies', 'Laura Milena Daza Parra', 'Bodo Urban']",arXiv:1808.01745
+http://arxiv.org/abs/1808.00059v1,2018-07-31T20:10:01Z,Deep Sketch-Photo Face Recognition Assisted by Facial Attributes,"['Seyed Mehdi Iranmanesh', 'Hadi Kazemi', 'Sobhan Soleymani', 'Ali Dabouei', 'Nasser M. Nasrabadi']",arXiv:1808.00059
+http://arxiv.org/abs/1807.11847v1,2018-07-31T14:56:02Z,Fast Sketch Segmentation and Labeling with Deep Learning,"['Lei Li', 'Hongbo Fu', 'Chiew-Lan Tai']",arXiv:1807.11847
+http://arxiv.org/abs/1807.11724v1,2018-07-31T09:42:16Z,A Zero-Shot Framework for Sketch-based Image Retrieval,"['Sasi Kiran Yelamarthi', 'Shiva Krishna Reddy', 'Ashish Mishra', 'Anurag Mittal']",arXiv:1807.11724
+http://arxiv.org/abs/1807.11688v1,2018-07-31T07:19:14Z,"Deep Cross Modal Learning for Caricature Verification and
+  Identification(CaVINet)","['Jatin Garg', 'Skand Vishwanath Peri', 'Himanshu Tolani', 'Narayanan C Krishnan']",arXiv:1807.11688
+http://arxiv.org/abs/1807.11503v2,2018-07-30T18:00:53Z,"SDSS IV MaNGA: Characterizing Non-Axisymmetric Motions in Galaxy
+  Velocity Fields Using the Radon Transform","['David V. Stark', 'Kevin A. Bundy', 'Kyle Westfall', 'Matt Bershady', 'Anne-Marie Weijmans', 'Karen L. Masters', 'Sandor Kruk', 'Jarle Brinchmann', 'Juan Soler', 'Roberto Abraham', 'Edmond Cheung', 'Dmitry Bizyaev', 'Niv Drory', 'Alexandre Roman Lopes', 'David R. Law']",arXiv:1807.11503
+http://arxiv.org/abs/1807.04369v2,2018-07-11T22:28:50Z,"Differentially-Private ""Draw and Discard"" Machine Learning","['Vasyl Pihur', 'Aleksandra Korolova', 'Frederick Liu', 'Subhash Sankuratripati', 'Moti Yung', 'Dachuan Huang', 'Ruogu Zeng']",arXiv:1807.04369
+http://arxiv.org/abs/1807.01806v1,2018-07-04T22:51:44Z,"Deep Cross-modality Adaptation via Semantics Preserving Adversarial
+  Learning for Sketch-based 3D Shape Retrieval","['Jiaxin Chen', 'Yi Fang']",arXiv:1807.01806
+http://arxiv.org/abs/1806.04217v2,2018-06-11T19:57:51Z,"Aligned plane drawings of the generalized Delaunay-graphs for
+  pseudo-disks","['Balázs Keszegh', 'Dömötör Pálvölgyi']",arXiv:1806.04217
+http://arxiv.org/abs/1805.10927v3,2018-05-25T17:19:13Z,Scalable and Robust Community Detection with Randomized Sketching,"['Mostafa Rahmani', 'Andre Beckus', 'Adel Karimian', 'George Atia']",arXiv:1805.10927
+http://arxiv.org/abs/1805.09313v4,2018-05-23T17:54:32Z,End-to-End Speech-Driven Facial Animation with Temporal GANs,"['Konstantinos Vougioukas', 'Stavros Petridis', 'Maja Pantic']",arXiv:1805.09313
+http://arxiv.org/abs/1805.08453v1,2018-05-22T08:30:51Z,"Rule-Based Drawing, Analysis and Generation of Graphs for Mason's Mark
+  Design",['Thom Fruehwirth'],arXiv:1805.08453
+http://arxiv.org/abs/1805.07997v1,2018-05-21T11:43:12Z,"Anime Style Space Exploration Using Metric Learning and Generative
+  Adversarial Networks","['Sitao Xiang', 'Hao Li']",arXiv:1805.07997
+http://arxiv.org/abs/1805.00247v1,2018-05-01T09:13:14Z,Learning to Sketch with Shortcut Cycle Consistency,"['Jifei Song', 'Kaiyue Pang', 'Yi-Zhe Song', 'Tao Xiang', 'Timothy Hospedales']",arXiv:1805.00247
+http://arxiv.org/abs/1804.11182v1,2018-04-30T13:38:31Z,Sketch-a-Classifier: Sketch-based Photo Classifier Generation,"['Conghui Hu', 'Da Li', 'Yi-Zhe Song', 'Tao Xiang', 'Timothy M. Hospedales']",arXiv:1804.11182
+http://arxiv.org/abs/1804.10819v1,2018-04-28T15:23:25Z,"Learning Cross-Modal Deep Embeddings for Multi-Object Image Retrieval
+  using Text and Sketch","['Sounak Dey', 'Anjan Dutta', 'Suman K. Ghosh', 'Ernest Valveny', 'Josep Lladós', 'Umapada Pal']",arXiv:1804.10819
+http://arxiv.org/abs/1804.08972v2,2018-04-24T12:03:45Z,FaceShop: Deep Sketch-based Face Image Editing,"['Tiziano Portenier', 'Qiyang Hu', 'Attila Szabó', 'Siavash Arjomand Bigdeli', 'Paolo Favaro', 'Matthias Zwicker']",arXiv:1804.08972
+http://arxiv.org/abs/1804.04804v1,2018-04-13T07:12:02Z,Learning Deep Sketch Abstraction,"['Umar Riaz Muhammad', 'Yongxin Yang', 'Yi-Zhe Song', 'Tao Xiang', 'Timothy M. Hospedales']",arXiv:1804.04804
+http://arxiv.org/abs/1804.03082v1,2018-04-09T16:15:50Z,"Attribute-Centered Loss for Soft-Biometrics Guided Face Sketch-Photo
+  Recognition","['Hadi Kazemi', 'Sobhan Soleymani', 'Ali Dabouei', 'Mehdi Iranmanesh', 'Nasser M. Nasrabadi']",arXiv:1804.03082
+http://arxiv.org/abs/1804.03065v2,2018-04-09T15:47:36Z,Efficient Anomaly Detection via Matrix Sketching,"['Vatsal Sharan', 'Parikshit Gopalan', 'Udi Wieder']",arXiv:1804.03065
+http://arxiv.org/abs/1804.02975v1,2018-04-09T13:44:42Z,"Face Sketch Synthesis Style Similarity:A New Structure Co-occurrence
+  Texture Measure","['Deng-Ping Fan', 'ShengChuan Zhang', 'Yu-Huan Wu', 'Ming-Ming Cheng', 'Bo Ren', 'Rongrong Ji', 'Paul L Rosin']",arXiv:1804.02975
+http://arxiv.org/abs/1804.02941v1,2018-04-09T12:31:07Z,"Distribution-Aware Binarization of Neural Networks for Sketch
+  Recognition","['Ameya Prabhu', 'Vishal Batchu', 'Sri Aurobindo Munagala', 'Rohit Gajawada', 'Anoop Namboodiri']",arXiv:1804.02941
+http://arxiv.org/abs/1804.01753v2,2018-04-05T09:59:00Z,"Bringing Cartoons to Life: Towards Improved Cartoon Face Detection and
+  Recognition Systems","['Saurav Jha', 'Nikhil Agarwal', 'Suneeta Agarwal']",arXiv:1804.01753
+http://arxiv.org/abs/1804.01401v1,2018-04-04T13:39:26Z,SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval,"['Peng Xu', 'Yongye Huang', 'Tongtong Yuan', 'Kaiyue Pang', 'Yi-Zhe Song', 'Tao Xiang', 'Timothy M. Hospedales', 'Zhanyu Ma', 'Jun Guo']",arXiv:1804.01401
+http://arxiv.org/abs/1803.09578v1,2018-03-26T13:35:14Z,"Why Comparing Single Performance Scores Does Not Allow to Draw
+  Conclusions About Machine Learning Approaches","['Nils Reimers', 'Iryna Gurevych']",arXiv:1803.09578
+http://arxiv.org/abs/1803.08670v2,2018-03-23T06:54:48Z,Object Detection for Comics using Manga109 Annotations,"['Toru Ogawa', 'Atsushi Otsubo', 'Rei Narita', 'Yusuke Matsui', 'Toshihiko Yamasaki', 'Kiyoharu Aizawa']",arXiv:1803.08670
+http://arxiv.org/abs/1803.06647v1,2018-03-18T11:54:22Z,Line Artist: A Multiple Style Sketch to Painting Synthesis Scheme,"['Jinning Li', 'Siqi Liu', 'Mengyao Cao']",arXiv:1803.06647
+http://arxiv.org/abs/1803.03259v6,2018-03-08T12:19:16Z,"A reciprocal formulation of non-exponential radiative transfer. 1:
+  Sketch and motivation","[""Eugene d'Eon""]",arXiv:1803.03259
+http://arxiv.org/abs/1803.01504v1,2018-03-05T05:30:08Z,"Cross-Paced Representation Learning with Partial Curricula for
+  Sketch-based Image Retrieval","['Dan Xu', 'Xavier Alameda-Pineda', 'Jingkuan Song', 'Elisa Ricci', 'Nicu Sebe']",arXiv:1803.01504
+http://arxiv.org/abs/1802.06852v1,2018-02-19T21:08:50Z,Be-Educated: Multimedia Learning through 3D Animation,"['Zeeshan Bhatti', 'Ahsan Abro', 'Abdul Rehman Gillal', 'Mostafa Karbasi']",arXiv:1802.06852
+http://arxiv.org/abs/1802.04877v2,2018-02-13T22:19:10Z,"Learning via social awareness: Improving a deep generative sketching
+  model with facial feedback","['Natasha Jaques', 'Jennifer McCleary', 'Jesse Engel', 'David Ha', 'Fred Bertsch', 'Rosalind Picard', 'Douglas Eck']",arXiv:1802.04877
+http://arxiv.org/abs/1801.09356v1,2018-01-29T03:54:03Z,"Game of Sketches: Deep Recurrent Models of Pictionary-style Word
+  Guessing","['Ravi Kiran Sarvadevabhatla', 'Shiv Surya', 'Trisha Mittal', 'Venkatesh Babu Radhakrishnan']",arXiv:1801.09356
+http://arxiv.org/abs/1801.02753v2,2018-01-09T02:07:26Z,SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis,"['Wengling Chen', 'James Hays']",arXiv:1801.02753
+http://arxiv.org/abs/1801.00723v1,2018-01-02T16:51:22Z,"Deep Learning for Identifying Potential Conceptual Shifts for
+  Co-creative Drawing","['Pegah Karimi', 'Nicholas Davis', 'Kazjon Grace', 'Mary Lou Maher']",arXiv:1801.00723
+http://arxiv.org/abs/1801.00551v2,2018-01-02T05:15:26Z,Sketching and Clustering Metric Measure Spaces,"['Facundo Mémoli', 'Anastasios Sidiropoulos', 'Kritika Singhal']",arXiv:1801.00551
+http://arxiv.org/abs/1801.00077v1,2017-12-30T02:57:09Z,"Face Synthesis from Visual Attributes via Sketch using Conditional VAEs
+  and GANs","['Xing Di', 'Vishal M. Patel']",arXiv:1801.00077
+http://arxiv.org/abs/1712.08002v1,2017-12-20T12:58:46Z,Human Action Recognition: Pose-based Attention draws focus to Hands,"['Fabien Baradel', 'Christian Wolf', 'Julien Mille']",arXiv:1712.08002
+http://arxiv.org/abs/1712.02849v3,2017-12-07T20:09:53Z,Sketched Clustering via Hybrid Approximate Message Passing,"['Evan Byrne', 'Antoine Chatalic', 'Remi Gribonval', 'Philip Schniter']",arXiv:1712.02849
+http://arxiv.org/abs/1712.00899v4,2017-12-04T04:24:19Z,Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs,"['Jun Yu', 'Xingxin Xu', 'Fei Gao', 'Shengjie Shi', 'Meng Wang', 'Dacheng Tao', 'Qingming Huang']",arXiv:1712.00899
+http://arxiv.org/abs/1711.10735v2,2017-11-29T09:12:50Z,Unpaired Photo-to-Caricature Translation on Faces in the Wild,"['Ziqiang Zheng', 'Wang Chao', 'Zhibin Yu', 'Nan Wang', 'Haiyong Zheng', 'Bing Zheng']",arXiv:1711.10735
+http://arxiv.org/abs/1711.08972v2,2017-11-24T14:19:25Z,Image Generation from Sketch Constraint Using Contextual GAN,"['Yongyi Lu', 'Shangzhe Wu', 'Yu-Wing Tai', 'Chi-Keung Tang']",arXiv:1711.08972
+http://arxiv.org/abs/1711.03368v1,2017-11-09T13:29:33Z,One-pass Person Re-identification by Sketch Online Discriminant Analysis,"['Wei-Hong Li', 'Zhuowei Zhong', 'Wei-Shi Zheng']",arXiv:1711.03368
+http://arxiv.org/abs/1711.03536v1,2017-11-08T20:26:40Z,"Picasso, Matisse, or a Fake? Automated Analysis of Drawings at the
+  Stroke Level for Attribution and Authentication","['Ahmed Elgammal', 'Yan Kang', 'Milko Den Leeuw']",arXiv:1711.03536
+http://arxiv.org/abs/1710.10182v2,2017-10-27T14:56:45Z,"High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial
+  Networks","['Lidan Wang', 'Vishwanath A. Sindagi', 'Vishal M. Patel']",arXiv:1710.10182
+http://arxiv.org/abs/1710.07850v1,2017-10-21T20:14:00Z,Deep Neural Network Approximation using Tensor Sketching,"['Shiva Prasad Kasiviswanathan', 'Nina Narodytska', 'Hongxia Jin']",arXiv:1710.07850
+http://arxiv.org/abs/1710.02914v1,2017-10-09T02:42:01Z,Face Sketch Matching via Coupled Deep Transform Learning,"['Shruti Nagpal', 'Maneet Singh', 'Richa Singh', 'Mayank Vatsa', 'Afzel Noore', 'Angshul Majumdar']",arXiv:1710.02914
+http://arxiv.org/abs/1710.01453v1,2017-10-04T03:37:39Z,"Content-Adaptive Sketch Portrait Generation by Decompositional
+  Representation Learning","['Dongyu Zhang', 'Liang Lin', 'Tianshui Chen', 'Xian Wu', 'Wenwei Tan', 'Ebroul Izquierdo']",arXiv:1710.01453
+http://arxiv.org/abs/1710.00920v2,2017-10-02T21:44:32Z,End-to-end Learning for 3D Facial Animation from Raw Waveforms of Speech,"['Hai X. Pham', 'Yuting Wang', 'Vladimir Pavlovic']",arXiv:1710.00920
+http://arxiv.org/abs/1710.00763v7,2017-10-02T16:31:24Z,"You can't always sketch what you want: Understanding Sensemaking in
+  Visual Query Systems","['Doris Jung-Lin Lee', 'John Lee', 'Tarique Siddiqui', 'Jaewoo Kim', 'Karrie Karahalios', 'Aditya Parameswaran']",arXiv:1710.00763
+http://arxiv.org/abs/1710.00755v1,2017-09-29T13:59:48Z,A Study of Cross-domain Generative Models applied to Cartoon Series,"['Eman T. Hassan', 'David J. Crandall']",arXiv:1710.00755
+http://arxiv.org/abs/1709.04121v1,2017-09-13T03:22:27Z,Sketch-pix2seq: a Model to Generate Sketches of Multiple Categories,"['Yajing Chen', 'Shikui Tu', 'Yuqi Yi', 'Lei Xu']",arXiv:1709.04121
+http://arxiv.org/abs/1709.01295v1,2017-09-05T09:10:59Z,"SketchParse : Towards Rich Descriptions for Poorly Drawn Sketches using
+  Multi-Task Hierarchical Deep Networks","['Ravi Kiran Sarvadevabhatla', 'Isht Dwivedi', 'Abhijat Biswas', 'Sahil Manocha', 'R. Venkatesh Babu']",arXiv:1709.01295
+http://arxiv.org/abs/1709.01584v2,2017-09-03T16:19:36Z,Using Posters to Recommend Anime and Mangas in a Cold-Start Scenario,"['Jill-Jênn Vie', 'Florian Yger', 'Ryan Lahfa', 'Basile Clement', 'Kévin Cocchi', 'Thomas Chalumeau', 'Hisashi Kashima']",arXiv:1709.01584
+http://arxiv.org/abs/1708.09815v2,2017-08-31T16:59:52Z,Experimental analysis of the accessibility of drawings with few segments,"['Philipp Kindermann', 'Wouter Meulemans', 'André Schulz']",arXiv:1708.09815
+http://arxiv.org/abs/1708.05509v1,2017-08-18T04:57:28Z,"Towards the Automatic Anime Characters Creation with Generative
+  Adversarial Networks","['Yanghua Jin', 'Jiakai Zhang', 'Minjun Li', 'Yingtao Tian', 'Huachun Zhu', 'Zhihao Fang']",arXiv:1708.05509
+http://arxiv.org/abs/1708.02716v1,2017-08-09T04:42:25Z,"Sequential Dual Deep Learning with Shape and Texture Features for Sketch
+  Recognition","['Qi Jia', 'Meiyu Yu', 'Xin Fan', 'Haojie Li']",arXiv:1708.02716
+http://arxiv.org/abs/1708.00224v1,2017-08-01T09:46:54Z,Fast Preprocessing for Robust Face Sketch Synthesis,"['Yibing Song', 'Jiawei Zhang', 'Linchao Bao', 'Qingxiong Yang']",arXiv:1708.00224
+http://arxiv.org/abs/1707.08390v4,2017-07-26T11:49:48Z,3D Sketching using Multi-View Deep Volumetric Prediction,"['Johanna Delanoy', 'Mathieu Aubry', 'Phillip Isola', 'Alexei A. Efros', 'Adrien Bousseau']",arXiv:1707.08390
+http://arxiv.org/abs/1707.08289v1,2017-07-26T05:05:48Z,Fast Deep Matting for Portrait Animation on Mobile Phone,"['Bingke Zhu', 'Yingying Chen', 'Jinqiao Wang', 'Si Liu', 'Bo Zhang', 'Ming Tang']",arXiv:1707.08289
+http://arxiv.org/abs/1707.07196v2,2017-07-22T17:13:26Z,Sketched Subspace Clustering,"['Panagiotis A. Traganitis', 'Georgios B. Giannakis']",arXiv:1707.07196
+http://arxiv.org/abs/1707.06626v2,2017-07-20T17:35:52Z,"Learning to Draw Samples with Amortized Stein Variational Gradient
+  Descent","['Yihao Feng', 'Dilin Wang', 'Qiang Liu']",arXiv:1707.06626
+http://arxiv.org/abs/1706.06918v1,2017-06-21T14:11:32Z,cGAN-based Manga Colorization Using a Single Training Image,"['Paulina Hensman', 'Kiyoharu Aizawa']",arXiv:1706.06918
+http://arxiv.org/abs/1706.06759v4,2017-06-21T06:52:09Z,Comicolorization: Semi-Automatic Manga Colorization,"['Chie Furusawa', 'Kazuyuki Hiroshiba', 'Keisuke Ogaki', 'Yuri Odagiri']",arXiv:1706.06759
+http://arxiv.org/abs/1706.03319v2,2017-06-11T07:56:32Z,"Style Transfer for Anime Sketches with Enhanced Residual U-net and
+  Auxiliary Classifier GAN","['Lvmin Zhang', 'Yi Ji', 'Xin Lin']",arXiv:1706.03319
+http://arxiv.org/abs/1706.02042v1,2017-06-07T04:02:27Z,"DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and
+  Caricature Modeling","['Xiaoguang Han', 'Chang Gao', 'Yizhou Yu']",arXiv:1706.02042
+http://arxiv.org/abs/1706.02021v1,2017-06-07T01:53:44Z,Network Sketching: Exploiting Binary Structure in Deep CNNs,"['Yiwen Guo', 'Anbang Yao', 'Hao Zhao', 'Yurong Chen']",arXiv:1706.02021
+http://arxiv.org/abs/1705.09888v1,2017-05-28T03:45:26Z,"Cross-modal Subspace Learning for Fine-grained Sketch-based Image
+  Retrieval","['Peng Xu', 'Qiyue Yin', 'Yongye Huang', 'Yi-Zhe Song', 'Zhanyu Ma', 'Liang Wang', 'Tao Xiang', 'W. Bastiaan Kleijn', 'Jun Guo']",arXiv:1705.09888
+http://arxiv.org/abs/1705.01908v2,2017-05-04T17:04:28Z,"Auto-painter: Cartoon Image Generation from Sketch by Using Conditional
+  Generative Adversarial Networks","['Yifan Liu', 'Zengchang Qin', 'Zhenbo Luo', 'Hua Wang']",arXiv:1705.01908
+http://arxiv.org/abs/1704.03946v1,2017-04-12T22:20:06Z,Asymmetric Feature Maps with Application to Sketch Based Retrieval,"['Giorgos Tolias', 'Ondřej Chum']",arXiv:1704.03946
+http://arxiv.org/abs/1704.03057v1,2017-04-10T21:03:51Z,"DRAW: Deep networks for Recognizing styles of Artists Who illustrate
+  children's books","['Samet Hicsonmez', 'Nermin Samet', 'Fadime Sener', 'Pinar Duygulu']",arXiv:1704.03057
+http://arxiv.org/abs/1703.10877v3,2017-03-31T12:15:02Z,"Phase Space Sketching for Crystal Image Analysis based on
+  Synchrosqueezed Transforms","['Jianfeng Lu', 'Haizhao Yang']",arXiv:1703.10877
+http://arxiv.org/abs/1703.10126v1,2017-03-29T16:37:56Z,"Detailed experimental and numerical analysis of a cylindrical cup deep
+  drawing: pros and cons of using solid-shell elements","['Jeremy Coer', 'Herve Laurent', 'Marta Oliveira', 'Pierre-Yves Manach', 'Luis Menezes']",arXiv:1703.10126
+http://arxiv.org/abs/1703.08738v3,2017-03-25T20:33:45Z,"Cartoonish sketch-based face editing in videos using identity
+  deformation transfer","['Long Zhao', 'Fangda Han', 'Xi Peng', 'Xun Zhang', 'Mubbasir Kapadia', 'Vladimir Pavlovic', 'Dimitris N. Metaxas']",arXiv:1703.08738
+http://arxiv.org/abs/1703.06554v1,2017-03-20T01:13:33Z,Object category understanding via eye fixations on freehand sketches,"['Ravi Kiran Sarvadevabhatla', 'Sudharshan Suresh', 'R. Venkatesh Babu']",arXiv:1703.06554
+http://arxiv.org/abs/1703.05698v5,2017-03-16T16:23:30Z,Neural Sketch Learning for Conditional Program Generation,"['Vijayaraghavan Murali', 'Letao Qi', 'Swarat Chaudhuri', 'Chris Jermaine']",arXiv:1703.05698
+http://arxiv.org/abs/1703.05605v1,2017-03-16T13:18:36Z,Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval,"['Li Liu', 'Fumin Shen', 'Yuming Shen', 'Xianglong Liu', 'Ling Shao']",arXiv:1703.05605
+http://arxiv.org/abs/1703.03230v4,2017-03-09T11:27:26Z,WebCaricature: a benchmark for caricature recognition,"['Jing Huo', 'Wenbin Li', 'Yinghuan Shi', 'Yang Gao', 'Hujun Yin']",arXiv:1703.03230
+http://arxiv.org/abs/1703.02375v5,2017-03-07T13:43:45Z,Graph sketching-based Space-efficient Data Clustering,"['Anne Morvan', 'Krzysztof Choromanski', 'Cédric Gouy-Pailler', 'Jamal Atif']",arXiv:1703.02375
+http://arxiv.org/abs/1702.07259v3,2017-02-23T15:32:06Z,"Exit problems for general draw-down times of spectrally negative Lévy
+  processes","['Bo Li', 'Nhat Linh Vu', 'Xiaowen Zhou']",arXiv:1702.07259
+http://arxiv.org/abs/1702.02805v1,2017-02-09T12:21:36Z,Attribute-controlled face photo synthesis from simple line drawing,"['Qi Guo', 'Ce Zhu', 'Zhiqiang Xia', 'Zhengtao Wang', 'Yipeng Liu']",arXiv:1702.02805
+http://arxiv.org/abs/1701.01911v2,2017-01-08T03:47:59Z,Random Sampling for Fast Face Sketch Synthesis,"['Nannan Wang', 'Xinbo Gao', 'Jie Li']",arXiv:1701.01911
+http://arxiv.org/abs/1612.04354v1,2016-12-13T20:40:32Z,Classification of urn models with multiple drawings,['Markus Kuba'],arXiv:1612.04354
+http://arxiv.org/abs/1612.03920v1,2016-12-12T21:01:13Z,"SDSS IV MaNGA: Deep observations of extra-planar, diffuse ionized gas
+  around late-type galaxies from stacked IFU spectra","['A. Jones', 'G. Kauffmann', ""R. D'Souza"", 'D. Bizyaev', 'D. Law', 'L. Haffner', 'Y. Bahé', 'B. Andrews', 'M. Bershady', 'J. Brownstein', 'K. Bundy', 'B. Cherinka', 'A. Diamond-Stanic', 'N. Drory', 'R. A. Riffel', 'S. F. Sánchez D. Thomas', 'D. Wake', 'R. Yan', 'K. Zhang']",arXiv:1612.03920
+http://arxiv.org/abs/1612.04254v1,2016-12-11T22:36:28Z,Mathematics: abstraction and reality. A sketch toward deeper analysis,['Radoslav Dimitric'],arXiv:1612.04254
+http://arxiv.org/abs/1612.00835v2,2016-12-02T20:53:01Z,Scribbler: Controlling Deep Image Synthesis with Sketch and Color,"['Patsorn Sangkloy', 'Jingwan Lu', 'Chen Fang', 'Fisher Yu', 'James Hays']",arXiv:1612.00835
+http://arxiv.org/abs/1611.05301v1,2016-11-16T14:57:19Z,"Generalisation and Sharing in Triplet Convnets for Sketch based Visual
+  Search","['Tu Bui', 'Leonardo Ribeiro', 'Moacir Ponti', 'John Collomosse']",arXiv:1611.05301
+http://arxiv.org/abs/1611.01796v2,2016-11-06T15:36:56Z,Modular Multitask Reinforcement Learning with Policy Sketches,"['Jacob Andreas', 'Dan Klein', 'Sergey Levine']",arXiv:1611.01796
+http://arxiv.org/abs/1611.01722v2,2016-11-06T02:40:41Z,"Learning to Draw Samples: With Application to Amortized MLE for
+  Generative Adversarial Learning","['Dilin Wang', 'Qiang Liu']",arXiv:1611.01722
+http://arxiv.org/abs/1610.02454v1,2016-10-08T00:27:57Z,Learning What and Where to Draw,"['Scott Reed', 'Zeynep Akata', 'Santosh Mohan', 'Samuel Tenka', 'Bernt Schiele', 'Honglak Lee']",arXiv:1610.02454
+http://arxiv.org/abs/1609.08235v1,2016-09-27T01:15:35Z,Online Categorical Subspace Learning for Sketching Big Data with Misses,"['Yanning Shen', 'Morteza Mardani', 'Georgios B. Giannakis']",arXiv:1609.08235
+http://arxiv.org/abs/1609.07994v1,2016-09-26T14:44:48Z,"Fractality of Massive Graphs: Scalable Analysis with Sketch-Based
+  Box-Covering Algorithm","['Takuya Akiba', 'Kenko Nakamura', 'Taro Takaguchi']",arXiv:1609.07994
+http://arxiv.org/abs/1609.02258v1,2016-09-08T04:01:02Z,Tighter bound of Sketched Generalized Matrix Approximation,"['Haishan Ye', 'Qiaoming Ye', 'Zhihua Zhang']",arXiv:1609.02258
+http://arxiv.org/abs/1609.01382v1,2016-09-06T03:52:33Z,"Creating Interactive Behaviors in Early Sketch by Recording and Remixing
+  Crowd Demonstrations","['Sang Won Lee', 'Yi Wei Yang', 'Shiyan Yan', 'Yujin Zhang', 'Isabelle Wong', 'Zhengxi Tan', 'Miles McGruder', 'Christopher Homan', 'Walter Lasecki']",arXiv:1609.01382
+http://arxiv.org/abs/1609.01755v1,2016-08-29T22:09:37Z,Compact Layered Drawings of General Directed Graphs,"['Adalat Jabrayilov', 'Sven Mallach', 'Petra Mutzel', 'Ulf Rüegg', 'Reinhard von Hanxleden']",arXiv:1609.01755
+http://arxiv.org/abs/1608.05045v1,2016-08-17T18:53:50Z,Large Angle based Skeleton Extraction for 3D Animation,"['Hugo Martin', 'Raphael Fernandez', 'Yong Khoo']",arXiv:1608.05045
+http://arxiv.org/abs/1608.03943v1,2016-08-13T05:22:02Z,"Capturing Lombardi Flow in Orthogonal Drawings by Minimizing the Number
+  of Segments","['Md. Jawaherul Alam', 'Michael Dillencourt', 'Michael T. Goodrich']",arXiv:1608.03943
+http://arxiv.org/abs/1608.03369v1,2016-08-11T05:11:23Z,"Enabling My Robot To Play Pictionary : Recurrent Neural Networks For
+  Sketch Recognition","['Ravi Kiran Sarvadevabhatla', 'Jogendra Kundu', 'Babu R. Venkatesh']",arXiv:1608.03369
+http://arxiv.org/abs/1608.01391v1,2016-08-03T23:13:01Z,"Language free character recognition using character sketch and center of
+  gravity shifting","['Masoud Nosrati', 'Fakhereh Rahimi', 'Ronak Karimi']",arXiv:1608.01391
+http://arxiv.org/abs/1607.07980v1,2016-07-27T06:55:22Z,How2Sketch: Generating Easy-To-Follow Tutorials for Sketching 3D Objects,"['James W. Hennessey', 'Han Liu', 'Holger Winnemöller', 'Mira Dontcheva', 'Niloy J. Mitra']",arXiv:1607.07980
+http://arxiv.org/abs/1607.02748v2,2016-07-10T14:15:38Z,Adversarial Training For Sketch Retrieval,"['Antonia Creswell', 'Anil Anthony Bharath']",arXiv:1607.02748
+http://arxiv.org/abs/1607.02715v2,2016-07-10T08:48:09Z,"Learning to Sketch Human Facial Portraits using Personal Styles by
+  Case-Based Reasoning","['Bingwen Jin', 'Songhua Xu', 'Weidong Geng']",arXiv:1607.02715
+http://arxiv.org/abs/1606.07163v1,2016-06-23T02:08:58Z,Interpretable Machine Learning Models for the Digital Clock Drawing Test,"['William Souillard-Mandar', 'Randall Davis', 'Cynthia Rudin', 'Rhoda Au', 'Dana Penney']",arXiv:1606.07163
+http://arxiv.org/abs/1609.04632v1,2016-06-22T10:09:04Z,"Modeling the deep drawing of a 3D woven fabric with a second gradient
+  model","['Gabriele Barbagallo', 'Angela Madeo', 'Fabrice Morestin', 'Philippe Boisse']",arXiv:1609.04632
+http://arxiv.org/abs/1606.06539v1,2016-06-21T12:35:31Z,Drawing and Recognizing Chinese Characters with Recurrent Neural Network,"['Xu-Yao Zhang', 'Fei Yin', 'Yan-Ming Zhang', 'Cheng-Lin Liu', 'Yoshua Bengio']",arXiv:1606.06539
+http://arxiv.org/abs/1606.05006v1,2016-06-15T23:43:53Z,Animated 3D Human Models for Use in Person Recognition Experiments,"['Jean M. Vettel', 'Justin Kantner', 'Matthew Jaswa', 'Michael Miller']",arXiv:1606.05006
+http://arxiv.org/abs/1606.02838v2,2016-06-09T06:59:19Z,Sketching for Large-Scale Learning of Mixture Models,"['Nicolas Keriven', 'Anthony Bourrier', 'Rémi Gribonval', 'Patrick Pérez']",arXiv:1606.02838
+http://arxiv.org/abs/1605.04850v1,2016-05-16T17:44:31Z,Video2GIF: Automatic Generation of Animated GIFs from Video,"['Michael Gygli', 'Yale Song', 'Liangliang Cao']",arXiv:1605.04850
+http://arxiv.org/abs/1605.00031v2,2016-04-29T21:40:16Z,Deep Convolutional Neural Networks on Cartoon Functions,"['Philipp Grohs', 'Thomas Wiatowski', 'Helmut Bölcskei']",arXiv:1605.00031
+http://arxiv.org/abs/1604.05753v1,2016-04-19T21:22:29Z,Sketching and Neural Networks,"['Amit Daniely', 'Nevena Lazic', 'Yoram Singer', 'Kunal Talwar']",arXiv:1604.05753
+http://arxiv.org/abs/1604.03829v1,2016-04-13T15:26:32Z,"Animation and Chirplet-Based Development of a PIR Sensor Array for
+  Intruder Classification in an Outdoor Environment","['Raviteja Upadrashta', 'Tarun Choubisa', 'A. Praneeth', 'Tony G.', 'Aswath V. S.', 'P. Vijay Kumar', 'Sripad Kowshik', 'Hari Prasad Gokul R', 'T. V. Prabhakar']",arXiv:1604.03829
+http://arxiv.org/abs/1603.07823v1,2016-03-25T05:20:08Z,"Training-Free Synthesized Face Sketch Recognition Using Image Quality
+  Assessment Metrics","['Nannan Wang', 'Jie Li', 'Leiyu Sun', 'Bin Song', 'Xinbo Gao']",arXiv:1603.07823
+http://arxiv.org/abs/1603.07011v1,2016-03-22T22:14:01Z,Graphs Drawing through Fuzzy Clustering,"['Mohammadreza Ashouri', 'Ali Golshani', 'Dara Moazzmi', 'Mandana Ghasemi']",arXiv:1603.07011
+http://arxiv.org/abs/1602.02202v4,2016-02-06T02:33:53Z,Efficient Second Order Online Learning by Sketching,"['Haipeng Luo', 'Alekh Agarwal', 'Nicolo Cesa-Bianchi', 'John Langford']",arXiv:1602.02202
+http://arxiv.org/abs/1512.08212v2,2015-12-27T12:34:26Z,"Improving Facial Analysis and Performance Driven Animation through
+  Disentangling Identity and Expression","['David Rim', 'Sina Honari', 'Md Kamrul Hasan', 'Chris Pal']",arXiv:1512.08212
+http://arxiv.org/abs/1511.01618v2,2015-11-05T06:07:29Z,"On martingale tail sums in affine two-color urn models with multiple
+  drawings","['Markus Kuba', 'Henning Sulzbach']",arXiv:1511.01618
+http://arxiv.org/abs/1511.00099v1,2015-10-31T08:50:43Z,"Sketch-based Image Retrieval from Millions of Images under Rotation,
+  Translation and Scale Variations","['Sarthak Parui', 'Anurag Mittal']",arXiv:1511.00099
+http://arxiv.org/abs/1510.04389v1,2015-10-15T03:47:46Z,Sketch-based Manga Retrieval using Manga109 Dataset,"['Yusuke Matsui', 'Kota Ito', 'Yuji Aramaki', 'Toshihiko Yamasaki', 'Kiyoharu Aizawa']",arXiv:1510.04389
+http://arxiv.org/abs/1510.02644v1,2015-10-09T12:08:38Z,Free-hand Sketch Synthesis with Deformable Stroke Models,"['Yi Li', 'Yi-Zhe Song', 'Timothy Hospedales', 'Shaogang Gong']",arXiv:1510.02644
+http://arxiv.org/abs/1510.01628v1,2015-10-06T15:34:32Z,Large-scale subspace clustering using sketching and validation,"['Panagiotis A. Traganitis', 'Konstantinos Slavakis', 'Georgios B. Giannakis']",arXiv:1510.01628
+http://arxiv.org/abs/1509.09053v1,2015-09-30T07:57:19Z,"Two-color balanced affine urn models with multiple drawings II:
+  large-index and triangular urns","['Markus Kuba', 'Hosam M. Mahmoud']",arXiv:1509.09053
+http://arxiv.org/abs/1509.06731v1,2015-09-22T19:05:39Z,"Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in
+  Poker Games","['Nikolai Yakovenko', 'Liangliang Cao', 'Colin Raffel', 'James Fan']",arXiv:1509.06731
+http://arxiv.org/abs/1509.05897v1,2015-09-19T14:20:50Z,Face Photo Sketch Synthesis via Larger Patch and Multiresolution Spline,['Xu Yang'],arXiv:1509.05897
+http://arxiv.org/abs/1507.02766v1,2015-07-10T02:24:41Z,"A Hybrid Graph-drawing Algorithm for Large, Naturally-clustered,
+  Disconnected Graphs","['Toni-Jan Keith P. Monserrat', 'Jaderick P. Pabico', 'Eliezer A. Albacea']",arXiv:1507.02766
+http://arxiv.org/abs/1506.08126v1,2015-06-26T15:48:10Z,"Humor in Collective Discourse: Unsupervised Funniness Detection in the
+  New Yorker Cartoon Caption Contest","['Dragomir Radev', 'Amanda Stent', 'Joel Tetreault', 'Aasish Pappu', 'Aikaterini Iliakopoulou', 'Agustin Chanfreau', 'Paloma de Juan', 'Jordi Vallmitjana', 'Alejandro Jaimes', 'Rahul Jha', 'Bob Mankoff']",arXiv:1506.08126
+http://arxiv.org/abs/1506.00783v4,2015-06-02T07:55:22Z,Shape Analysis on Lie Groups with Applications in Computer Animation,"['Elena Celledoni', 'Markus Eslitzbichler', 'Alexander Schmeding']",arXiv:1506.00783
+http://arxiv.org/abs/1505.06770v6,2015-05-25T22:19:07Z,Sketching for Sequential Change-Point Detection,"['Yang Cao', 'Andrew Thompson', 'Meng Wang', 'Yao Xie']",arXiv:1505.06770
+http://arxiv.org/abs/1504.03504v1,2015-04-14T11:55:45Z,Sketch-based 3D Shape Retrieval using Convolutional Neural Networks,"['Fang Wang', 'Le Kang', 'Yi Li']",arXiv:1504.03504
+http://arxiv.org/abs/1504.01076v1,2015-04-05T02:59:25Z,"Nearly-optimal bounds for sparse recovery in generic norms, with
+  applications to $k$-median sketching","['Arturs Backurs', 'Piotr Indyk', 'Eric Price', 'Ilya Razenshteyn', 'David P. Woodruff']",arXiv:1504.01076
+http://arxiv.org/abs/1503.06275v1,2015-03-21T07:36:47Z,Skin Detection of Animation Characters,"['Kazi Tanvir Ahmed Siddiqui', 'Abu Wasif']",arXiv:1503.06275
+http://arxiv.org/abs/1502.04623v2,2015-02-16T16:48:56Z,DRAW: A Recurrent Neural Network For Image Generation,"['Karol Gregor', 'Ivo Danihelka', 'Alex Graves', 'Danilo Jimenez Rezende', 'Daan Wierstra']",arXiv:1502.04623
+http://arxiv.org/abs/1502.04232v1,2015-02-14T17:42:02Z,Sketch-based Shape Retrieval using Pyramid-of-Parts,"['Changqing Zou', 'Zhe Huang', 'Rynson W. H. Lau', 'Jianzhuang Liu', 'Hongbo Fu']",arXiv:1502.04232
+http://arxiv.org/abs/1502.06419v1,2015-02-14T11:29:26Z,"Analysis of Design Principles and Requirements for Procedural Rigging of
+  Bipeds and Quadrupeds Characters with Custom Manipulators for Animation","['Zeeshan Bhatti', 'Asadullah Shah', 'Ahmad Waqas', 'Nadeem Mahmood']",arXiv:1502.06419
+http://arxiv.org/abs/1502.00254v2,2015-02-01T13:35:44Z,Freehand Sketch Recognition Using Deep Features,"['Ravi Kiran Sarvadevabhatla', 'R. Venkatesh Babu']",arXiv:1502.00254
+http://arxiv.org/abs/1501.07180v2,2015-01-28T16:32:53Z,"End-to-End Photo-Sketch Generation via Fully Convolutional
+  Representation Learning","['Liliang Zhang', 'Liang Lin', 'Xian Wu', 'Shengyong Ding', 'Lei Zhang']",arXiv:1501.07180
+http://arxiv.org/abs/1501.05590v1,2015-01-22T18:16:30Z,Sketch and Validate for Big Data Clustering,"['Panagiotis A. Traganitis', 'Konstantinos Slavakis', 'Georgios B. Giannakis']",arXiv:1501.05590
+http://arxiv.org/abs/1412.6666v2,2014-12-20T16:31:32Z,"An alternative for teaching and learning the simple diffusion process
+  using Algodoo animations","['Samir L. da Silva', 'Judismar T. Guaitolini Junior', 'Rodrigo L. da Silva', 'Emilson. R. Viana', 'Fábio F. Leal']",arXiv:1412.6666
+http://arxiv.org/abs/1412.1957v1,2014-12-05T11:22:54Z,CoMIC: Good features for detection and matching at object boundaries,"['Swarna Kamlam Ravindran', 'Anurag Mittal']",arXiv:1412.1957
+http://arxiv.org/abs/1409.5114v2,2014-09-17T19:55:34Z,"A Survey on Heterogeneous Face Recognition: Sketch, Infra-red, 3D and
+  Low-resolution","['Shuxin Ouyang', 'Timothy Hospedales', 'Yi-Zhe Song', 'Xueming Li']",arXiv:1409.5114
+http://arxiv.org/abs/1409.1621v3,2014-09-04T21:48:51Z,Animation with Algodoo: a simple tool for teaching and learning Physics,"['Samir L. da Silva', 'Rodrigo L. da Silva', 'Judismar T. Guaitolini Junior', 'Elias Gonçalves', 'Emilson R. Viana', 'João B. L. Wyatt']",arXiv:1409.1621
+http://arxiv.org/abs/1409.0436v1,2014-09-01T14:34:32Z,A Coloring Algorithm for Disambiguating Graph and Map Drawings,"['Yifan Hu', 'Lei Shi']",arXiv:1409.0436
+http://arxiv.org/abs/1403.3378v2,2014-03-13T19:28:48Z,Box Drawings for Learning with Imbalanced Data,"['Siong Thye Goh', 'Cynthia Rudin']",arXiv:1403.3378
+http://arxiv.org/abs/1402.3902v4,2014-02-17T06:00:16Z,Sparse Polynomial Learning and Graph Sketching,"['Murat Kocaoglu', 'Karthikeyan Shanmugam', 'Alexandros G. Dimakis', 'Adam Klivans']",arXiv:1402.3902
+http://arxiv.org/abs/1401.5330v1,2014-01-21T14:45:02Z,"Study of Neural Network Algorithm for Straight-Line Drawings of Planar
+  Graphs","['Mohamed A. El-Sayed', 'S. Abdel-Khalek', 'Hanan H. Amin']",arXiv:1401.5330
+http://arxiv.org/abs/1312.1462v1,2013-12-05T08:02:08Z,Geometric Feature Based Face-Sketch Recognition,"['Sourav Pramanik', 'Debotosh Bhattacharjee']",arXiv:1312.1462
+http://arxiv.org/abs/1312.1681v1,2013-12-05T06:43:59Z,An Approach: Modality Reduction and Face-Sketch Recognition,"['Sourav Pramanik', 'Dr. Debotosh Bhattacharjee']",arXiv:1312.1681
+http://arxiv.org/abs/1311.7259v1,2013-11-28T10:18:22Z,"A Fraud Detection Visualization System Utilizing Radial Drawings and
+  Heat-maps","['Evmorfia N. Argyriou', 'Antonios Symvonis', 'Vassilis Vassiliou']",arXiv:1311.7259
+http://arxiv.org/abs/1310.2959v2,2013-10-10T20:30:06Z,"Scaling Graph-based Semi Supervised Learning to Large Number of Labels
+  Using Count-Min Sketch","['Partha Pratim Talukdar', 'William Cohen']",arXiv:1310.2959
+http://arxiv.org/abs/1308.6693v1,2013-08-30T09:37:36Z,Transforming planar graph drawings while maintaining height,['Therese Biedl'],arXiv:1308.6693
+http://arxiv.org/abs/1306.3284v7,2013-06-14T03:33:05Z,"All-Distances Sketches, Revisited: HIP Estimators for Massive Graphs
+  Analysis",['Edith Cohen'],arXiv:1306.3284
+http://arxiv.org/abs/1305.1520v1,2013-05-07T14:02:46Z,"A Method for Visuo-Spatial Classification of Freehand Shapes Freely
+  Sketched","['Ney Renau-Ferrer', 'Céline Remi']",arXiv:1305.1520
+http://arxiv.org/abs/1211.5796v1,2012-11-25T19:01:42Z,"Let the Beauty of Harmonic Analysis be Revealed Through Nonlinear PDEs;
+  A Work of Art in Three Sketches",['Tadeusz Iwaniec'],arXiv:1211.5796
+http://arxiv.org/abs/1211.2742v1,2012-11-12T19:18:28Z,Sketch Recognition using Domain Classification,"['Vasudha Vashisht', 'Tanupriya Choudhury', 'T. V. Prasad']",arXiv:1211.2742
+http://arxiv.org/abs/1209.4982v1,2012-09-22T10:36:11Z,"Using multimodal speech production data to evaluate articulatory
+  animation for audiovisual speech synthesis","['Ingmar Steiner', 'Korin Richmond', 'Slim Ouni']",arXiv:1209.4982
+http://arxiv.org/abs/1204.6408v1,2012-04-28T14:10:30Z,"Standing on the Shoulders of Their Peers: Success Factors for Massive
+  Cooperation Among Children Creating Open Source Animations and Games on Their
+  Smartphones","['Tobias Gritschacher', 'Wolfgang Slany']",arXiv:1204.6408
+http://arxiv.org/abs/1204.6123v1,2012-04-27T07:21:44Z,Clustered Sparsity and Separation of Cartoon and Texture,['Gitta Kutyniok'],arXiv:1204.6123
+http://arxiv.org/abs/1203.3574v1,2012-03-15T21:23:45Z,"Artimate: an articulatory animation framework for audiovisual speech
+  synthesis","['Ingmar Steiner', 'Slim Ouni']",arXiv:1203.3574
+http://arxiv.org/abs/1203.3023v1,2012-03-14T08:51:14Z,"Toward an example-based machine translation from written text to ASL
+  using virtual agent animation","['Mehrez Boulares', 'Mohamed Jemni']",arXiv:1203.3023
+http://arxiv.org/abs/1201.4080v1,2012-01-19T15:29:56Z,"Progress in animation of an EMA-controlled tongue model for
+  acoustic-visual speech synthesis","['Ingmar Steiner', 'Slim Ouni']",arXiv:1201.4080
+http://arxiv.org/abs/1012.2202v2,2010-12-10T08:31:21Z,Transforming a random graph drawing into a Lombardi drawing,['Nicolaos Matsakis'],arXiv:1012.2202
+http://arxiv.org/abs/1004.2338v1,2010-04-14T07:35:05Z,Complexity Analysis of Balloon Drawing for Rooted Trees,"['Chun-Cheng Lin', 'Hsu-Chun Yen', 'Sheung-Hung Poon', 'Jia-Hao Fan']",arXiv:1004.2338
+http://arxiv.org/abs/cs/0611083v1,2006-11-17T08:27:45Z,"Environment of development of the programs of parametric creating of the
+  drawings in CAD-system of renovation of the enterprises",['Vladimir V. Migunov'],arXiv:cs/0611083
+http://arxiv.org/abs/math/0609292v1,2006-09-11T14:17:28Z,Modeling On-Line Art Auction Dynamics Using Functional Data Analysis,"['Srinivas K. Reddy', 'Mayukh Dass']",arXiv:math/0609292
+http://arxiv.org/abs/cs/0607094v1,2006-07-20T04:52:14Z,Upright-Quad Drawing of st-Planar Learning Spaces,['David Eppstein'],arXiv:cs/0607094
+http://arxiv.org/abs/math/0606450v1,2006-06-19T12:57:11Z,Drawings of Planar Graphs with Few Slopes and Segments,"[""Vida Dujmovic'"", 'David Eppstein', 'Matthew Suderman', 'David R. Wood']",arXiv:math/0606450
+http://arxiv.org/abs/cs/0406038v1,2004-06-21T13:42:03Z,"A New Approach to Draw Detection by Move Repetition in Computer Chess
+  Programming","['Vladan Vuckovic', 'Djordje Vidanovic']",arXiv:cs/0406038
+http://arxiv.org/abs/cs/0312050v1,2003-12-22T16:23:34Z,A Flexible Pragmatics-driven Language Generator for Animated Agents,['Paul Piwek'],arXiv:cs/0312050
+http://arxiv.org/abs/math/9410206v1,1994-10-17T00:00:00Z,Graph-Based Logic and Sketches 1: The General Framework,"['Atish Bagchi', 'Charles Wells']",arXiv:math/9410206

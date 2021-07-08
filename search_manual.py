@@ -4,9 +4,30 @@ import pandas as pd
 from query_arxiv import query
 from query_semantic import paper as semantic_paper
 
+'''
 title = 'weakly_supervised_2'
 keyword_list_1 = ['weakly supervised', 'weakly-supervised', 'wsod', 'weak supervision', 'image-level supervision', 'weak label', 'weakly labeled']
 keyword_list_2 = ['detect', 'localization' , 'recognition', 'segment', 'network']
+'''
+
+#'''
+title = 'anime_all_2'
+keyword_list_1 = ['anime', 'animation', 'caricature', 'cartoon', 'comic', 'drawing', 'line art', 'manga', 'sketch', 'toon']
+#keyword_list_1 = ['anime', 'cartoon', 'comic', 'manga', 'toon']
+keyword_list_2 = ['automatic', 'understanding', 'analysis', 'learning',
+'color', 'create', 'creation', 'generate', 'generation', 'estimation'
+'classification', 'detection', 'segmentation', 'recognition',
+'painting', 'retrieve', 'retrieval', 'extraction', 'recommendation',
+'synthesis', 'transfer', 'transform', 'translation', 'interpolation'
+'dataset', 'classification', 'clustering', 'detect', 'segment',
+'artificial intelligence', 'deep', 'deep learning', 'machine learning', 
+'computer vision', 'computer graphic*', 'neural network', 'NN', 
+'artificial neural network', 'ANN', 'convolutional neural network', 
+'ConvNet', 'CNN', 'recurrent neural network', 'RNN', 
+'long short term memory', 'LSTM', 'transformer', 'attention',
+'generative adversarial network', 'GAN', 'autoencoder']
+#'''
+
 
 file_name = 'manual_incomplete_{}.csv'.format(title)
 df_incomplete = pd.read_csv(file_name)

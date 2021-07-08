@@ -1,0 +1,810 @@
+id,published,title,authors,paperId
+http://arxiv.org/abs/2105.01919v1,2021-05-05T08:07:21Z,"Weakly Supervised Pseudo-Label assisted Learning for ALS Point Cloud
+  Semantic Segmentation","['Puzuo Wang', 'Wei Yao']",arXiv:2105.01919
+http://arxiv.org/abs/2105.01218v1,2021-05-03T23:33:37Z,"Weakly-Supervised Universal Lesion Segmentation with Regional Level Set
+  Loss","['Youbao Tang', 'Jinzheng Cai', 'Ke Yan', 'Lingyun Huang', 'Guotong Xie', 'Jing Xiao', 'Jingjing Lu', 'Gigin Lin', 'Le Lu']",arXiv:2105.01218
+http://arxiv.org/abs/2105.00957v1,2021-05-03T15:49:01Z,"Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive
+  Learning","['Tsung-Wei Ke', 'Jyh-Jing Hwang', 'Stella X. Yu']",arXiv:2105.00957
+http://arxiv.org/abs/2105.00781v1,2021-05-03T12:37:23Z,"Weakly supervised deep learning-based intracranial hemorrhage
+  localization","['Jakub Nemcek', 'Tomas Vicar', 'Roman Jakubicek']",arXiv:2105.00781
+http://arxiv.org/abs/2104.14135v1,2021-04-29T06:19:44Z,"Action Unit Memory Network for Weakly Supervised Temporal Action
+  Localization","['Wang Luo', 'Tianzhu Zhang', 'Wenfei Yang', 'Jingen Liu', 'Tao Mei', 'Feng Wu', 'Yongdong Zhang']",arXiv:2104.14135
+http://arxiv.org/abs/2104.13082v2,2021-04-27T10:03:45Z,"Weakly Supervised Volumetric Segmentation via Self-taught Shape
+  Denoising Model","['Qian He', 'Shuailin Li', 'Xuming He']",arXiv:2104.13082
+http://arxiv.org/abs/2104.11560v1,2021-04-23T12:36:19Z,Weakly-supervised Multi-task Learning for Multimodal Affect Recognition,"['Wenliang Dai', 'Samuel Cahyawijaya', 'Yejin Bang', 'Pascale Fung']",arXiv:2104.11560
+http://arxiv.org/abs/2104.10351v1,2021-04-21T04:44:33Z,Improving Weakly-supervised Object Localization via Causal Intervention,"['Feifei Shao', 'Yawei Luo', 'Li Zhang', 'Lu Ye', 'Siliang Tang', 'Yi Yang', 'Jun Xiao']",arXiv:2104.10351
+http://arxiv.org/abs/2104.07918v1,2021-04-16T06:44:50Z,Weakly Supervised Object Localization and Detection: A Survey,"['Dingwen Zhang', 'Junwei Han', 'Gong Cheng', 'Ming-Hsuan Yang']",arXiv:2104.07918
+http://arxiv.org/abs/2104.07268v1,2021-04-15T06:41:23Z,"Weakly Supervised Video Anomaly Detection via Center-guided
+  Discriminative Learning","['Boyang Wan', 'Yuming Fang', 'Xue Xia', 'Jiajie Mei']",arXiv:2104.07268
+http://arxiv.org/abs/2104.06230v1,2021-04-13T14:20:58Z,"GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised
+  Named Entity Recognition","['Xinyan Zhao', 'Haibo Ding', 'Zhe Feng']",arXiv:2104.06230
+http://arxiv.org/abs/2104.04952v1,2021-04-11T08:14:05Z,Fine-Grained Attention for Weakly Supervised Object Localization,"['Junghyo Sohn', 'Eunjin Jeon', 'Wonsik Jung', 'Eunsong Kang', 'Heung-Il Suk']",arXiv:2104.04952
+http://arxiv.org/abs/2104.04891v1,2021-04-11T01:29:50Z,"SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point
+  Clouds with 1000x Fewer Labels","['Qingyong Hu', 'Bo Yang', 'Guangchi Fang', 'Yulan Guo', 'Ales Leonardis', 'Niki Trigoni', 'Andrew Markham']",arXiv:2104.04891
+http://arxiv.org/abs/2104.03313v2,2021-04-07T17:59:58Z,SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks,"['Shunsuke Saito', 'Jinlong Yang', 'Qianli Ma', 'Michael J. Black']",arXiv:2104.03313
+http://arxiv.org/abs/2104.02967v1,2021-04-07T07:39:57Z,"ACM-Net: Action Context Modeling Network for Weakly-Supervised Temporal
+  Action Localization","['Sanqing Qu', 'Guang Chen', 'Zhijun Li', 'Lijun Zhang', 'Fan Lu', 'Alois Knoll']",arXiv:2104.02967
+http://arxiv.org/abs/2104.02488v1,2021-04-06T13:14:20Z,"Weakly supervised segmentation with cross-modality equivariant
+  constraints","['Gaurav Patel', 'Jose Dolz']",arXiv:2104.02488
+http://arxiv.org/abs/2104.02391v1,2021-04-06T09:48:38Z,Weakly Supervised Video Salient Object Detection,"['Wangbo Zhao', 'Jing Zhang', 'Long Li', 'Nick Barnes', 'Nian Liu', 'Junwei Han']",arXiv:2104.02391
+http://arxiv.org/abs/2104.02357v1,2021-04-06T08:31:10Z,"Adaptive Mutual Supervision for Weakly-Supervised Temporal Action
+  Localization","['Chen Ju', 'Peisen Zhao', 'Siheng Chen', 'Ya Zhang', 'Xiaoyun Zhang', 'Qi Tian']",arXiv:2104.02357
+http://arxiv.org/abs/2104.02246v3,2021-04-06T02:27:25Z,"One Thing One Click: A Self-Training Approach for Weakly Supervised 3D
+  Semantic Segmentation","['Zhengzhe Liu', 'Xiaojuan Qi', 'Chi-Wing Fu']",arXiv:2104.02246
+http://arxiv.org/abs/2104.01948v1,2021-04-05T15:11:29Z,Robust Trust Region for Weakly Supervised Segmentation,"['Dmitrii Marin', 'Yuri Boykov']",arXiv:2104.01948
+http://arxiv.org/abs/2104.01526v1,2021-04-04T03:01:52Z,"Weakly-supervised Instance Segmentation via Class-agnostic Learning with
+  Salient Images","['Xinggang Wang', 'Jiapei Feng', 'Bin Hu', 'Qi Ding', 'Longjin Ran', 'Xiaoxin Chen', 'Wenyu Liu']",arXiv:2104.01526
+http://arxiv.org/abs/2104.00905v1,2021-04-02T06:38:41Z,"Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised
+  Semantic Segmentation","['Youngmin Oh', 'Beomjun Kim', 'Bumsub Ham']",arXiv:2104.00905
+http://arxiv.org/abs/2104.00231v1,2021-04-01T03:21:24Z,"Two-phase weakly supervised object detection with pseudo ground truth
+  mining",['Jun Wang'],arXiv:2104.00231
+http://arxiv.org/abs/2103.16762v2,2021-03-31T02:05:01Z,"Weakly-Supervised Image Semantic Segmentation Using Graph Convolutional
+  Networks","['Shun-Yi Pan', 'Cheng-You Lu', 'Shih-Po Lee', 'Wen-Hsiao Peng']",arXiv:2103.16762
+http://arxiv.org/abs/2103.16651v1,2021-03-30T19:48:30Z,DAP: Detection-Aware Pre-training with Weak Supervision,"['Yuanyi Zhong', 'Jianfeng Wang', 'Lijuan Wang', 'Jian Peng', 'Yu-Xiong Wang', 'Lei Zhang']",arXiv:2103.16651
+http://arxiv.org/abs/2103.16392v1,2021-03-30T14:37:15Z,"CoLA: Weakly-Supervised Temporal Action Localization with Snippet
+  Contrastive Learning","['Can Zhang', 'Meng Cao', 'Dongming Yang', 'Jie Chen', 'Yuexian Zou']",arXiv:2103.16392
+http://arxiv.org/abs/2103.16155v1,2021-03-30T08:26:53Z,"Weakly Supervised Temporal Action Localization Through Learning Explicit
+  Subspaces for Action and Context","['Ziyi Liu', 'Le Wang', 'Wei Tang', 'Junsong Yuan', 'Nanning Zheng', 'Gang Hua']",arXiv:2103.16155
+http://arxiv.org/abs/2103.15088v1,2021-03-28T09:20:54Z,"ACSNet: Action-Context Separation Network for Weakly Supervised Temporal
+  Action Localization","['Ziyi Liu', 'Le Wang', 'Qilin Zhang', 'Wei Tang', 'Junsong Yuan', 'Nanning Zheng', 'Gang Hua']",arXiv:2103.15088
+http://arxiv.org/abs/2103.14862v1,2021-03-27T09:43:16Z,"TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised
+  Object Localization","['Wei Gao', 'Fang Wan', 'Xingjia Pan', 'Zhiliang Peng', 'Qi Tian', 'Zhenjun Han', 'Bolei Zhou', 'Qixiang Ye']",arXiv:2103.14862
+http://arxiv.org/abs/2103.14581v1,2021-03-26T16:44:03Z,"Non-Salient Region Object Mining for Weakly Supervised Semantic
+  Segmentation","['Yazhou Yao', 'Tao Chen', 'Guosen Xie', 'Chuanyi Zhang', 'Fumin Shen', 'Qi Wu', 'Zhenmin Tang', 'Jian Zhang']",arXiv:2103.14581
+http://arxiv.org/abs/2103.14162v1,2021-03-25T22:34:16Z,Few-shot Weakly-Supervised Object Detection via Directional Statistics,"['Amirreza Shaban', 'Amir Rahimi', 'Thalaiyasingam Ajanthan', 'Byron Boots', 'Richard Hartley']",arXiv:2103.14162
+http://arxiv.org/abs/2104.02606v1,2021-03-25T10:17:55Z,Weakly-supervised Audio-visual Sound Source Detection and Separation,"['Tanzila Rahman', 'Leonid Sigal']",arXiv:2104.02606
+http://arxiv.org/abs/2103.12886v1,2021-03-23T23:20:46Z,"Weakly Supervised Instance Segmentation for Videos with Temporal Mask
+  Consistency","['Qing Liu', 'Vignesh Ramanathan', 'Dhruv Mahajan', 'Alan Yuille', 'Zhenheng Yang']",arXiv:2103.12886
+http://arxiv.org/abs/2103.08907v1,2021-03-16T08:29:33Z,"BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and
+  Instance Segmentation","['Jungbeom Lee', 'Jihun Yi', 'Chaehun Shin', 'Sungroh Yoon']",arXiv:2103.08907
+http://arxiv.org/abs/2103.07246v2,2021-03-12T12:56:06Z,"Discriminative Region Suppression for Weakly-Supervised Semantic
+  Segmentation","['Beomyoung Kim', 'Sangeun Han', 'Junmo Kim']",arXiv:2103.07246
+http://arxiv.org/abs/2103.06581v1,2021-03-11T10:18:22Z,"Forward-Backward Convolutional Recurrent Neural Networks and
+  Tag-Conditioned Convolutional Neural Networks for Weakly Labeled
+  Semi-supervised Sound Event Detection","['Janek Ebbers', 'Reinhold Haeb-Umbach']",arXiv:2103.06581
+http://arxiv.org/abs/2103.06168v2,2021-03-10T16:31:54Z,"Weak labels and anatomical knowledge: making deep learning practical for
+  intracranial aneurysm detection in TOF-MRA","['Tommaso Di Noto', 'Guillaume Marie', 'Sebastien Tourbier', 'Yasser Alemán-Gómez', 'Oscar Esteban', 'Guillaume Saliou', 'Meritxell Bach Cuadra', 'Patric Hagmann', 'Jonas Richiardi']",arXiv:2103.06168
+http://arxiv.org/abs/2103.04523v2,2021-03-08T03:04:14Z,"Unveiling the Potential of Structure Preserving for Weakly Supervised
+  Object Localization","['Xingjia Pan', 'Yingguo Gao', 'Zhiwen Lin', 'Fan Tang', 'Weiming Dong', 'Haolei Yuan', 'Feiyue Huang', 'Changsheng Xu']",arXiv:2103.04523
+http://arxiv.org/abs/2103.04009v1,2021-03-06T02:18:03Z,"Learning from Counting: Leveraging Temporal Classification for Weakly
+  Supervised Object Localization and Detection","['Chia-Yu Hsu', 'Wenwen Li']",arXiv:2103.04009
+http://arxiv.org/abs/2103.01795v1,2021-03-02T15:05:09Z,"Context Decoupling Augmentation for Weakly Supervised Semantic
+  Segmentation","['Yukun Su', 'Ruizhou Sun', 'Guosheng Lin', 'Qingyao Wu']",arXiv:2103.01795
+http://arxiv.org/abs/2103.00780v1,2021-03-01T06:05:49Z,"Towards Unbiased COVID-19 Lesion Localisation and Segmentation via
+  Weakly Supervised Learning","['Yang Yang', 'Jiancong Chen', 'Ruixuan Wang', 'Ting Ma', 'Lingwei Wang', 'Jie Chen', 'Wei-Shi Zheng', 'Tong Zhang']",arXiv:2103.00780
+http://arxiv.org/abs/2102.11743v1,2021-02-23T15:14:46Z,"Weakly-supervised multi-class object localization using only object
+  counts as labels","['Kyle Mills', 'Isaac Tamblyn']",arXiv:2102.11743
+http://arxiv.org/abs/2102.01931v1,2021-02-03T08:13:47Z,A Global-local Attention Framework for Weakly Labelled Audio Tagging,"['Helin Wang', 'Yuexian Zou', 'Wenwu Wang']",arXiv:2102.01931
+http://arxiv.org/abs/2101.11802v1,2021-01-28T03:36:09Z,Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning,"['Amrita Saha', 'Shafiq Joty', 'Steven C. H. Hoi']",arXiv:2101.11802
+http://arxiv.org/abs/2101.10030v2,2021-01-25T12:04:00Z,"Weakly-supervised Video Anomaly Detection with Robust Temporal Feature
+  Magnitude Learning","['Yu Tian', 'Guansong Pang', 'Yuanhong Chen', 'Rajvinder Singh', 'Johan W. Verjans', 'Gustavo Carneiro']",arXiv:2101.10030
+http://arxiv.org/abs/2101.09915v1,2021-01-25T06:52:57Z,Weakly Supervised Thoracic Disease Localization via Disease Masks,"['Hyun-Woo Kim', 'Hong-Gyu Jung', 'Seong-Whan Lee']",arXiv:2101.09915
+http://arxiv.org/abs/2101.09057v1,2021-01-22T11:31:33Z,"DSAL: Deeply Supervised Active Learning from Strong and Weak Labelers
+  for Biomedical Image Segmentation","['Ziyuan Zhao', 'Zeng Zeng', 'Kaixin Xu', 'Cen Chen', 'Cuntai Guan']",arXiv:2101.09057
+http://arxiv.org/abs/2101.08757v3,2021-01-21T18:14:43Z,"Expectation-Maximization Regularized Deep Learning for Weakly Supervised
+  Tumor Segmentation for Glioblastoma","['Chao Li', 'Wenjian Huang', 'Xi Chen', 'Yiran Wei', 'Stephen J. Price', 'Carola-Bibiane Schönlieb']",arXiv:2101.08757
+http://arxiv.org/abs/2101.07929v1,2021-01-20T02:20:48Z,"Online Active Proposal Set Generation for Weakly Supervised Object
+  Detection","['Ruibing Jin', 'Guosheng Lin', 'Changyun Wen']",arXiv:2101.07929
+http://arxiv.org/abs/2101.07687v2,2021-01-19T15:28:54Z,Towards duration robust weakly supervised sound event detection,"['Heinrich Dinkel', 'Mengyue Wu', 'Kai Yu']",arXiv:2101.07687
+http://arxiv.org/abs/2101.00932v1,2021-01-04T12:51:45Z,Weakly-Supervised Saliency Detection via Salient Object Subitizing,"['Xiaoyang Zheng', 'Xin Tan', 'Jie Zhou', 'Lizhuang Ma', 'Rynson W. H. Lau']",arXiv:2101.00932
+http://arxiv.org/abs/2101.00667v1,2021-01-03T17:06:43Z,Weakly Supervised Multi-Object Tracking and Segmentation,"['Idoia Ruiz', 'Lorenzo Porzi', 'Samuel Rota Bulò', 'Peter Kontschieder', 'Joan Serrat']",arXiv:2101.00667
+http://arxiv.org/abs/2101.00545v3,2021-01-03T03:08:18Z,"A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action
+  Localization","['Ashraful Islam', 'Chengjiang Long', 'Richard Radke']",arXiv:2101.00545
+http://arxiv.org/abs/2012.14345v1,2020-12-28T16:36:11Z,"Data-efficient Weakly-supervised Learning for On-line Object Detection
+  under Domain Shift in Robotics","['Elisa Maiettini', 'Raffaello Camoriano', 'Giulia Pasquale', 'Vadim Tikhanoff', 'Lorenzo Rosasco', 'Lorenzo Natale']",arXiv:2012.14345
+http://arxiv.org/abs/2012.09542v1,2020-12-17T12:29:16Z,"Weakly-Supervised Action Localization and Action Recognition using
+  Global-Local Attention of 3D CNN","['Novanto Yudistira', 'Muthu Subash Kavitha', 'Takio Kurita']",arXiv:2012.09542
+http://arxiv.org/abs/2012.08236v1,2020-12-15T12:11:48Z,"Point-Level Temporal Action Localization: Bridging Fully-supervised
+  Proposals to Weakly-supervised Losses","['Chen Ju', 'Peisen Zhao', 'Ya Zhang', 'Yanfeng Wang', 'Qi Tian']",arXiv:2012.08236
+http://arxiv.org/abs/2012.06440v1,2020-12-11T16:01:56Z,"D2-Net: Weakly-Supervised Action Localization via Discriminative
+  Embeddings and Denoised Activations","['Sanath Narayan', 'Hisham Cholakkal', 'Munawar Hayat', 'Fahad Shahbaz Khan', 'Ming-Hsuan Yang', 'Ling Shao']",arXiv:2012.06440
+http://arxiv.org/abs/2012.05641v1,2020-12-10T12:59:33Z,"Weakly Supervised Arrhythmia Detection Based on Deep Convolutional
+  Neural Network","['Yang Liu', 'Kuanquan Wang', 'Qince Li', 'Runnan He', 'Yongfeng Yuan', 'Henggui Zhang']",arXiv:2012.05641
+http://arxiv.org/abs/2012.05007v1,2020-12-09T12:40:13Z,Group-Wise Semantic Mining for Weakly Supervised Semantic Segmentation,"['Xueyi Li', 'Tianfei Zhou', 'Jianwu Li', 'Yi Zhou', 'Zhaoxiang Zhang']",arXiv:2012.05007
+http://arxiv.org/abs/2012.04404v2,2020-12-08T12:49:40Z,"Structure-Consistent Weakly Supervised Salient Object Detection with
+  Local Saliency Coherence","['Siyue Yu', 'Bingfeng Zhang', 'Jimin Xiao', 'Eng Gee Lim']",arXiv:2012.04404
+http://arxiv.org/abs/2012.04233v2,2020-12-08T05:53:33Z,"Early Detection of Fake News by Utilizing the Credibility of News,
+  Publishers, and Users Based on Weakly Supervised Learning","['Chunyuan Yuan', 'Qianwen Ma', 'Wei Zhou', 'Jizhong Han', 'Songlin Hu']",arXiv:2012.04233
+http://arxiv.org/abs/2012.04170v1,2020-12-08T02:26:03Z,"Weakly-Supervised Cross-Domain Adaptation for Endoscopic Lesions
+  Segmentation","['Jiahua Dong', 'Yang Cong', 'Gan Sun', 'Yunsheng Yang', 'Xiaowei Xu', 'Zhengming Ding']",arXiv:2012.04170
+http://arxiv.org/abs/2012.02366v4,2020-12-04T02:16:47Z,"DenserNet: Weakly Supervised Visual Localization Using Multi-scale
+  Feature Aggregation","['Dongfang Liu', 'Yiming Cui', 'Liqi Yan', 'Christos Mousas', 'Baijian Yang', 'Yingjie Chen']",arXiv:2012.02366
+http://arxiv.org/abs/2012.00424v1,2020-12-01T11:45:39Z,"Weakly-Supervised Arbitrary-Shaped Text Detection with
+  Expectation-Maximization Algorithm","['Mengbiao Zhao', 'Wei Feng', 'Fei Yin', 'Xu-Yao Zhang', 'Cheng-Lin Liu']",arXiv:2012.00424
+http://arxiv.org/abs/2012.00242v1,2020-12-01T03:34:15Z,3D Guided Weakly Supervised Semantic Segmentation,"['Weixuan Sun', 'Jing Zhang', 'Nick Barnes']",arXiv:2012.00242
+http://arxiv.org/abs/2011.12077v2,2020-11-24T13:27:40Z,"CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy
+  Suppression for Anomalous Event Detection","['Muhammad Zaigham Zaheer', 'Arif Mahmood', 'Marcella Astrid', 'Seung-Ik Lee']",arXiv:2011.12077
+http://arxiv.org/abs/2011.10258v1,2020-11-20T08:08:13Z,Cascade Attentive Dropout for Weakly Supervised Object Detection,"['Wenlong Gao', 'Ying Chen', 'Yong Peng']",arXiv:2011.10258
+http://arxiv.org/abs/2011.10190v1,2020-11-20T03:16:53Z,"Action Duration Prediction for Segment-Level Alignment of Weakly-Labeled
+  Videos","['Reza Ghoddoosian', 'Saif Sayed', 'Vassilis Athitsos']",arXiv:2011.10190
+http://arxiv.org/abs/2011.08014v1,2020-11-16T14:58:51Z,"Hierarchical Complementary Learning for Weakly Supervised Object
+  Localization","['Sabrina Narimene Benassou', 'Wuzhen Shi', 'Feng Jiang', 'Abdallah Benzine']",arXiv:2011.08014
+http://arxiv.org/abs/2011.07221v1,2020-11-14T04:45:07Z,"Deep Interpretable Classification and Weakly-Supervised Segmentation of
+  Histology Images via Max-Min Uncertainty","['Soufiane Belharbi', 'Jérôme Rony', 'Jose Dolz', 'Ismail Ben Ayed', 'Luke McCaffrey', 'Eric Granger']",arXiv:2011.07221
+http://arxiv.org/abs/2011.06296v1,2020-11-12T10:15:56Z,"Real-World Anomaly Detection by using Digital Twin Systems and
+  Weakly-Supervised Learning","['Andrea Castellani', 'Sebastian Schmitt', 'Stefano Squartini']",arXiv:2011.06296
+http://arxiv.org/abs/2011.04626v1,2020-11-09T18:35:35Z,"Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised
+  Semantic Segmentation","['Erik Stammes', 'Tom F. H. Runia', 'Michael Hofmann', 'Mohsen Ghafoorian']",arXiv:2011.04626
+http://arxiv.org/abs/2011.03577v1,2020-11-06T20:20:45Z,"A Weakly Supervised Convolutional Network for Change Segmentation and
+  Classification","['Philipp Andermatt', 'Radu Timofte']",arXiv:2011.03577
+http://arxiv.org/abs/2011.03290v1,2020-11-06T11:32:04Z,"Event-VPR: End-to-End Weakly Supervised Network Architecture for
+  Event-based Visual Place Recognition","['Delei Kong', 'Zheng Fang', 'Haojia Li', 'Kuanxu Hou', 'Sonya Coleman', 'Dermot Kerr']",arXiv:2011.03290
+http://arxiv.org/abs/2011.03149v1,2020-11-06T00:33:20Z,Affinity LCFCN: Learning to Segment Fish with Weak Supervision,"['Issam Laradji', 'Alzayat Saleh', 'Pau Rodriguez', 'Derek Nowrouzezahrai', 'Mostafa Rahimi Azghadi', 'David Vazquez']",arXiv:2011.03149
+http://arxiv.org/abs/2011.02208v1,2020-11-04T10:14:33Z,"Crack Detection as a Weakly-Supervised Problem: Towards Achieving Less
+  Annotation-Intensive Crack Detectors","['Yuki Inoue', 'Hiroto Nagayoshi']",arXiv:2011.02208
+http://arxiv.org/abs/2011.00794v1,2020-11-02T07:47:10Z,"CaCL: Class-aware Codebook Learning for Weakly Supervised Segmentation
+  on Diffuse Image Patterns","['Ruining Deng', 'Quan Liu', 'Shunxing Bao', 'Aadarsh Jha', 'Catie Chang', 'Bryan A. Millis', 'Matthew J. Tyska', 'Yuankai Huo']",arXiv:2011.00794
+http://arxiv.org/abs/2011.00695v1,2020-11-02T03:05:33Z,"Learning generic feature representation with synthetic data for
+  weakly-supervised sound event detection by inter-frame distance loss","['Yuxin Huang', 'Liwei Lin', 'Xiangdong Wang', 'Hong Liu', 'Yueliang Qian', 'Min Liu', 'Kazushige Ouchi']",arXiv:2011.00695
+http://arxiv.org/abs/2011.00149v1,2020-10-31T00:16:53Z,"Weakly Supervised 3D Classification of Chest CT using Aggregated
+  Multi-Resolution Deep Segmentation Features","['Anindo Saha', 'Fakrul I. Tushar', 'Khrystyna Faryna', ""Vincent M. D'Anniballe"", 'Rui Hou', 'Maciej A. Mazurowski', 'Geoffrey D. Rubin', 'Joseph Y. Lo']",arXiv:2011.00149
+http://arxiv.org/abs/2010.13433v3,2020-10-26T09:08:21Z,"A Weakly-Supervised Semantic Segmentation Approach based on the Centroid
+  Loss: Application to Quality Control and Inspection","['Kai Yao', 'Alberto Ortiz', 'Francisco Bonnin-Pascual']",arXiv:2010.13433
+http://arxiv.org/abs/2010.13175v2,2020-10-25T18:01:26Z,Weakly-Supervised Amodal Instance Segmentation with Compositional Priors,"['Yihong Sun', 'Adam Kortylewski', 'Alan Yuille']",arXiv:2010.13175
+http://arxiv.org/abs/2010.12023v1,2020-10-22T20:13:32Z,"Comprehensive Attention Self-Distillation for Weakly-Supervised Object
+  Detection","['Zeyi Huang', 'Yang Zou', 'Vijayakumar Bhagavatula', 'Dong Huang']",arXiv:2010.12023
+http://arxiv.org/abs/2010.11594v1,2020-10-22T10:53:32Z,"Two-Stream Consensus Network for Weakly-Supervised Temporal Action
+  Localization","['Yuanhao Zhai', 'Le Wang', 'Wei Tang', 'Qilin Zhang', 'Junsong Yuan', 'Gang Hua']",arXiv:2010.11594
+http://arxiv.org/abs/2010.11475v1,2020-10-22T06:42:00Z,"High resolution weakly supervised localization architectures for medical
+  images","['Konpat Preechakul', 'Sira Sriswasdi', 'Boonserm Kijsirikul', 'Ekapol Chuangsuwanich']",arXiv:2010.11475
+http://arxiv.org/abs/2010.09985v2,2020-10-20T03:14:14Z,"Power pooling: An adaptive pooling function for weakly labelled sound
+  event detection","['Yuzhuo Liu', 'Hangting Chen', 'YunWang', 'Pengyuan Zhang']",arXiv:2010.09985
+http://arxiv.org/abs/2010.09525v1,2020-10-19T13:56:22Z,"Weakly-supervised Learning For Catheter Segmentation in 3D Frustum
+  Ultrasound","['Hongxu Yang', 'Caifeng Shan', 'Alexander F. Kolen', 'Peter H. N. de With']",arXiv:2010.09525
+http://arxiv.org/abs/2010.09456v1,2020-10-19T13:06:23Z,GASNet: Weakly-supervised Framework for COVID-19 Lesion Segmentation,"['Zhanwei Xu', 'Yukun Cao', 'Cheng Jin', 'Guozhu Shao', 'Xiaoqing Liu', 'Jie Zhou', 'Heshui Shi', 'Jianjiang Feng']",arXiv:2010.09456
+http://arxiv.org/abs/2010.03815v1,2020-10-08T07:41:40Z,"A Comparative Study on Effects of Original and Pseudo Labels for Weakly
+  Supervised Learning for Car Localization Problem",['Cenk Bircanoglu'],arXiv:2010.03815
+http://arxiv.org/abs/2010.02546v1,2020-10-06T08:28:34Z,"Training Deep Neural Networks for Wireless Sensor Networks Using Loosely
+  and Weakly Labeled Images","['Qianwei Zhou', 'Yuhang Chen', 'Baoqing Li', 'Xiaoxin Li', 'Chen Zhou', 'Jingchang Huang', 'Haigen Hu']",arXiv:2010.02546
+http://arxiv.org/abs/2010.01683v1,2020-10-04T21:06:45Z,"Weakly-supervised Fine-grained Event Recognition on Social Media Texts
+  for Disaster Management","['Wenlin Yao', 'Cheng Zhang', 'Shiva Saravanan', 'Ruihong Huang', 'Ali Mostafavi']",arXiv:2010.01683
+http://arxiv.org/abs/2010.00127v1,2020-09-30T22:19:40Z,"Self-Guided Multiple Instance Learning for Weakly Supervised Disease
+  Classification and Localization in Chest Radiographs","['Constantin Seibold', 'Jens Kleesiek', 'Heinz-Peter Schlemmer', 'Rainer Stiefelhagen']",arXiv:2010.00127
+http://arxiv.org/abs/2009.13898v1,2020-09-29T09:47:23Z,Weakly-supervised Salient Instance Detection,"['Xin Tian', 'Ke Xu', 'Xin Yang', 'Baocai Yin', 'Rynson W. H. Lau']",arXiv:2009.13898
+http://arxiv.org/abs/2009.12547v2,2020-09-26T09:26:29Z,Causal Intervention for Weakly-Supervised Semantic Segmentation,"['Dong Zhang', 'Hanwang Zhang', 'Jinhui Tang', 'Xiansheng Hua', 'Qianru Sun']",arXiv:2009.12547
+http://arxiv.org/abs/2009.12063v1,2020-09-25T07:24:46Z,"In-sample Contrastive Learning and Consistent Attention for Weakly
+  Supervised Object Localization","['Minsong Ki', 'Youngjung Uh', 'Wonyoung Lee', 'Hyeran Byun']",arXiv:2009.12063
+http://arxiv.org/abs/2009.11988v1,2020-09-25T00:28:10Z,Going to Extremes: Weakly Supervised Medical Image Segmentation,"['Holger R Roth', 'Dong Yang', 'Ziyue Xu', 'Xiaosong Wang', 'Daguang Xu']",arXiv:2009.11988
+http://arxiv.org/abs/2008.10268v1,2020-08-24T09:00:30Z,Explainable Disease Classification via weakly-supervised segmentation,"['Aniket Joshi', 'Gaurav Mishra', 'Jayanthi Sivaswamy']",arXiv:2008.10268
+http://arxiv.org/abs/2008.10238v1,2020-08-24T07:54:59Z,"VLANet: Video-Language Alignment Network for Weakly-Supervised Video
+  Moment Retrieval","['Minuk Ma', 'Sunjae Yoon', 'Junyeong Kim', 'Youngjoon Lee', 'Sunghun Kang', 'Chang D. Yoo']",arXiv:2008.10238
+http://arxiv.org/abs/2008.08944v3,2020-08-20T12:58:03Z,Localizing Anomalies from Weakly-Labeled Videos,"['Hui Lv', 'Chuanwei Zhou', 'Chunyan Xu', 'Zhen Cui', 'Jian Yang']",arXiv:2008.08944
+http://arxiv.org/abs/2008.08416v1,2020-08-19T13:09:00Z,"Gradually Applying Weakly Supervised and Active Learning for Mass
+  Detection in Breast Ultrasound Images","['JooYeol Yun', 'JungWoo Oh', 'IlDong Yun']",arXiv:2008.08416
+http://arxiv.org/abs/2008.08257v1,2020-08-19T04:42:46Z,"Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment
+  Retrieval in Videos","['Zhu Zhang', 'Zhijie Lin', 'Zhou Zhao', 'Jieming Zhu', 'Xiuqiang He']",arXiv:2008.08257
+http://arxiv.org/abs/2008.07728v2,2020-08-18T03:54:56Z,"Equivalent Classification Mapping for Weakly Supervised Temporal Action
+  Localization","['Tao Zhao', 'Junwei Han', 'Le Yang', 'Dingwen Zhang']",arXiv:2008.07728
+http://arxiv.org/abs/2008.07085v2,2020-08-17T04:46:25Z,"Multi-Task Learning for Interpretable Weakly Labelled Sound Event
+  Detection","['Soham Deshmukh', 'Bhiksha Raj', 'Rita Singh']",arXiv:2008.07085
+http://arxiv.org/abs/2008.05770v1,2020-08-13T09:26:01Z,"Weakly Supervised Generative Network for Multiple 3D Human Pose
+  Hypotheses","['Chen Li', 'Gim Hee Lee']",arXiv:2008.05770
+http://arxiv.org/abs/2008.05096v1,2020-08-12T04:14:11Z,Inter-Image Communication for Weakly Supervised Localization,"['Xiaolin Zhang', 'Yunchao Wei', 'Yi Yang']",arXiv:2008.05096
+http://arxiv.org/abs/2008.03350v1,2020-08-07T19:46:33Z,"A Joint Framework for Audio Tagging and Weakly Supervised Acoustic Event
+  Detection Using DenseNet with Global Average Pooling","['Chieh-Chi Kao', 'Bowen Shi', 'Ming Sun', 'Chao Wang']",arXiv:2008.03350
+http://arxiv.org/abs/2008.01786v1,2020-08-04T19:39:12Z,"Entropy Guided Adversarial Model for Weakly Supervised Object
+  Localization","['Sabrina Narimene Benassou', 'Wuzhen Shi', 'Feng Jiang']",arXiv:2008.01786
+http://arxiv.org/abs/2008.01201v1,2020-08-03T21:19:08Z,"Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty
+  Regularization","['Yu-Ting Chang', 'Qiaosong Wang', 'Wei-Chih Hung', 'Robinson Piramuthu', 'Yi-Hsuan Tsai', 'Ming-Hsuan Yang']",arXiv:2008.01201
+http://arxiv.org/abs/2008.01183v1,2020-08-03T20:48:31Z,Weakly-Supervised Semantic Segmentation via Sub-category Exploration,"['Yu-Ting Chang', 'Qiaosong Wang', 'Wei-Chih Hung', 'Robinson Piramuthu', 'Yi-Hsuan Tsai', 'Ming-Hsuan Yang']",arXiv:2008.01183
+http://arxiv.org/abs/2008.01178v4,2020-08-03T20:36:01Z,"Multiple instance learning on deep features for weakly supervised object
+  detection with extreme domain shifts","['Nicolas Gonthier', 'Saïd Ladjal', 'Yann Gousseau']",arXiv:2008.01178
+http://arxiv.org/abs/2007.15778v1,2020-07-31T00:04:14Z,"Weakly supervised one-stage vision and language disease detection using
+  large scale pneumonia and pneumothorax studies","['Leo K. Tam', 'Xiaosong Wang', 'Evrim Turkbey', 'Kevin Lu', 'Yuhong Wen', 'Daguang Xu']",arXiv:2007.15778
+http://arxiv.org/abs/2007.15243v1,2020-07-30T05:49:30Z,Weakly Supervised Minirhizotron Image Segmentation with MIL-CAM,"['Guohao Yu', 'Alina Zare', 'Weihuang Xu', 'Roser Matamala', 'Joel Reyes-Cabrera', 'Felix B. Fritschi', 'Thomas E. Juenger']",arXiv:2007.15243
+http://arxiv.org/abs/2007.15176v2,2020-07-30T01:33:57Z,Domain Adaptive Semantic Segmentation Using Weak Labels,"['Sujoy Paul', 'Yi-Hsuan Tsai', 'Samuel Schulter', 'Amit K. Roy-Chowdhury', 'Manmohan Chandraker']",arXiv:2007.15176
+http://arxiv.org/abs/2007.14118v1,2020-07-28T10:50:38Z,DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision,"['Julia Wolleb', 'Robin Sandkühler', 'Philippe C. Cattin']",arXiv:2007.14118
+http://arxiv.org/abs/2007.13970v1,2020-07-28T03:30:11Z,Weakly Supervised 3D Object Detection from Point Clouds,"['Zengyi Qin', 'Jinglu Wang', 'Yan Lu']",arXiv:2007.13970
+http://arxiv.org/abs/2007.13251v1,2020-07-27T00:15:13Z,Point-to-set distance functions for weakly supervised segmentation,['Bas Peters'],arXiv:2007.13251
+http://arxiv.org/abs/2007.12724v1,2020-07-24T18:13:52Z,"Detecting Online Hate Speech: Approaches Using Weak Supervision and
+  Network Embedding Models","['Michael Ridenhour', 'Arunkumar Bagavathi', 'Elaheh Raisi', 'Siddharth Krishnan']",arXiv:2007.12724
+http://arxiv.org/abs/2007.11901v1,2020-07-23T10:12:46Z,Weakly Supervised 3D Object Detection from Lidar Point Cloud,"['Qinghao Meng', 'Wenguan Wang', 'Tianfei Zhou', 'Jianbing Shen', 'Luc Van Gool', 'Dengxin Dai']",arXiv:2007.11901
+http://arxiv.org/abs/2007.11726v2,2020-07-23T00:24:57Z,"A weakly supervised registration-based framework for prostate
+  segmentation via the combination of statistical shape model and CNN","['Chunxia Qin', 'Xiaojun Chen', 'Jocelyne Troccaz']",arXiv:2007.11726
+http://arxiv.org/abs/2007.10703v1,2020-07-21T10:45:05Z,"Uncertainty-Aware Weakly Supervised Action Detection from Untrimmed
+  Videos","['Anurag Arnab', 'Chen Sun', 'Arsha Nagrani', 'Cordelia Schmid']",arXiv:2007.10703
+http://arxiv.org/abs/2007.10007v1,2020-07-20T11:26:32Z,A Macro-Micro Weakly-supervised Framework for AS-OCT Tissue Segmentation,"['Munan Ning', 'Cheng Bian', 'Donghuan Lu', 'Hong-Yu Zhou', 'Shuang Yu', 'Chenglang Yuan', 'Yang Guo', 'Yaohua Wang', 'Kai Ma', 'Yefeng Zheng']",arXiv:2007.10007
+http://arxiv.org/abs/2007.09727v1,2020-07-19T17:33:42Z,Geometry Constrained Weakly Supervised Object Localization,"['Weizeng Lu', 'Xi Jia', 'Weicheng Xie', 'Linlin Shen', 'Yicong Zhou', 'Jinming Duan']",arXiv:2007.09727
+http://arxiv.org/abs/2007.09470v1,2020-07-18T16:40:55Z,Social Adaptive Module for Weakly-supervised Group Activity Recognition,"['Rui Yan', 'Lingxi Xie', 'Jinhui Tang', 'Xiangbo Shu', 'Qi Tian']",arXiv:2007.09470
+http://arxiv.org/abs/2007.09397v1,2020-07-18T10:32:11Z,"Weakly Supervised Instance Segmentation by Learning Annotation
+  Consistent Instances","['Aditya Arun', 'C. V. Jawahar', 'M. Pawan Kumar']",arXiv:2007.09397
+http://arxiv.org/abs/2007.07986v1,2020-07-15T20:38:25Z,"Boosting Weakly Supervised Object Detection with Progressive Knowledge
+  Transfer","['Yuanyi Zhong', 'Jianfeng Wang', 'Jian Peng', 'Lei Zhang']",arXiv:2007.07986
+http://arxiv.org/abs/2007.06643v1,2020-07-13T19:33:24Z,"Adversarial Background-Aware Loss for Weakly-supervised Temporal
+  Activity Localization","['Kyle Min', 'Jason J. Corso']",arXiv:2007.06643
+http://arxiv.org/abs/2007.05615v1,2020-07-10T21:25:27Z,PCAMs: Weakly Supervised Semantic Segmentation Using Point Supervision,"['R. Austin McEver', 'B. S. Manjunath']",arXiv:2007.05615
+http://arxiv.org/abs/2007.05448v1,2020-07-10T15:41:29Z,"Weakly Supervised Deep Nuclei Segmentation Using Partial Points
+  Annotation in Histopathology Images","['Hui Qu', 'Pengxiang Wu', 'Qiaoying Huang', 'Jingru Yi', 'Zhennan Yan', 'Kang Li', 'Gregory M. Riedlinger', 'Subhajyoti De', 'Shaoting Zhang', 'Dimitris N. Metaxas']",arXiv:2007.05448
+http://arxiv.org/abs/2007.04687v2,2020-07-09T10:29:31Z,"Not only Look, but also Listen: Learning Multimodal Violence Detection
+  under Weak Supervision","['Peng Wu', 'Jing Liu', 'Yujia Shi', 'Yujia Sun', 'Fangtao Shao', 'Zhaoyang Wu', 'Zhiwei Yang']",arXiv:2007.04687
+http://arxiv.org/abs/2007.04178v1,2020-07-08T15:09:16Z,"Evaluation for Weakly Supervised Object Localization: Protocol, Metrics,
+  and Datasets","['Junsuk Choe', 'Seong Joon Oh', 'Sanghyuk Chun', 'Zeynep Akata', 'Hyunjung Shim']",arXiv:2007.04178
+http://arxiv.org/abs/2007.07012v1,2020-07-07T16:38:04Z,"A Weakly Supervised Region-Based Active Learning Method for COVID-19
+  Segmentation in CT Images","['Issam Laradji', 'Pau Rodriguez', 'Frederic Branchaud-Charron', 'Keegan Lensink', 'Parmida Atighehchian', 'William Parker', 'David Vazquez', 'Derek Nowrouzezahrai']",arXiv:2007.07012
+http://arxiv.org/abs/2007.02277v1,2020-07-05T10:05:01Z,"Weakly Supervised Domain Adaptation for Built-up Region Segmentation in
+  Aerial and Satellite Imagery","['Javed Iqbal', 'Mohsen Ali']",arXiv:2007.02277
+http://arxiv.org/abs/2007.02180v2,2020-07-04T20:41:17Z,"A Weakly Supervised Consistency-based Learning Method for COVID-19
+  Segmentation in CT Images","['Issam Laradji', 'Pau Rodriguez', 'Oscar Mañas', 'Keegan Lensink', 'Marco Law', 'Lironne Kurzman', 'William Parker', 'David Vazquez', 'Derek Nowrouzezahrai']",arXiv:2007.02180
+http://arxiv.org/abs/2007.01947v2,2020-07-03T21:53:46Z,Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation,"['Guolei Sun', 'Wenguan Wang', 'Jifeng Dai', 'Luc Van Gool']",arXiv:2007.01947
+http://arxiv.org/abs/2007.01598v1,2020-07-03T10:32:19Z,Weakly Supervised Temporal Action Localization with Segment-Level Labels,"['Xinpeng Ding', 'Nannan Wang', 'Xinbo Gao', 'Jie Li', 'Xiaoyu Wang', 'Tongliang Liu']",arXiv:2007.01598
+http://arxiv.org/abs/2007.00748v1,2020-07-01T20:48:35Z,"Weakly-Supervised Segmentation for Disease Localization in Chest X-Ray
+  Images","['Ostap Viniavskyi', 'Mariia Dobko', 'Oles Dobosevych']",arXiv:2007.00748
+http://arxiv.org/abs/2006.12884v1,2020-06-23T10:24:13Z,SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection,"['Ze Chen', 'Zhihang Fu', 'Rongxin Jiang', 'Yaowu Chen', 'Xian-sheng Hua']",arXiv:2006.12884
+http://arxiv.org/abs/2006.09562v2,2020-06-16T23:14:52Z,"Explanation-based Weakly-supervised Learning of Visual Relations with
+  Graph Networks","['Federico Baldassarre', 'Kevin Smith', 'Josephine Sullivan', 'Hossein Azizpour']",arXiv:2006.09562
+http://arxiv.org/abs/2006.07834v1,2020-06-14T08:00:42Z,"Multi-Miner: Object-Adaptive Region Mining for Weakly-Supervised
+  Semantic Segmentation","['Kuangqi Zhou', 'Qibin Hou', 'Zun Li', 'Jiashi Feng']",arXiv:2006.07834
+http://arxiv.org/abs/2006.07601v1,2020-06-13T09:56:18Z,"NoPeopleAllowed: The Three-Step Approach to Weakly Supervised Semantic
+  Segmentation","['Mariia Dobko', 'Ostap Viniavskyi', 'Oles Dobosevych']",arXiv:2006.07601
+http://arxiv.org/abs/2006.07491v1,2020-06-12T22:18:02Z,"OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page
+  Text Recognition by learning to unfold","['Mohamed Yousef', 'Tom E. Bishop']",arXiv:2006.07491
+http://arxiv.org/abs/2006.07006v3,2020-06-12T08:54:35Z,Weakly-supervised Temporal Action Localization by Uncertainty Modeling,"['Pilhyeon Lee', 'Jinglu Wang', 'Yan Lu', 'Hyeran Byun']",arXiv:2006.07006
+http://arxiv.org/abs/2006.03732v1,2020-06-05T23:08:41Z,WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos,"['Mingfei Gao', 'Yingbo Zhou', 'Ran Xu', 'Richard Socher', 'Caiming Xiong']",arXiv:2006.03732
+http://arxiv.org/abs/2005.14480v1,2020-05-29T09:57:17Z,Weakly Supervised Lesion Localization With Probabilistic-CAM Pooling,"['Wenwu Ye', 'Jin Yao', 'Hui Xue', 'Yi Li']",arXiv:2005.14480
+http://arxiv.org/abs/2005.13366v1,2020-05-27T13:55:33Z,"Weakly Supervised Vessel Segmentation in X-ray Angiograms by Self-Paced
+  Learning from Noisy Labels with Suggestive Annotation","['Jingyang Zhang', 'Guotai Wang', 'Hongzhi Xie', 'Shuyang Zhang', 'Ning Huang', 'Shaoting Zhang', 'Lixu Gu']",arXiv:2005.13366
+http://arxiv.org/abs/2005.13084v1,2020-05-26T23:41:05Z,Learning with Weak Supervision for Email Intent Detection,"['Kai Shu', 'Subhabrata Mukherjee', 'Guoqing Zheng', 'Ahmed Hassan Awadallah', 'Milad Shokouhi', 'Susan Dumais']",arXiv:2005.13084
+http://arxiv.org/abs/2005.09743v2,2020-05-19T20:30:31Z,On Evaluating Weakly Supervised Action Segmentation Methods,"['Yaser Souri', 'Alexander Richard', 'Luca Minciullo', 'Juergen Gall']",arXiv:2005.09743
+http://arxiv.org/abs/2005.07817v3,2020-05-15T22:57:53Z,"Weakly Supervised Training of Hierarchical Attention Networks for
+  Speaker Identification","['Yanpei Shi', 'Qiang Huang', 'Thomas Hain']",arXiv:2005.07817
+http://arxiv.org/abs/2005.00328v1,2020-05-01T12:16:22Z,"ACCL: Adversarial constrained-CNN loss for weakly supervised medical
+  image segmentation","['Pengyi Zhang', 'Yunxin Zhong', 'Xiaoqiong Li']",arXiv:2005.00328
+http://arxiv.org/abs/2004.14723v1,2020-04-30T12:29:55Z,"Named Entity Recognition without Labelled Data: A Weak Supervision
+  Approach","['Pierre Lison', 'Aliaksandr Hubin', 'Jeremy Barnes', 'Samia Touileb']",arXiv:2004.14723
+http://arxiv.org/abs/2004.12498v2,2020-04-26T23:02:23Z,"Weakly Supervised Semantic Segmentation in 3D Graph-Structured Point
+  Clouds of Wild Scenes","['Haiyan Wang', 'Xuejian Rong', 'Liang Yang', 'Jinglun Feng', 'Jizhong Xiao', 'Yingli Tian']",arXiv:2004.12498
+http://arxiv.org/abs/2004.08270v1,2020-04-17T14:35:00Z,Weakly Supervised Geodesic Segmentation of Egyptian Mummy CT Scans,"['Avik Hati', 'Matteo Bustreo', 'Diego Sona', 'Vittorio Murino', 'Alessio Del Bue']",arXiv:2004.08270
+http://arxiv.org/abs/2004.06816v1,2020-04-14T22:11:22Z,"Bounding boxes for weakly supervised segmentation: Global constraints
+  get close to full supervision","['Hoel Kervadec', 'Jose Dolz', 'Shanshan Wang', 'Eric Granger', 'Ismail Ben Ayed']",arXiv:2004.06816
+http://arxiv.org/abs/2004.06689v1,2020-04-14T17:45:03Z,"Weakly Supervised Deep Learning for COVID-19 Infection Detection and
+  Classification from CT Images","['Shaoping Hu', 'Yuan Gao', 'Zhangming Niu', 'Yinghui Jiang', 'Lao Li', 'Xianglu Xiao', 'Minhao Wang', 'Evandro Fei Fang', 'Wade Menpes-Smith', 'Jun Xia', 'Hui Ye', 'Guang Yang']",arXiv:2004.06689
+http://arxiv.org/abs/2004.05768v2,2020-04-13T04:57:09Z,"Sequential Weakly Labeled Multi-Activity Localization and Recognition on
+  Wearable Sensors using Recurrent Attention Networks","['Kun Wang', 'Jun He', 'Lei Zhang']",arXiv:2004.05768
+http://arxiv.org/abs/2004.05024v3,2020-04-10T13:12:47Z,"Weakly supervised multiple instance learning histopathological tumor
+  segmentation","['Marvin Lerousseau', 'Maria Vakalopoulou', 'Marion Classe', 'Julien Adam', 'Enzo Battistella', 'Alexandre Carré', 'Théo Estienne', 'Théophraste Henry', 'Eric Deutsch', 'Nikos Paragios']",arXiv:2004.05024
+http://arxiv.org/abs/2004.04725v3,2020-04-09T17:57:09Z,"Instance-aware, Context-focused, and Memory-efficient Weakly Supervised
+  Object Detection","['Zhongzheng Ren', 'Zhiding Yu', 'Xiaodong Yang', 'Ming-Yu Liu', 'Yong Jae Lee', 'Alexander G. Schwing', 'Jan Kautz']",arXiv:2004.04725
+http://arxiv.org/abs/2004.04581v1,2020-04-09T14:57:57Z,"Self-supervised Equivariant Attention Mechanism for Weakly Supervised
+  Semantic Segmentation","['Yude Wang', 'Jie Zhang', 'Meina Kan', 'Shiguang Shan', 'Xilin Chen']",arXiv:2004.04581
+http://arxiv.org/abs/2004.04091v1,2020-04-08T16:14:41Z,"Weakly Supervised Semantic Point Cloud Segmentation:Towards 10X Fewer
+  Labels","['Xun Xu', 'Gim Hee Lee']",arXiv:2004.04091
+http://arxiv.org/abs/2004.03046v1,2020-04-07T00:03:28Z,Manifold-driven Attention Maps for Weakly Supervised Segmentation,"['Sukesh Adiga V', 'Jose Dolz', 'Herve Lombaert']",arXiv:2004.03046
+http://arxiv.org/abs/2004.03451v1,2020-04-02T11:40:26Z,"RSS-Net: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW
+  Radar","['Prannay Kaul', 'Daniele De Martini', 'Matthew Gadd', 'Paul Newman']",arXiv:2004.03451
+http://arxiv.org/abs/2004.00163v2,2020-03-31T23:36:04Z,"Weakly-Supervised Action Localization with Expectation-Maximization
+  Multi-Instance Learning","['Zhekun Luo', 'Devin Guillory', 'Baifeng Shi', 'Wei Ke', 'Fang Wan', 'Trevor Darrell', 'Huijuan Xu']",arXiv:2004.00163
+http://arxiv.org/abs/2003.13648v1,2020-03-30T17:32:49Z,"Weakly-supervised land classification for coastal zone based on deep
+  convolutional neural networks by incorporating dual-polarimetric
+  characteristics into training dataset","['Sheng Sun', 'Armando Marino', 'Wenze Shui', 'Zhongwen Hu']",arXiv:2003.13648
+http://arxiv.org/abs/2003.13141v1,2020-03-29T21:15:18Z,"Learning a Weakly-Supervised Video Actor-Action Segmentation Model with
+  a Wise Selection","['Jie Chen', 'Zhiheng Li', 'Jiebo Luo', 'Chenliang Xu']",arXiv:2003.13141
+http://arxiv.org/abs/2003.13035v1,2020-03-29T14:13:29Z,"Multi-Path Region Mining For Weakly Supervised 3D Semantic Segmentation
+  on Point Clouds","['Jiacheng Wei', 'Guosheng Lin', 'Kim-Hui Yap', 'Tzu-Yi Hung', 'Lihua Xie']",arXiv:2003.13035
+http://arxiv.org/abs/2003.12424v2,2020-03-27T14:02:56Z,Weakly-Supervised Action Localization by Generative Attention Modeling,"['Baifeng Shi', 'Qi Dai', 'Yadong Mu', 'Jingdong Wang']",arXiv:2003.12424
+http://arxiv.org/abs/2003.12263v2,2020-03-27T07:36:59Z,Weakly Supervised Dataset Collection for Robust Person Detection,"['Munetaka Minoguchi', 'Ken Okayama', 'Yutaka Satoh', 'Hirokatsu Kataoka']",arXiv:2003.12263
+http://arxiv.org/abs/2003.12222v6,2020-03-27T03:47:12Z,"Voice activity detection in the wild via weakly supervised sound event
+  detection","['Heinrich Dinkel', 'Yefei Chen', 'Mengyue Wu', 'Kai Yu']",arXiv:2003.12222
+http://arxiv.org/abs/2003.12218v5,2020-03-27T03:35:46Z,"Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak
+  Supervision","['Xuan Wang', 'Xiangchen Song', 'Bangzheng Li', 'Yingjun Guan', 'Jiawei Han']",arXiv:2003.12218
+http://arxiv.org/abs/2003.11087v1,2020-03-24T19:41:18Z,"Bootstrapping Weakly Supervised Segmentation-free Word Spotting through
+  HMM-based Alignment","['Tomas Wilkinson', 'Carl Nettelblad']",arXiv:2003.11087
+http://arxiv.org/abs/2003.08375v2,2020-03-18T17:53:33Z,"Pairwise Similarity Knowledge Transfer for Weakly Supervised Object
+  Localization","['Amir Rahimi', 'Amirreza Shaban', 'Thalaiyasingam Ajanthan', 'Richard Hartley', 'Byron Boots']",arXiv:2003.08375
+http://arxiv.org/abs/2003.08337v2,2020-03-18T17:06:08Z,Weakly Supervised PET Tumor Detection Using Class Response,"['Amine Amyar', 'Romain Modzelewski', 'Pierre Vera', 'Vincent Morard', 'Su Ruan']",arXiv:2003.08337
+http://arxiv.org/abs/2003.07685v1,2020-03-17T12:59:50Z,Weakly-Supervised Salient Object Detection via Scribble Annotations,"['Jing Zhang', 'Xin Yu', 'Aixuan Li', 'Peipei Song', 'Bowen Liu', 'Yuchao Dai']",arXiv:2003.07685
+http://arxiv.org/abs/2003.07048v1,2020-03-16T07:01:01Z,"Weakly-Supervised Multi-Level Attentional Reconstruction Network for
+  Grounding Textual Queries in Videos","['Yijun Song', 'Jingwen Wang', 'Lin Ma', 'Zhou Yu', 'Jun Yu']",arXiv:2003.07048
+http://arxiv.org/abs/2003.06798v3,2020-03-15T11:35:28Z,StarNet: towards Weakly Supervised Few-Shot Object Detection,"['Leonid Karlinsky', 'Joseph Shtok', 'Amit Alfassy', 'Moshe Lichtenstein', 'Sivan Harary', 'Eli Schwartz', 'Sivan Doveh', 'Prasanna Sattigeri', 'Rogerio Feris', 'Alexander Bronstein', 'Raja Giryes']",arXiv:2003.06798
+http://arxiv.org/abs/2003.04719v3,2020-03-09T05:07:50Z,"Dual-attention Guided Dropblock Module for Weakly Supervised Object
+  Localization","['Junhui Yin', 'Siqing Zhang', 'Dongliang Chang', 'Zhanyu Ma', 'Jun Guo']",arXiv:2003.04719
+http://arxiv.org/abs/2003.00874v3,2020-03-02T14:07:05Z,"Weakly-supervised Object Localization for Few-shot Learning and
+  Fine-grained Few-shot Learning","['Xiaojian He', 'Jinfu Lin', 'Junming Shen']",arXiv:2003.00874
+http://arxiv.org/abs/2002.11936v2,2020-02-27T06:17:11Z,"Weak Supervision in Convolutional Neural Network for Semantic
+  Segmentation of Diffuse Lung Diseases Using Partially Annotated Dataset","['Yuki Suzuki', 'Kazuki Yamagata', 'Yanagawa Masahiro', 'Shoji Kido', 'Noriyuki Tomiyama']",arXiv:2002.11936
+http://arxiv.org/abs/2002.11359v2,2020-02-26T08:54:20Z,Rethinking the Route Towards Weakly Supervised Object Localization,"['Chen-Lin Zhang', 'Yun-Hao Cao', 'Jianxin Wu']",arXiv:2002.11359
+http://arxiv.org/abs/2002.09661v1,2020-02-22T08:40:04Z,Multi-Branch Learning for Weakly-Labeled Sound Event Detection,"['Yuxin Huang', 'Xiangdong Wang', 'Liwei Lin', 'Hong Liu', 'Yueliang Qian']",arXiv:2002.09661
+http://arxiv.org/abs/2002.08254v2,2020-02-19T16:01:25Z,"Weakly Supervised Semantic Segmentation of Satellite Images for Land
+  Cover Mapping -- Challenges and Opportunities","['Michael Schmitt', 'Jonathan Prexl', 'Patrick Ebel', 'Lukas Liebel', 'Xiao Xiang Zhu']",arXiv:2002.08254
+http://arxiv.org/abs/2002.08098v1,2020-02-19T10:32:03Z,Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning,"['Xiang Wang', 'Sifei Liu', 'Huimin Ma', 'Ming-Hsuan Yang']",arXiv:2002.08098
+http://arxiv.org/abs/2002.07613v1,2020-02-13T15:28:42Z,"An interpretable classifier for high-resolution breast cancer screening
+  images utilizing weakly supervised localization","['Yiqiu Shen', 'Nan Wu', 'Jason Phang', 'Jungkyu Park', 'Kangning Liu', 'Sudarshini Tyagi', 'Laura Heacock', 'S. Gene Kim', 'Linda Moy', 'Kyunghyun Cho', 'Krzysztof J. Geras']",arXiv:2002.07613
+http://arxiv.org/abs/2002.03353v1,2020-02-09T12:33:23Z,"Weakly Supervised Attention Pyramid Convolutional Neural Network for
+  Fine-Grained Visual Classification","['Yifeng Ding', 'Shaoguo Wen', 'Jiyang Xie', 'Dongliang Chang', 'Zhanyu Ma', 'Zhongwei Si', 'Haibin Ling']",arXiv:2002.03353
+http://arxiv.org/abs/2002.03266v1,2020-02-09T02:17:46Z,"Weakly-Supervised Multi-Person Action Recognition in 360$^{\circ}$
+  Videos","['Junnan Li', 'Jianquan Liu', 'Yongkang Wong', 'Shoji Nishimura', 'Mohan Kankanhalli']",arXiv:2002.03266
+http://arxiv.org/abs/2002.01449v1,2020-02-04T18:21:10Z,"Action Graphs: Weakly-supervised Action Localization with Graph
+  Convolution Networks","['Maheen Rashid', 'Hedvig Kjellström', 'Yong Jae Lee']",arXiv:2002.01449
+http://arxiv.org/abs/2002.01087v1,2020-02-04T02:11:39Z,Object Instance Mining for Weakly Supervised Object Detection,"['Chenhao Lin', 'Siwen Wang', 'Dongqi Xu', 'Yu Lu', 'Wayne Zhang']",arXiv:2002.01087
+http://arxiv.org/abs/2001.11248v1,2020-01-30T10:51:25Z,"Weakly Supervised Segmentation of Cracks on Solar Cells using Normalized
+  Lp Norm","['Martin Mayr', 'Mathis Hoffmann', 'Andreas Maier', 'Vincent Christlein']",arXiv:2001.11248
+http://arxiv.org/abs/2001.11207v3,2020-01-30T08:35:42Z,Weakly Supervised Instance Segmentation by Deep Community Learning,"['Jaedong Hwang', 'Seohyun Kim', 'Jeany Son', 'Bohyung Han']",arXiv:2001.11207
+http://arxiv.org/abs/2001.09540v3,2020-01-26T23:56:26Z,"Weakly Supervised Few-shot Object Segmentation using Co-Attention with
+  Visual and Semantic Embeddings","['Mennatullah Siam', 'Naren Doraiswamy', 'Boris N. Oreshkin', 'Hengshuai Yao', 'Martin Jagersand']",arXiv:2001.09540
+http://arxiv.org/abs/2001.09174v1,2020-01-24T19:39:33Z,Weakly Supervised Lesion Co-segmentation on CT Scans,"['Vatsal Agarwal', 'Youbao Tang', 'Jing Xiao', 'Ronald M. Summers']",arXiv:2001.09174
+http://arxiv.org/abs/2001.08590v1,2020-01-23T15:15:53Z,Weakly-Supervised Lesion Segmentation on CT Scans using Co-Segmentation,"['Vatsal Agarwal', 'Youbao Tang', 'Jing Xiao', 'Ronald M. Summers']",arXiv:2001.08590
+http://arxiv.org/abs/2001.07793v1,2020-01-21T22:01:17Z,"Weakly Supervised Temporal Action Localization Using Deep Metric
+  Learning","['Ashraful Islam', 'Richard J. Radke']",arXiv:2001.07793
+http://arxiv.org/abs/2001.07437v2,2020-01-21T10:50:06Z,Evaluating Weakly Supervised Object Localization Methods Right,"['Junsuk Choe', 'Seong Joon Oh', 'Seungho Lee', 'Sanghyuk Chun', 'Zeynep Akata', 'Hyunjung Shim']",arXiv:2001.07437
+http://arxiv.org/abs/1912.12520v2,2019-12-28T21:20:25Z,Weak Supervision for Fake News Detection via Reinforcement Learning,"['Yaqing Wang', 'Weifeng Yang', 'Fenglong Ma', 'Jin Xu', 'Bin Zhong', 'Qiang Deng', 'Jing Gao']",arXiv:1912.12520
+http://arxiv.org/abs/1912.11186v3,2019-12-24T03:00:34Z,"A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in
+  Different Image Domains","['Lyndon Chan', 'Mahdi S. Hosseini', 'Konstantinos N. Plataniotis']",arXiv:1912.11186
+http://arxiv.org/abs/1912.08936v1,2019-12-18T22:54:29Z,One-Shot Weakly Supervised Video Object Segmentation,"['Mennatullah Siam', 'Naren Doraiswamy', 'Boris N. Oreshkin', 'Hengshuai Yao', 'Martin Jagersand']",arXiv:1912.08936
+http://arxiv.org/abs/1912.04761v2,2019-12-10T15:25:37Z,"Sound Event Detection of Weakly Labelled Data with CNN-Transformer and
+  Automatic Threshold Optimization","['Qiuqiang Kong', 'Yong Xu', 'Wenwu Wang', 'Mark D. Plumbley']",arXiv:1912.04761
+http://arxiv.org/abs/1912.04138v1,2019-12-09T15:48:34Z,"A Weak Supervision Approach to Detecting Visual Anomalies for Automated
+  Testing of Graphics Units","['Adi Szeskin', 'Lev Faivishevsky', 'Ashwin K Muppalla', 'Amitai Armon', 'Tom Hope']",arXiv:1912.04138
+http://arxiv.org/abs/1912.01522v2,2019-12-03T16:51:11Z,Convolutional STN for Weakly Supervised Object Localization,"['Akhil Meethal', 'Marco Pedersoli', 'Soufiane Belharbi', 'Eric Granger']",arXiv:1912.01522
+http://arxiv.org/abs/1911.13077v1,2019-11-29T12:29:15Z,"Weakly Supervised Cell Instance Segmentation by Propagating from
+  Detection Response","['Kazuya Nishimura', 'Dai Fei Elmer Ker', 'Ryoma Bise']",arXiv:1911.13077
+http://arxiv.org/abs/1911.12148v1,2019-11-27T13:34:38Z,Towards Precise End-to-end Weakly Supervised Object Detection Network,"['Ke Yang', 'Dongsheng Li', 'Yong Dou']",arXiv:1911.12148
+http://arxiv.org/abs/1911.11961v1,2019-11-27T05:29:47Z,"AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly
+  Supervised Action Recognition and Localization","['Xiao-Yu Zhang', 'Changsheng Li', 'Haichao Shi', 'Xiaobin Zhu', 'Peng Li', 'Jing Dong']",arXiv:1911.11961
+http://arxiv.org/abs/1911.13219v3,2019-11-26T23:23:29Z,"Automated Coronary Artery Atherosclerosis Detection and Weakly
+  Supervised Localization on Coronary CT Angiography with a Deep 3-Dimensional
+  Convolutional Neural Network","['Sema Candemir', 'Richard D. White', 'Mutlu Demirer', 'Vikash Gupta', 'Matthew T. Bigelow', 'Luciano M. Prevedello', 'Barbaros S. Erdal']",arXiv:1911.13219
+http://arxiv.org/abs/1911.10608v1,2019-11-24T21:05:35Z,AnoNet: Weakly Supervised Anomaly Detection in Textured Surfaces,"['Manpreet Singh Minhas', 'John Zelek']",arXiv:1911.10608
+http://arxiv.org/abs/1911.09963v1,2019-11-22T10:39:57Z,"Background Suppression Network for Weakly-supervised Temporal Action
+  Localization","['Pilhyeon Lee', 'Youngjung Uh', 'Hyeran Byun']",arXiv:1911.09963
+http://arxiv.org/abs/1911.08199v3,2019-11-19T10:31:43Z,Weakly-Supervised Video Moment Retrieval via Semantic Completion Network,"['Zhijie Lin', 'Zhou Zhao', 'Zhu Zhang', 'Qi Wang', 'Huasheng Liu']",arXiv:1911.08199
+http://arxiv.org/abs/1911.09026v1,2019-11-19T09:55:27Z,"Weak Supervision for Generating Pixel-Level Annotations in Scene Text
+  Segmentation","['Simone Bonechi', 'Paolo Andreini', 'Monica Bianchini', 'Franco Scarselli']",arXiv:1911.09026
+http://arxiv.org/abs/1911.08141v1,2019-11-19T08:03:11Z,"Tell Me What They're Holding: Weakly-supervised Object Detection with
+  Transferable Knowledge from Human-object Interaction","['Daesik Kim', 'Gyujeong Lee', 'Jisoo Jeong', 'Nojun Kwak']",arXiv:1911.08141
+http://arxiv.org/abs/1911.08039v1,2019-11-19T01:58:16Z,"Reliability Does Matter: An End-to-End Weakly Supervised Semantic
+  Segmentation Approach","['Bingfeng Zhang', 'Jimin Xiao', 'Yunchao Wei', 'Mingjie Sun', 'Kaizhu Huang']",arXiv:1911.08039
+http://arxiv.org/abs/1911.06616v3,2019-11-14T17:45:59Z,"Detecting cutaneous basal cell carcinomas in ultra-high resolution and
+  weakly labelled histopathological images","['Susanne Kimeswenger', 'Elisabeth Rumetshofer', 'Markus Hofmarcher', 'Philipp Tschandl', 'Harald Kittler', 'Sepp Hochreiter', 'Wolfram Hötzenecker', 'Günter Klambauer']",arXiv:1911.06616
+http://arxiv.org/abs/1911.05650v1,2019-11-13T17:24:21Z,"Extracting 2D weak labels from volume labels using multiple instance
+  learning in CT hemorrhage detection","['Samuel W. Remedios', 'Zihao Wu', 'Camilo Bermudez', 'Cailey I. Kerley', 'Snehashis Roy', 'Mayur B. Patel', 'John A. Butman', 'Bennett A. Landman', 'Dzung L. Pham']",arXiv:1911.05650
+http://arxiv.org/abs/1911.04666v1,2019-11-12T04:19:43Z,"Segment Relevance Estimation for Audio Analysis and Weakly-Labelled
+  Classification","['Juliano Henrique Foleiss', 'Tiago Fernandes Tavares']",arXiv:1911.04666
+http://arxiv.org/abs/1911.04140v3,2019-11-11T08:51:40Z,"Guided Weak Supervision for Action Recognition with Scarce Data to
+  Assess Skills of Children with Autism","['Prashant Pandey', 'Prathosh AP', 'Manu Kohli', 'Josh Pritchard']",arXiv:1911.04140
+http://arxiv.org/abs/1911.02014v1,2019-11-05T16:56:35Z,"Scribble-based Hierarchical Weakly Supervised Learning for Brain Tumor
+  Segmentation","['Zhanghexuan Ji', 'Yan Shen', 'Chunwei Ma', 'Mingchen Gao']",arXiv:1911.02014
+http://arxiv.org/abs/1911.01738v2,2019-11-05T12:14:40Z,"Weakly Supervised Fine Tuning Approach for Brain Tumor Segmentation
+  Problem","['Sergey Pavlov', 'Alexey Artemov', 'Maksim Sharaev', 'Alexander Bernstein', 'Evgeny Burnaev']",arXiv:1911.01738
+http://arxiv.org/abs/1911.01370v2,2019-11-04T17:57:23Z,"Self-Supervised Difference Detection for Weakly-Supervised Semantic
+  Segmentation","['Wataru Shimoda', 'Keiji Yanai']",arXiv:1911.01370
+http://arxiv.org/abs/1911.00616v1,2019-11-01T23:51:08Z,Novelty Detection and Learning from Extremely Weak Supervision,"['Eduardo Soares', 'Plamen Angelov']",arXiv:1911.00616
+http://arxiv.org/abs/1910.13601v3,2019-10-30T00:40:25Z,Deep Weakly-supervised Anomaly Detection,"['Guansong Pang', 'Chunhua Shen', 'Huidong Jin', 'Anton van den Hengel']",arXiv:1910.13601
+http://arxiv.org/abs/1910.13328v2,2019-10-29T15:44:20Z,"Weakly Supervised Prostate TMA Classification via Graph Convolutional
+  Networks","['Jingwen Wang', 'Richard J. Chen', 'Ming Y. Lu', 'Alexander Baras', 'Faisal Mahmood']",arXiv:1910.13328
+http://arxiv.org/abs/1910.12326v1,2019-10-27T19:11:39Z,"Weakly Supervised Multi-Task Learning for Cell Detection and
+  Segmentation","['Alireza Chamanzar', 'Yao Nie']",arXiv:1910.12326
+http://arxiv.org/abs/1910.11789v3,2019-10-25T15:15:30Z,"Secost: Sequential co-supervision for large scale weakly labeled audio
+  event detection","['Anurag Kumar', 'Vamsi Krishna Ithapu']",arXiv:1910.11789
+http://arxiv.org/abs/1910.09920v1,2019-10-22T12:31:07Z,Weakly-Supervised Completion Moment Detection using Temporal Attention,"['Farnoosh Heidarivincheh', 'Majid Mirmehdi', 'Dima Damen']",arXiv:1910.09920
+http://arxiv.org/abs/1910.08173v2,2019-10-17T21:32:06Z,Deep Weakly-Supervised Domain Adaptation for Pain Localization in Videos,"['Gnana Praveen R', 'Eric Granger', 'Patrick Cardinal']",arXiv:1910.08173
+http://arxiv.org/abs/1910.07373v1,2019-10-16T14:30:47Z,"Iterative augmentation of visual evidence for weakly-supervised lesion
+  localization in deep interpretability frameworks","['Cristina González-Gonzalo', 'Bart Liefers', 'Bram van Ginneken', 'Clara I. Sánchez']",arXiv:1910.07373
+http://arxiv.org/abs/1910.06790v1,2019-10-14T07:47:55Z,"Weakly Labeled Sound Event Detection Using Tri-training and Adversarial
+  Learning","['Hyoungwoo Park', 'Sungrack Yun', 'Jungyun Eum', 'Janghoon Cho', 'Kyuwoong Hwang']",arXiv:1910.06790
+http://arxiv.org/abs/1910.05518v2,2019-10-12T07:29:59Z,"Combinational Class Activation Maps for Weakly Supervised Object
+  Localization","['Seunghan Yang', 'Yoonhyung Kim', 'Youngeun Kim', 'Changick Kim']",arXiv:1910.05518
+http://arxiv.org/abs/1910.04562v1,2019-10-10T13:44:18Z,"Improving Pedestrian Attribute Recognition With Weakly-Supervised
+  Multi-Scale Attribute-Specific Localization","['Chufeng Tang', 'Lu Sheng', 'Zhaoxiang Zhang', 'Xiaolin Hu']",arXiv:1910.04562
+http://arxiv.org/abs/1910.02624v3,2019-10-07T06:28:16Z,"Label-PEnet: Sequential Label Propagation and Enhancement Networks for
+  Weakly Supervised Instance Segmentation","['Weifeng Ge', 'Sheng Guo', 'Weilin Huang', 'Matthew R. Scott']",arXiv:1910.02624
+http://arxiv.org/abs/1910.02101v2,2019-10-04T18:42:32Z,"Adaptively Denoising Proposal Collection for Weakly Supervised Object
+  Localization","['Wenju Xu', 'Yuanwei Wu', 'Wenchi Ma', 'Guanghui Wang']",arXiv:1910.02101
+http://arxiv.org/abs/1910.01236v1,2019-10-02T21:54:00Z,Weakly supervised segmentation from extreme points,"['Holger Roth', 'Ling Zhang', 'Dong Yang', 'Fausto Milletari', 'Ziyue Xu', 'Xiaosong Wang', 'Daguang Xu']",arXiv:1910.01236
+http://arxiv.org/abs/1910.01064v1,2019-10-02T16:33:51Z,"Concept Drift Detection and Adaptation with Weak Supervision on
+  Streaming Unlabeled Data",['Abhijit Suprem'],arXiv:1910.01064
+http://arxiv.org/abs/1910.00054v1,2019-09-30T18:40:59Z,"Weakly Supervised Attention Networks for Fine-Grained Opinion Mining and
+  Public Health","['Giannis Karamanolakis', 'Daniel Hsu', 'Luis Gravano']",arXiv:1910.00054
+http://arxiv.org/abs/1909.13155v1,2019-09-28T21:34:40Z,Weakly Supervised Energy-Based Learning for Action Segmentation,"['Jun Li', 'Peng Lei', 'Sinisa Todorovic']",arXiv:1909.13155
+http://arxiv.org/abs/1909.13784v2,2019-09-27T16:26:30Z,"LoGAN: Latent Graph Co-Attention Network for Weakly-Supervised Video
+  Moment Retrieval","['Reuben Tan', 'Huijuan Xu', 'Kate Saenko', 'Bryan A. Plummer']",arXiv:1909.13784
+http://arxiv.org/abs/1909.10698v1,2019-09-24T03:54:38Z,"Multi-scale discriminative Region Discovery for Weakly-Supervised Object
+  Localization","['Pei Lv', 'Haiyu Yu', 'Junxiao Xue', 'Junjin Cheng', 'Lisha Cui', 'Bing Zhou', 'Mingliang Xu', 'Yi Yang']",arXiv:1909.10698
+http://arxiv.org/abs/1909.09414v1,2019-09-20T10:32:48Z,Weakly Supervised Semantic Segmentation Using Constrained Dominant Sets,"['Sinem Aslan', 'Marcello Pelillo']",arXiv:1909.09414
+http://arxiv.org/abs/1909.08542v1,2019-09-18T16:09:41Z,"Extremely Weak Supervised Image-to-Image Translation for Semantic
+  Segmentation","['Samarth Shukla', 'Luc Van Gool', 'Radu Timofte']",arXiv:1909.08542
+http://arxiv.org/abs/1909.07097v1,2019-09-16T10:02:51Z,"CELNet: Evidence Localization for Pathology Images using Weakly
+  Supervised Learning","['Yongxiang Huang', 'Albert C. S. Chung']",arXiv:1909.07097
+http://arxiv.org/abs/1909.05085v2,2019-09-11T14:40:30Z,"CEREBRUM: a fast and fully-volumetric Convolutional Encoder-decodeR for
+  weakly-supervised sEgmentation of BRain strUctures from out-of-the-scanner
+  MRI","['Dennis Bontempi', 'Sergio Benini', 'Alberto Signoroni', 'Michele Svanera', 'Lars Muckli']",arXiv:1909.05085
+http://arxiv.org/abs/1909.04972v1,2019-09-11T11:08:55Z,"WSOD^2: Learning Bottom-up and Top-down Objectness Distillation for
+  Weakly-supervised Object Detection","['Zhaoyang Zeng', 'Bei Liu', 'Jianlong Fu', 'Hongyang Chao', 'Lei Zhang']",arXiv:1909.04972
+http://arxiv.org/abs/1909.04813v1,2019-09-11T01:49:25Z,Dual-attention Focused Module for Weakly Supervised Object Localization,"['Yukun Zhou', 'Zailiang Chen', 'Hailan Shen', 'Qing Liu', 'Rongchang Zhao', 'Yixiong Liang']",arXiv:1909.04813
+http://arxiv.org/abs/1909.04161v1,2019-09-09T21:17:10Z,"Joint Learning of Saliency Detection and Weakly Supervised Semantic
+  Segmentation","['Yu Zeng', 'Yunzhi Zhuge', 'Huchuan Lu', 'Lihe Zhang']",arXiv:1909.04161
+http://arxiv.org/abs/1909.03714v1,2019-09-09T09:23:11Z,"Self-supervised Scale Equivariant Network for Weakly Supervised Semantic
+  Segmentation","['Yude Wang', 'Jie Zhang', 'Meina Kan', 'Shiguang Shan', 'Xilin Chen']",arXiv:1909.03714
+http://arxiv.org/abs/1909.03619v3,2019-09-09T03:34:34Z,Weakly Supervised Localization Using Background Images,"['Ziyi Kou', 'Wentian Zhao', 'Guofeng Cui', 'Shaojie Wang']",arXiv:1909.03619
+http://arxiv.org/abs/1909.03354v4,2019-09-08T00:01:37Z,"Deep weakly-supervised learning methods for classification and
+  localization in histology images: a survey","['Jérôme Rony', 'Soufiane Belharbi', 'Jose Dolz', 'Ismail Ben Ayed', 'Luke McCaffrey', 'Eric Granger']",arXiv:1909.03354
+http://arxiv.org/abs/1909.02860v1,2019-09-05T13:22:08Z,"Knowledge-guided Pairwise Reconstruction Network for Weakly Supervised
+  Referring Expression Grounding","['Xuejing Liu', 'Liang Li', 'Shuhui Wang', 'Zheng-Jun Zha', 'Li Su', 'Qingming Huang']",arXiv:1909.02860
+http://arxiv.org/abs/1909.02077v1,2019-09-04T20:04:50Z,Weakly Supervised Universal Fracture Detection in Pelvic X-rays,"['Yirui Wang', 'Le Lu', 'Chi-Tung Cheng', 'Dakai Jin', 'Adam P. Harrison', 'Jing Xiao', 'Chien-Hung Liao', 'Shun Miao']",arXiv:1909.02077
+http://arxiv.org/abs/1909.00415v1,2019-09-01T15:12:23Z,"Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through
+  Weakly Supervised Co-Training","['Giannis Karamanolakis', 'Daniel Hsu', 'Luis Gravano']",arXiv:1909.00415
+http://arxiv.org/abs/1909.00239v1,2019-08-31T16:30:28Z,WSLLN: Weakly Supervised Natural Language Localization Networks,"['Mingfei Gao', 'Larry S. Davis', 'Richard Socher', 'Caiming Xiong']",arXiv:1909.00239
+http://arxiv.org/abs/1908.10568v1,2019-08-28T06:49:54Z,"Adaptive Reconstruction Network for Weakly Supervised Referring
+  Expression Grounding","['Xuejing Liu', 'Liang Li', 'Shuhui Wang', 'Zheng-Jun Zha', 'Dechao Meng', 'Qingming Huang']",arXiv:1908.10568
+http://arxiv.org/abs/1908.10555v1,2019-08-28T05:32:07Z,"CAMEL: A Weakly Supervised Learning Framework for Histopathology Image
+  Segmentation","['Gang Xu', 'Zhigang Song', 'Zhuo Sun', 'Calvin Ku', 'Zhe Yang', 'Cancheng Liu', 'Shuhao Wang', 'Jianpeng Ma', 'Wei Xu']",arXiv:1908.10555
+http://arxiv.org/abs/1908.10028v1,2019-08-27T04:48:16Z,Attention-based Dropout Layer for Weakly Supervised Object Localization,"['Junsuk Choe', 'Hyunjung Shim']",arXiv:1908.10028
+http://arxiv.org/abs/1908.09990v1,2019-08-27T02:21:49Z,"Curved Text Detection in Natural Scene Images with Semi- and
+  Weakly-Supervised Learning","['Xugong Qin', 'Yu Zhou', 'Dongbao Yang', 'Weiping Wang']",arXiv:1908.09990
+http://arxiv.org/abs/1908.09891v1,2019-08-26T19:42:14Z,A Weakly Supervised Method for Instance Segmentation of Biological Cells,"['Fidel A. Guerrero-Peña', 'Pedro D. Marrero Fernandez', 'Tsang Ing Ren', 'Alexandre Cunha']",arXiv:1908.09891
+http://arxiv.org/abs/1908.08294v1,2019-08-22T10:25:41Z,"Robustly segmenting quadriceps muscles of ultra-endurance athletes with
+  weakly supervised U-Net","['Hoai-Thu Nguyen', 'Pierre Croisille', 'Magalie Viallon', 'Sarah Leclerc', 'Sylvain Grange', 'Rémi Grange', 'Olivier Bernard', 'Thomas Grenier']",arXiv:1908.08294
+http://arxiv.org/abs/1908.08216v2,2019-08-22T06:20:38Z,"3C-Net: Category Count and Center Loss for Weakly-Supervised Action
+  Localization","['Sanath Narayan', 'Hisham Cholakkal', 'Fahad Shahbaz Khan', 'Ling Shao']",arXiv:1908.08216
+http://arxiv.org/abs/1908.07669v2,2019-08-21T01:50:44Z,Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation,"['Jiahua Dong', 'Yang Cong', 'Gan Sun', 'Dongdong Hou']",arXiv:1908.07669
+http://arxiv.org/abs/1908.06552v1,2019-08-19T01:33:14Z,Weakly-supervised Action Localization with Background Modeling,"['Phuc Xuan Nguyen', 'Deva Ramanan', 'Charless C. Fowlkes']",arXiv:1908.06552
+http://arxiv.org/abs/1908.06498v1,2019-08-18T18:43:44Z,Weakly Supervised Segmentation by A Deep Geodesic Prior,"['Aliasghar Mortazi', 'Naji Khosravan', 'Drew A. Torigian', 'Sila Kurugol', 'Ulas Bagci']",arXiv:1908.06498
+http://arxiv.org/abs/1908.05770v1,2019-08-15T21:19:40Z,Discretely-constrained deep network for weakly supervised segmentation,"['Jizong Peng', 'Hoel Kervadec', 'Jose Dolz', 'Ismail Ben Ayed', 'Marco Pedersoli', 'Christian Desrosiers']",arXiv:1908.05770
+http://arxiv.org/abs/1908.04501v1,2019-08-13T06:04:25Z,"Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly
+  Supervised Semantic Segmentation","['Jungbeom Lee', 'Eunji Kim', 'Sungmin Lee', 'Jangho Lee', 'Sungroh Yoon']",arXiv:1908.04501
+http://arxiv.org/abs/1908.03792v1,2019-08-10T17:48:19Z,Object-Aware Instance Labeling for Weakly Supervised Object Detection,"['Satoshi Kosugi', 'Toshihiko Yamasaki', 'Kiyoharu Aizawa']",arXiv:1908.03792
+http://arxiv.org/abs/1908.02422v1,2019-08-07T02:33:18Z,"Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal
+  Action Localization","['Chengwei Zhang', 'Yunlu Xu', 'Zhanzhan Cheng', 'Yi Niu', 'Shiliang Pu', 'Fei Wu', 'Futai Zou']",arXiv:1908.02422
+http://arxiv.org/abs/1907.13051v2,2019-07-30T16:21:11Z,Weakly Supervised Body Part Segmentation with Pose based Part Priors,"['Zhengyuan Yang', 'Yuncheng Li', 'Linjie Yang', 'Ning Zhang', 'Jiebo Luo']",arXiv:1907.13051
+http://arxiv.org/abs/1907.11499v1,2019-07-26T11:53:15Z,Weakly Supervised Domain Detection,"['Yumo Xu', 'Mirella Lapata']",arXiv:1907.11499
+http://arxiv.org/abs/1907.10993v1,2019-07-25T12:07:33Z,Weakly Supervised Recognition of Surgical Gestures,"['Beatrice van Amsterdam', 'Hirenkumar Nakawala', 'Elena De Momi', 'Danail Stoyanov']",arXiv:1907.10993
+http://arxiv.org/abs/1907.12934v5,2019-07-25T00:51:18Z,Min-max Entropy for Weakly Supervised Pointwise Localization,"['Soufiane Belharbi', 'Jérôme Rony', 'Jose Dolz', 'Ismail Ben Ayed', 'Luke McCaffrey', 'Eric Granger']",arXiv:1907.12934
+http://arxiv.org/abs/1907.07033v1,2019-07-16T14:32:33Z,"Neural Language Model Based Training Data Augmentation for Weakly
+  Supervised Early Rumor Detection","['Sooji Han', 'Jie Gao', 'Fabio Ciravegna']",arXiv:1907.07033
+http://arxiv.org/abs/1907.07023v1,2019-07-16T14:17:06Z,"Data Selection for training Semantic Segmentation CNNs with
+  cross-dataset weak supervision","['Panagiotis Meletis', 'Rob Romijnders', 'Gijs Dubbelman']",arXiv:1907.07023
+http://arxiv.org/abs/1907.04681v1,2019-07-10T12:52:46Z,"Domain Adaptation-based Augmentation for Weakly Supervised Nuclei
+  Detection","['Nicolas Brieu', 'Armin Meier', 'Ansh Kapil', 'Ralf Schoenmeyer', 'Christos G. Gavriel', 'Peter D. Caie', 'Günter Schmidt']",arXiv:1907.04681
+http://arxiv.org/abs/1907.00607v1,2019-07-01T08:44:30Z,Weak Supervision Enhanced Generative Network for Question Generation,"['Yutong Wang', 'Jiyuan Zheng', 'Qijiong Liu', 'Zhou Zhao', 'Jun Xiao', 'Yueting Zhuang']",arXiv:1907.00607
+http://arxiv.org/abs/1906.06023v1,2019-06-14T05:05:27Z,Utilizing the Instability in Weakly Supervised Object Detection,"['Yan Gao', 'Boxiao Liu', 'Nan Guo', 'Xiaochun Ye', 'Fang Wan', 'Haihang You', 'Dongrui Fan']",arXiv:1906.06023
+http://arxiv.org/abs/1906.05857v2,2019-06-13T17:59:19Z,"Show, Match and Segment: Joint Weakly Supervised Learning of Semantic
+  Matching and Object Co-segmentation","['Yun-Chun Chen', 'Yen-Yu Lin', 'Ming-Hsuan Yang', 'Jia-Bin Huang']",arXiv:1906.05857
+http://arxiv.org/abs/1906.04833v1,2019-06-11T21:34:09Z,"Weakly-supervised Compositional FeatureAggregation for Few-shot
+  Recognition","['Ping Hu', 'Ximeng Sun', 'Kate Saenko', 'Stan Sclaroff']",arXiv:1906.04833
+http://arxiv.org/abs/1906.04651v2,2019-06-11T15:23:01Z,Gated CRF Loss for Weakly Supervised Semantic Image Segmentation,"['Anton Obukhov', 'Stamatios Georgoulis', 'Dengxin Dai', 'Luc Van Gool']",arXiv:1906.04651
+http://arxiv.org/abs/1906.03629v2,2019-06-09T12:50:10Z,"Movable-Object-Aware Visual SLAM via Weakly Supervised Semantic
+  Segmentation","['Ting Sun', 'Yuxiang Sun', 'Ming Liu', 'Dit-Yan Yeung']",arXiv:1906.03629
+http://arxiv.org/abs/1906.02517v5,2019-06-06T11:02:41Z,Guided learning for weakly-labeled semi-supervised sound event detection,"['Liwei Lin', 'Xiangdong Wang', 'Hong Liu', 'Yueliang Qian']",arXiv:1906.02517
+http://arxiv.org/abs/1906.02468v1,2019-06-06T08:16:31Z,"Towards navigation without precise localization: Weakly supervised
+  learning of goal-directed navigation cost map","['Huifang Ma', 'Yue Wang', 'Li Tang', 'Sarath Kodagoda', 'Rong Xiong']",arXiv:1906.02468
+http://arxiv.org/abs/1906.01891v4,2019-06-05T09:08:38Z,"Weakly Supervised Object Detection with 2D and 3D Regression Neural
+  Networks","['Florian Dubost', 'Hieab Adams', 'Pinar Yilmaz', 'Gerda Bortsova', 'Gijs van Tulder', 'M. Arfan Ikram', 'Wiro Niessen', 'Meike Vernooij', 'Marleen de Bruijne']",arXiv:1906.01891
+http://arxiv.org/abs/1906.01028v1,2019-06-03T19:12:29Z,"A Hybrid RNN-HMM Approach for Weakly Supervised Temporal Action
+  Segmentation","['Hilde Kuehne', 'Alexander Richard', 'Juergen Gall']",arXiv:1906.01028
+http://arxiv.org/abs/1905.12931v2,2019-05-30T09:47:11Z,"Weakly supervised training of pixel resolution segmentation models on
+  whole slide images",['Nicolas Pinchaud'],arXiv:1905.12931
+http://arxiv.org/abs/1905.12190v1,2019-05-29T02:59:02Z,Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation,"['Zhengqiang Zhang', 'Shujian Yu', 'Shi Yin', 'Qinmu Peng', 'Xinge You']",arXiv:1905.12190
+http://arxiv.org/abs/1905.10091v6,2019-05-24T08:46:56Z,"Specialized Decision Surface and Disentangled Feature for
+  Weakly-Supervised Polyphonic Sound Event Detection","['Liwei Lin', 'Xiangdong Wang', 'Hong Liu', 'Yueliang Qian']",arXiv:1905.10091
+http://arxiv.org/abs/1905.08586v1,2019-05-21T12:49:22Z,Marginalized Average Attentional Network for Weakly-Supervised Learning,"['Yuan Yuan', 'Yueming Lyu', 'Xi Shen', 'Ivor W. Tsang', 'Dit-Yan Yeung']",arXiv:1905.08586
+http://arxiv.org/abs/1905.07293v1,2019-05-17T14:37:50Z,Weakly-Supervised Temporal Localization via Occurrence Count Learning,"['Julien Schroeter', 'Kirill Sidorov', 'David Marshall']",arXiv:1905.07293
+http://arxiv.org/abs/1905.06784v1,2019-05-16T14:35:09Z,"Harvesting Information from Captions for Weakly Supervised Semantic
+  Segmentation","['Johann Sawatzky', 'Debayan Banerjee', 'Juergen Gall']",arXiv:1905.06784
+http://arxiv.org/abs/1905.04042v2,2019-05-10T09:57:23Z,"Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot
+  Learning on Category Graph","['Lu Liu', 'Tianyi Zhou', 'Guodong Long', 'Jing Jiang', 'Lina Yao', 'Chengqi Zhang']",arXiv:1905.04042
+http://arxiv.org/abs/1905.02171v1,2019-05-06T17:39:09Z,Spatio-Temporal Action Localization in a Weakly Supervised Setting,"['Kurt Degiorgio', 'Fabio Cuzzolin']",arXiv:1905.02171
+http://arxiv.org/abs/1905.00561v1,2019-05-02T03:05:43Z,Large-scale weakly-supervised pre-training for video action recognition,"['Deepti Ghadiyaram', 'Matt Feiszli', 'Du Tran', 'Xueting Yan', 'Heng Wang', 'Dhruv Mahajan']",arXiv:1905.00561
+http://arxiv.org/abs/1904.12319v1,2019-04-28T13:11:10Z,"Classification and Detection in Mammograms with Weak Supervision via
+  Dual Branch Deep Neural Net","['Ran Bakalo', 'Rami Ben-Ari', 'Jacob Goldberger']",arXiv:1904.12319
+http://arxiv.org/abs/1904.11693v1,2019-04-26T06:47:58Z,"Box-driven Class-wise Region Masking and Filling Rate Guided Loss for
+  Weakly Supervised Semantic Segmentation","['Chunfeng Song', 'Yan Huang', 'Wanli Ouyang', 'Liang Wang']",arXiv:1904.11693
+http://arxiv.org/abs/1904.10032v2,2019-04-22T18:56:43Z,"Leveraging Orientation for Weakly Supervised Object Detection with
+  Application to Firearm Localization","['Javed Iqbal', 'Muhammad Akhtar Munir', 'Arif Mahmood', 'Afsheen Rafaqat Ali', 'Mohsen Ali']",arXiv:1904.10032
+http://arxiv.org/abs/1904.12619v2,2019-04-19T10:26:38Z,"Multiple receptive fields and small-object-focusing weakly-supervised
+  segmentation network for fast object detection","['Siyang Sun', 'Yingjie Yin', 'Xingang Wang', 'De Xu', 'Yuan Zhao', 'Haifeng Shen']",arXiv:1904.12619
+http://arxiv.org/abs/1904.09092v1,2019-04-19T06:30:36Z,"Weakly Supervised Adversarial Domain Adaptation for Semantic
+  Segmentation in Urban Scenes","['Qi Wang', 'Junyu Gao', 'Xuelong Li']",arXiv:1904.09092
+http://arxiv.org/abs/1904.08208v1,2019-04-17T11:53:52Z,"Guided Anisotropic Diffusion and Iterative Learning for Weakly
+  Supervised Change Detection","['Rodrigo Caye Daudt', 'Bertrand Le Saux', 'Alexandre Boulch', 'Yann Gousseau']",arXiv:1904.08208
+http://arxiv.org/abs/1904.07774v4,2019-04-16T15:48:36Z,Weakly Supervised Gaussian Networks for Action Detection,"['Basura Fernando', 'Cheston Tan Yin Chet', 'Hakan Bilen']",arXiv:1904.07774
+http://arxiv.org/abs/1904.05647v1,2019-04-11T11:59:41Z,"C-MIL: Continuation Multiple Instance Learning for Weakly Supervised
+  Object Detection","['Fang Wan', 'Chang Liu', 'Wei Ke', 'Xiangyang Ji', 'Jianbin Jiao', 'Qixiang Ye']",arXiv:1904.05647
+http://arxiv.org/abs/1904.05191v3,2019-04-10T13:55:10Z,"Weakly-Supervised White and Grey Matter Segmentation in 3D Brain
+  Ultrasound","['Beatrice Demiray', 'Julia Rackerseder', 'Stevica Bozhinoski', 'Nassir Navab']",arXiv:1904.05191
+http://arxiv.org/abs/1904.05044v3,2019-04-10T08:02:35Z,"Weakly Supervised Learning of Instance Segmentation with Inter-pixel
+  Relations","['Jiwoon Ahn', 'Sunghyun Cho', 'Suha Kwak']",arXiv:1904.05044
+http://arxiv.org/abs/1904.03983v1,2019-04-08T12:09:11Z,Weakly Supervised Semantic Segmentation of Satellite Images,"['Adrien Nivaggioli', 'Hicham Randrianarivo']",arXiv:1904.03983
+http://arxiv.org/abs/1904.03841v3,2019-04-08T05:07:14Z,Duration robust weakly supervised sound event detection,"['Heinrich Dinkel', 'Kai Yu']",arXiv:1904.03841
+http://arxiv.org/abs/1904.03116v3,2019-04-05T15:19:35Z,Fast Weakly Supervised Action Segmentation Using Mutual Consistency,"['Yaser Souri', 'Mohsen Fayyaz', 'Luca Minciullo', 'Gianpiero Francesca', 'Juergen Gall']",arXiv:1904.03116
+http://arxiv.org/abs/1904.02436v1,2019-04-04T09:56:02Z,"Few-shot brain segmentation from weakly labeled data with deep
+  heteroscedastic multi-task networks","['Richard McKinley', 'Michael Rebsamen', 'Raphael Meier', 'Mauricio Reyes', 'Christian Rummel', 'Roland Wiest']",arXiv:1904.02436
+http://arxiv.org/abs/1904.01749v2,2019-04-03T03:30:51Z,"Fully Using Classifiers for Weakly Supervised Semantic Segmentation with
+  Modified Cues","['Ting Sun', 'Lei Tai', 'Zhihan Gao', 'Ming Liu', 'Dit-Yan Yeung']",arXiv:1904.01749
+http://arxiv.org/abs/1904.01665v1,2019-04-02T20:52:39Z,Activity Driven Weakly Supervised Object Detection,"['Zhenheng Yang', 'Dhruv Mahajan', 'Deepti Ghadiyaram', 'Ram Nevatia', 'Vignesh Ramanathan']",arXiv:1904.01665
+http://arxiv.org/abs/1904.00818v6,2019-04-01T13:03:31Z,"COCO_TS Dataset: Pixel-level Annotations Based on Weak Supervision for
+  Scene Text Segmentation","['Simone Bonechi', 'Paolo Andreini', 'Monica Bianchini', 'Franco Scarselli']",arXiv:1904.00818
+http://arxiv.org/abs/1904.00566v1,2019-04-01T05:19:19Z,Multi-source weak supervision for saliency detection,"['Yu Zeng', 'Yunzhi Zhuge', 'Huchuan Lu', 'Lihe Zhang', 'Mingyang Qian', 'Yizhou Yu']",arXiv:1904.00566
+http://arxiv.org/abs/1904.00551v1,2019-04-01T03:53:49Z,Weakly Supervised Object Detection with Segmentation Collaboration,"['Xiaoyan Li', 'Meina Kan', 'Shiguang Shan', 'Xilin Chen']",arXiv:1904.00551
+http://arxiv.org/abs/1904.00227v3,2019-03-30T14:51:44Z,"RefineLoc: Iterative Refinement for Weakly-Supervised Action
+  Localization","['Alejandro Pardo', 'Humam Alwassel', 'Fabian Caba Heilbron', 'Ali Thabet', 'Bernard Ghanem']",arXiv:1904.00227
+http://arxiv.org/abs/1903.11791v4,2019-03-28T05:49:26Z,Hierarchical Pooling Structure for Weakly Labeled Sound Event Detection,"['Ke-Xin He', 'Yu-Han Shen', 'Wei-Qiang Zhang']",arXiv:1903.11791
+http://arxiv.org/abs/1903.10909v2,2019-03-24T05:47:31Z,"Attention-based Convolutional Neural Network for Weakly Labeled Human
+  Activities Recognition with Wearable Sensors","['Kun Wang', 'Jun He', 'Lei Zhang']",arXiv:1903.10909
+http://arxiv.org/abs/1903.03462v2,2019-03-08T14:16:11Z,On Boosting Semantic Street Scene Segmentation with Weak Supervision,"['Panagiotis Meletis', 'Gijs Dubbelman']",arXiv:1903.03462
+http://arxiv.org/abs/1903.00765v6,2019-03-02T21:13:59Z,Weakly Labelled AudioSet Tagging with Attention Neural Networks,"['Qiuqiang Kong', 'Changsong Yu', 'Turab Iqbal', 'Yong Xu', 'Wenwu Wang', 'Mark D. Plumbley']",arXiv:1903.00765
+http://arxiv.org/abs/1902.09868v2,2019-02-26T11:23:54Z,"RepNet: Weakly Supervised Training of an Adversarial Reprojection
+  Network for 3D Human Pose Estimation","['Bastian Wandt', 'Bodo Rosenhahn']",arXiv:1902.09868
+http://arxiv.org/abs/1902.07370v1,2019-02-20T01:58:42Z,"Learning Transferable Self-attentive Representations for Action
+  Recognition in Untrimmed Videos with Weak Supervision","['Xiao-Yu Zhang', 'Haichao Shi', 'Changsheng Li', 'Kai Zheng', 'Xiaobin Zhu', 'Lixin Duan']",arXiv:1902.07370
+http://arxiv.org/abs/1902.06057v1,2019-02-16T07:32:39Z,Min-Entropy Latent Model for Weakly Supervised Object Detection,"['Fang Wan', 'Pengxu Wei', 'Zhenjun Han', 'Jianbin Jiao', 'Qixiang Ye']",arXiv:1902.06057
+http://arxiv.org/abs/1902.04356v2,2019-02-12T12:28:12Z,The effect of scene context on weakly supervised semantic segmentation,"['Mohammad Kamalzare', 'Reza Kahani', 'Alireza Talebpour', 'Ahmad Mahmoudi-Aznaveh']",arXiv:1902.04356
+http://arxiv.org/abs/1901.09891v2,2019-01-26T02:03:27Z,"See Better Before Looking Closer: Weakly Supervised Data Augmentation
+  Network for Fine-Grained Visual Classification","['Tao Hu', 'Honggang Qi', 'Qingming Huang', 'Yan Lu']",arXiv:1901.09891
+http://arxiv.org/abs/1901.05306v1,2019-01-14T03:43:42Z,"Learning to Label Seismic Structures with Deconvolution Networks and
+  Weak Labels","['Yazeed Alaudah', 'Shan Gao', 'Ghassan AlRegib']",arXiv:1901.05306
+http://arxiv.org/abs/1901.03146v3,2019-01-10T13:21:06Z,"Cosine-similarity penalty to discriminate sound classes in
+  weakly-supervised sound event detection","['Thomas Pellegrini', 'Léo Cances']",arXiv:1901.03146
+http://arxiv.org/abs/1901.02598v2,2019-01-09T04:12:01Z,"D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly
+  Supervised Action Alignment and Segmentation","['Chien-Yi Chang', 'De-An Huang', 'Yanan Sui', 'Li Fei-Fei', 'Juan Carlos Niebles']",arXiv:1901.02598
+http://arxiv.org/abs/1812.06228v1,2018-12-15T03:31:32Z,"Weakly supervised segment annotation via expectation kernel density
+  estimation","['Liantao Wang', 'Qingwu Li', 'Jianfeng Lu']",arXiv:1812.06228
+http://arxiv.org/abs/1812.04831v1,2018-12-12T07:12:50Z,Weakly Supervised Instance Segmentation Using Hybrid Network,"['Shisha Liao', 'Yongqing Sun', 'Chenqiang Gao', 'Pranav Shenoy K P', 'Song Mu', 'Jun Shimamura', 'Atsushi Sagata']",arXiv:1812.04831
+http://arxiv.org/abs/1812.02510v2,2018-12-06T13:11:09Z,"ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery
+  Detection","['Davide Cozzolino', 'Justus Thies', 'Andreas Rössler', 'Christian Riess', 'Matthias Nießner', 'Luisa Verdoliva']",arXiv:1812.02510
+http://arxiv.org/abs/1811.11985v2,2018-11-29T06:54:46Z,Weakly Supervised Silhouette-based Semantic Scene Change Detection,"['Ken Sakurada', 'Mikiya Shibuya', 'Weimin Wang']",arXiv:1811.11985
+http://arxiv.org/abs/1811.10842v2,2018-11-27T07:03:12Z,"CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic
+  Segmentation","['Junsong Fan', 'Zhaoxiang Zhang', 'Tieniu Tan', 'Chunfeng Song', 'Jun Xiao']",arXiv:1811.10842
+http://arxiv.org/abs/1811.10016v1,2018-11-25T14:09:57Z,Dissimilarity Coefficient based Weakly Supervised Object Detection,"['Aditya Arun', 'C. V. Jawahar', 'M. Pawan Kumar']",arXiv:1811.10016
+http://arxiv.org/abs/1811.07460v1,2018-11-19T02:12:06Z,"Segregated Temporal Assembly Recurrent Networks for Weakly Supervised
+  Multiple Action Detection","['Yunlu Xu', 'Chengwei Zhang', 'Zhanzhan Cheng', 'Jianwen Xie', 'Yi Niu', 'Shiliang Pu', 'Fei Wu']",arXiv:1811.07460
+http://arxiv.org/abs/1811.05773v2,2018-11-14T13:45:54Z,"LoANs: Weakly Supervised Object Detection with Localizer Assessor
+  Networks","['Christian Bartz', 'Haojin Yang', 'Joseph Bethge', 'Christoph Meinel']",arXiv:1811.05773
+http://arxiv.org/abs/1811.04289v1,2018-11-10T18:22:52Z,"Coronary Calcium Detection using 3D Attention Identical Dual Deep
+  Network Based on Weakly Supervised Learning","['Yuankai Huo', 'James G. Terry', 'Jiachen Wang', 'Vishwesh Nath', 'Camilo Bermudez', 'Shunxing Bao', 'Prasanna Parvathaneni', 'J. Jeffery Carr', 'Bennett A. Landman']",arXiv:1811.04289
+http://arxiv.org/abs/1811.04048v1,2018-11-09T18:06:21Z,"Joint Acoustic and Class Inference for Weakly Supervised Sound Event
+  Detection","['Sandeep Kothinti', 'Keisuke Imoto', 'Debmalya Chakrabarty', 'Gregory Sell', 'Shinji Watanabe', 'Mounya Elhilali']",arXiv:1811.04048
+http://arxiv.org/abs/1811.02545v1,2018-11-06T18:35:16Z,"Hide-and-Seek: A Data Augmentation Technique for Weakly-Supervised
+  Localization and Beyond","['Krishna Kumar Singh', 'Hao Yu', 'Aron Sarmasi', 'Gautam Pradeep', 'Yong Jae Lee']",arXiv:1811.02545
+http://arxiv.org/abs/1811.00301v1,2018-11-01T10:16:41Z,"Weakly supervised CRNN system for sound event detection with large-scale
+  unlabeled in-domain data","['Dezhi Wang', 'Lilun Zhang', 'Changchun Bao', 'Kele Xu', 'Boqing Zhu', 'Qiuqiang Kong']",arXiv:1811.00301
+http://arxiv.org/abs/1810.11794v1,2018-10-28T11:10:33Z,"Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action
+  Localization","['Haisheng Su', 'Xu Zhao', 'Tianwei Lin']",arXiv:1810.11794
+http://arxiv.org/abs/1810.09578v1,2018-10-22T22:06:09Z,"Bioresorbable Scaffold Visualization in IVOCT Images Using CNNs and
+  Weakly Supervised Localization","['Nils Gessert', 'Sarah Latus', 'Youssef S. Abdelwahed', 'David M. Leistner', 'Matthias Lutz', 'Alexander Schlaefer']",arXiv:1810.09578
+http://arxiv.org/abs/1810.09050v3,2018-10-22T01:34:29Z,"A Comparison of Five Multiple Instance Learning Pooling Functions for
+  Sound Event Detection with Weak Labeling","['Yun Wang', 'Juncheng Li', 'Florian Metze']",arXiv:1810.09050
+http://arxiv.org/abs/1810.08378v1,2018-10-19T07:35:40Z,Saliency guided deep network for weakly-supervised image segmentation,"['Fengdong Sun', 'Wenhui Li']",arXiv:1810.08378
+http://arxiv.org/abs/1810.07050v1,2018-10-16T14:49:18Z,"Generating Self-Guided Dense Annotations for Weakly Supervised Semantic
+  Segmentation","['Zi-Yi Ke', 'Chiou-Ting Hsu']",arXiv:1810.07050
+http://arxiv.org/abs/1810.06897v1,2018-10-16T09:36:25Z,"Sound event detection using weakly-labeled semi-supervised data with
+  GCRNNS, VAT and Self-Adaptive Label Refinement","['Robert Harb', 'Franz Pernkopf']",arXiv:1810.06897
+http://arxiv.org/abs/1810.02569v1,2018-10-05T08:48:53Z,Weakly Supervised Object Detection in Artworks,"['Nicolas Gonthier', 'Yann Gousseau', 'Said Ladjal', 'Olivier Bonfait']",arXiv:1810.02569
+http://arxiv.org/abs/1809.10692v1,2018-09-27T18:00:11Z,"Weakly-Supervised Localization and Classification of Proximal Femur
+  Fractures","['Amelia Jiménez-Sánchez', 'Anees Kazi', 'Shadi Albarqouni', 'Sonja Kirchhoff', 'Alexandra Sträter', 'Peter Biberthaler', 'Diana Mateus', 'Nassir Navab']",arXiv:1809.10692
+http://arxiv.org/abs/1809.05884v2,2018-09-16T14:35:03Z,"Multi-Label Image Classification via Knowledge Distillation from
+  Weakly-Supervised Detection","['Yongcheng Liu', 'Lu Sheng', 'Jing Shao', 'Junjie Yan', 'Shiming Xiang', 'Chunhong Pan']",arXiv:1809.05884
+http://arxiv.org/abs/1808.08280v1,2018-08-22T06:08:45Z,"Deep multiscale convolutional feature learning for weakly supervised
+  localization of chest pathologies in X-ray images","['Suman Sedai', 'Dwarikanath Mahapatra', 'Zongyuan Ge', 'Rajib Chakravorty', 'Rahil Garnavi']",arXiv:1808.08280
+http://arxiv.org/abs/1808.04909v1,2018-08-14T21:58:28Z,"Vendor-independent soft tissue lesion detection using weakly supervised
+  and unsupervised adversarial domain adaptation","['Joris van Vugt', 'Elena Marchiori', 'Ritse Mann', 'Albert Gubern-Mérida', 'Nikita Moriakov', 'Jonas Teuwen']",arXiv:1808.04909
+http://arxiv.org/abs/1808.02152v2,2018-08-06T23:22:56Z,"Weakly Supervised Bilinear Attention Network for Fine-Grained Visual
+  Classification","['Tao Hu', 'Jizheng Xu', 'Cong Huang', 'Honggang Qi', 'Qingming Huang', 'Yan Lu']",arXiv:1808.02152
+http://arxiv.org/abs/1808.01625v3,2018-08-05T14:19:19Z,"Towards Closing the Gap in Weakly Supervised Semantic Segmentation with
+  DCNNs: Combining Local and Global Models","['Christoph Mayer', 'Radu Timofte', 'Grégory Paul']",arXiv:1808.01625
+http://arxiv.org/abs/1807.10501v1,2018-07-27T09:15:50Z,"Large-Scale Weakly Labeled Semi-Supervised Sound Event Detection in
+  Domestic Environments","['Romain Serizel', 'Nicolas Turpault', 'Hamid Eghbal-Zadeh', 'Ankit Parag Shah']",arXiv:1807.10501
+http://arxiv.org/abs/1807.10418v3,2018-07-27T02:31:49Z,"W-TALC: Weakly-supervised Temporal Activity Localization and
+  Classification","['Sujoy Paul', 'Sourya Roy', 'Amit K Roy-Chowdhury']",arXiv:1807.10418
+http://arxiv.org/abs/1807.09413v1,2018-07-25T01:56:21Z,"3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud
+  Registration","['Zi Jian Yew', 'Gim Hee Lee']",arXiv:1807.09413
+http://arxiv.org/abs/1807.09169v1,2018-07-24T15:06:59Z,"Convolutional Simplex Projection Network (CSPN) for Weakly Supervised
+  Semantic Segmentation","['Rania Briq', 'Michael Moeller', 'Juergen Gall']",arXiv:1807.09169
+http://arxiv.org/abs/1807.08902v2,2018-07-24T04:35:44Z,Self-produced Guidance for Weakly-supervised Object Localization,"['Xiaolin Zhang', 'Yunchao Wei', 'Guoliang Kang', 'Yi Yang', 'Thomas Huang']",arXiv:1807.08902
+http://arxiv.org/abs/1807.08333v2,2018-07-22T18:14:45Z,AutoLoc: Weakly-supervised Temporal Action Localization,"['Zheng Shou', 'Hang Gao', 'Lei Zhang', 'Kazuyuki Miyazawa', 'Shih-Fu Chang']",arXiv:1807.08333
+http://arxiv.org/abs/1807.07784v3,2018-07-20T10:48:18Z,"Model Agnostic Saliency for Weakly Supervised Lesion Detection from
+  Breast DCE-MRI","['Gabriel Maicas', 'Gerard Snaauw', 'Andrew P. Bradley', 'Ian Reid', 'Gustavo Carneiro']",arXiv:1807.07784
+http://arxiv.org/abs/1807.07532v1,2018-07-19T16:54:16Z,"Attention-Guided Curriculum Learning for Weakly Supervised
+  Classification and Localization of Thoracic Diseases on Chest Radiographs","['Yuxing Tang', 'Xiaosong Wang', 'Adam P. Harrison', 'Le Lu', 'Jing Xiao', 'Ronald M. Summers']",arXiv:1807.07532
+http://arxiv.org/abs/1807.06972v2,2018-07-17T14:03:55Z,"Data-Efficient Weakly Supervised Learning for Low-Resource Audio Event
+  Detection Using Deep Learning","['Veronica Morfi', 'Dan Stowell']",arXiv:1807.06972
+http://arxiv.org/abs/1807.06067v1,2018-07-16T19:19:38Z,"Weakly Supervised Deep Learning for Thoracic Disease Classification and
+  Localization on Chest X-rays","['Chaochao Yan', 'Jiawen Yao', 'Ruoyu Li', 'Zheng Xu', 'Junzhou Huang']",arXiv:1807.06067
+http://arxiv.org/abs/1807.04897v1,2018-07-13T03:38:49Z,"TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly
+  Supervised Object Detection","['Yunchao Wei', 'Zhiqiang Shen', 'Bowen Cheng', 'Honghui Shi', 'Jinjun Xiong', 'Jiashi Feng', 'Thomas Huang']",arXiv:1807.04897
+http://arxiv.org/abs/1807.03361v1,2018-07-09T19:53:16Z,"Weakly-Supervised Convolutional Neural Networks for Multimodal Image
+  Registration","['Yipeng Hu', 'Marc Modat', 'Eli Gibson', 'Wenqi Li', 'Nooshin Ghavami', 'Ester Bonmati', 'Guotai Wang', 'Steven Bandula', 'Caroline M. Moore', 'Mark Emberton', 'Sébastien Ourselin', 'J. Alison Noble', 'Dean C. Barratt', 'Tom Vercauteren']",arXiv:1807.03361
+http://arxiv.org/abs/1807.03342v2,2018-07-09T18:59:29Z,PCL: Proposal Cluster Learning for Weakly Supervised Object Detection,"['Peng Tang', 'Xinggang Wang', 'Song Bai', 'Wei Shen', 'Xiang Bai', 'Wenyu Liu', 'Alan Yuille']",arXiv:1807.03342
+http://arxiv.org/abs/1807.02001v2,2018-07-05T13:38:55Z,"Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance
+  Segmentation of Supermarket Products","['Patrick Follmann', 'Bertram Drost', 'Tobias Böttger']",arXiv:1807.02001
+http://arxiv.org/abs/1807.01126v3,2018-07-03T12:47:15Z,"Weakly Supervised Deep Recurrent Neural Networks for Basic Dance Step
+  Generation","['Nelson Yalta', 'Shinji Watanabe', 'Kazuhiro Nakadai', 'Tetsuya Ogata']",arXiv:1807.01126
+http://arxiv.org/abs/1807.00958v1,2018-07-03T02:56:38Z,"Iterative Attention Mining for Weakly Supervised Thoracic Disease
+  Pattern Localization in Chest X-Rays","['Jinzheng Cai', 'Le Lu', 'Adam P. Harrison', 'Xiaoshuang Shi', 'Pingjun Chen', 'Lin Yang']",arXiv:1807.00958
+http://arxiv.org/abs/1807.00436v1,2018-07-02T02:31:33Z,"Liver Lesion Detection from Weakly-labeled Multi-phase CT Volumes with a
+  Grouped Single Shot MultiBox Detector","['Sang-gil Lee', 'Jae Seok Bae', 'Hyunjae Kim', 'Jung Hoon Kim', 'Sungroh Yoon']",arXiv:1807.00436
+http://arxiv.org/abs/1807.01172v1,2018-07-02T00:17:42Z,"Accurate Weakly-Supervised Deep Lesion Segmentation using Large-Scale
+  Clinical Annotations: Slice-Propagated 3D Mask Generation from 2D RECIST","['Jinzheng Cai', 'Youbao Tang', 'Le Lu', 'Adam P. Harrison', 'Ke Yan', 'Jing Xiao', 'Lin Yang', 'Ronald M. Summers']",arXiv:1807.01172
+http://arxiv.org/abs/1806.06888v2,2018-06-18T18:48:12Z,"Learning Object Localization and 6D Pose Estimation from Simulation and
+  Weakly Labeled Real Images","['Jean-Philippe Mercier', 'Chaitanya Mitash', 'Philippe Giguère', 'Abdeslam Boularias']",arXiv:1806.06888
+http://arxiv.org/abs/1806.06198v2,2018-06-16T07:08:59Z,"Part-Aware Fine-grained Object Categorization using Weakly Supervised
+  Part Detection Network","['Yabin Zhang', 'Kui Jia', 'Zhixin Wang']",arXiv:1806.06198
+http://arxiv.org/abs/1806.05573v2,2018-06-14T14:27:12Z,Weakly-Supervised Learning for Tool Localization in Laparoscopic Videos,"['Armine Vardazaryan', 'Didier Mutter', 'Jacques Marescaux', 'Nicolas Padoy']",arXiv:1806.05573
+http://arxiv.org/abs/1806.04659v1,2018-06-12T17:42:10Z,"Weakly-Supervised Semantic Segmentation by Iteratively Mining Common
+  Object Features","['Xiang Wang', 'Shaodi You', 'Xi Li', 'Huimin Ma']",arXiv:1806.04659
+http://arxiv.org/abs/1806.00981v1,2018-06-04T06:52:08Z,"Automatic Clustering of a Network Protocol with Weakly-Supervised
+  Clustering","['Tobias Schrank', 'Franz Pernkopf']",arXiv:1806.00981
+http://arxiv.org/abs/1805.07706v3,2018-05-20T05:07:27Z,Object Localization with a Weakly Supervised CapsNet,"['Weitang Liu', 'Emad Barsoum', 'John D. Owens']",arXiv:1805.07706
+http://arxiv.org/abs/1805.05373v3,2018-05-14T18:31:11Z,"DeepEM: Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule
+  Detection","['Wentao Zhu', 'Yeeleng S. Vang', 'Yufang Huang', 'Xiaohui Xie']",arXiv:1805.05373
+http://arxiv.org/abs/1805.04628v2,2018-05-12T00:51:54Z,Constrained-CNN losses for weakly supervised segmentation,"['Hoel Kervadec', 'Jose Dolz', 'Meng Tang', 'Eric Granger', 'Yuri Boykov', 'Ismail Ben Ayed']",arXiv:1805.04628
+http://arxiv.org/abs/1805.02031v1,2018-05-05T09:52:36Z,Weakly-supervised Visual Instrument-playing Action Detection in Videos,"['Jen-Yu Liu', 'Yi-Hsuan Yang', 'Shyh-Kang Jeng']",arXiv:1805.02031
+http://arxiv.org/abs/1804.10070v2,2018-04-26T14:01:12Z,Adaptive pooling operators for weakly labeled sound event detection,"['Brian McFee', 'Justin Salamon', 'Juan Pablo Bello']",arXiv:1804.10070
+http://arxiv.org/abs/1804.09466v1,2018-04-25T10:26:57Z,Zigzag Learning for Weakly Supervised Object Detection,"['Xiaopeng Zhang', 'Jiashi Feng', 'Hongkai Xiong', 'Qi Tian']",arXiv:1804.09466
+http://arxiv.org/abs/1804.09428v2,2018-04-25T08:48:56Z,"Weakly-Supervised Learning-Based Feature Localization in Confocal Laser
+  Endomicroscopy Glioma Images","['Mohammadhassan Izadyyazdanabadi', 'Evgenii Belykh', 'Claudio Cavallo', 'Xiaochun Zhao', 'Sirin Gandhi', 'Leandro Borba Moreira', 'Jennifer Eschbacher', 'Peter Nakaji', 'Mark C. Preul', 'Yezhou Yang']",arXiv:1804.09428
+http://arxiv.org/abs/1804.06962v1,2018-04-19T01:17:40Z,"Adversarial Complementary Learning for Weakly Supervised Object
+  Localization","['Xiaolin Zhang', 'Yunchao Wei', 'Jiashi Feng', 'Yi Yang', 'Thomas Huang']",arXiv:1804.06962
+http://arxiv.org/abs/1804.04882v2,2018-04-13T10:52:07Z,"Learning to Exploit the Prior Network Knowledge for Weakly-Supervised
+  Semantic Segmentation","['Carolina Redondo-Cabrera', 'Marcos Baptista-Ríos', 'Roberto J. López-Sastre']",arXiv:1804.04882
+http://arxiv.org/abs/1804.04715v3,2018-04-12T20:20:29Z,"Sound Event Detection and Time-Frequency Segmentation from Weakly
+  Labelled Data","['Qiuqiang Kong', 'Yong Xu', 'Iwona Sobieraj', 'Wenwu Wang', 'Mark D. Plumbley']",arXiv:1804.04715
+http://arxiv.org/abs/1804.01346v1,2018-04-04T11:18:21Z,Normalized Cut Loss for Weakly-supervised CNN Segmentation,"['Meng Tang', 'Abdelaziz Djelouah', 'Federico Perazzi', 'Yuri Boykov', 'Christopher Schroers']",arXiv:1804.01346
+http://arxiv.org/abs/1804.00880v1,2018-04-03T09:29:30Z,Weakly Supervised Instance Segmentation using Class Peak Response,"['Yanzhao Zhou', 'Yi Zhu', 'Qixiang Ye', 'Qiang Qiu', 'Jianbin Jiao']",arXiv:1804.00880
+http://arxiv.org/abs/1803.11365v1,2018-03-30T06:53:43Z,"Cross-Domain Weakly-Supervised Object Detection through Progressive
+  Domain Adaptation","['Naoto Inoue', 'Ryosuke Furuta', 'Toshihiko Yamasaki', 'Kiyoharu Aizawa']",arXiv:1803.11365
+http://arxiv.org/abs/1803.10699v1,2018-03-28T15:58:23Z,"Weakly-Supervised Action Segmentation with Iterative Soft Boundary
+  Assignment","['Li Ding', 'Chenliang Xu']",arXiv:1803.10699
+http://arxiv.org/abs/1803.10464v2,2018-03-28T08:40:54Z,"Learning Pixel-level Semantic Affinity with Image-level Supervision for
+  Weakly Supervised Semantic Segmentation","['Jiwoon Ahn', 'Suha Kwak']",arXiv:1803.10464
+http://arxiv.org/abs/1803.09569v2,2018-03-26T13:14:58Z,On Regularized Losses for Weakly-supervised CNN Segmentation,"['Meng Tang', 'Federico Perazzi', 'Abdelaziz Djelouah', 'Ismail Ben Ayed', 'Christopher Schroers', 'Yuri Boykov']",arXiv:1803.09569
+http://arxiv.org/abs/1803.07716v2,2018-03-21T01:56:41Z,"Generative Adversarial Talking Head: Bringing Portraits to Life with a
+  Weakly Supervised Neural Network","['Hai X. Pham', 'Yuting Wang', 'Vladimir Pavlovic']",arXiv:1803.07716
+http://arxiv.org/abs/1803.07703v1,2018-03-21T00:40:57Z,"Weakly Supervised Medical Diagnosis and Localization from Multiple
+  Resolutions","['Li Yao', 'Jordan Prosky', 'Eric Poblenz', 'Ben Covington', 'Kevin Lyman']",arXiv:1803.07703
+http://arxiv.org/abs/1803.06813v2,2018-03-19T06:34:29Z,"Weakly Supervised Object Localization on grocery shelves using simple
+  FCN and Synthetic Dataset","['Srikrishna Varadarajan', 'Muktabh Mayank Srivastava']",arXiv:1803.06813
+http://arxiv.org/abs/1803.06503v1,2018-03-17T13:40:00Z,Weakly Supervised Salient Object Detection Using Image Labels,"['Guanbin Li', 'Yuan Xie', 'Liang Lin']",arXiv:1803.06503
+http://arxiv.org/abs/1803.02563v1,2018-03-07T08:59:35Z,"Decoupled Spatial Neural Attention for Weakly Supervised Semantic
+  Segmentation","['Tianyi Zhang', 'Guosheng Lin', 'Jianfei Cai', 'Tong Shen', 'Chunhua Shen', 'Alex C. Kot']",arXiv:1803.02563
+http://arxiv.org/abs/1802.09129v1,2018-02-26T02:07:19Z,"Multi-Evidence Filtering and Fusion for Multi-Label Classification,
+  Object Detection and Semantic Segmentation Based on Weakly Supervised
+  Learning","['Weifeng Ge', 'Sibei Yang', 'Yizhou Yu']",arXiv:1802.09129
+http://arxiv.org/abs/1802.07888v2,2018-02-22T02:53:28Z,Improved Techniques For Weakly-Supervised Object Localization,"['Junsuk Choe', 'Joo Hyun Park', 'Hyunjung Shim']",arXiv:1802.07888
+http://arxiv.org/abs/1802.03531v1,2018-02-10T06:36:52Z,Collaborative Learning for Weakly Supervised Object Detection,"['Jiajie Wang', 'Jiangchao Yao', 'Ya Zhang', 'Rui Zhang']",arXiv:1802.03531
+http://arxiv.org/abs/1802.00470v1,2018-02-01T19:44:45Z,"Learning random-walk label propagation for weakly-supervised semantic
+  segmentation","['Paul Vernaza', 'Manmohan Chandraker']",arXiv:1802.00470
+http://arxiv.org/abs/1802.02212v2,2018-02-01T15:21:14Z,"Classification and Disease Localization in Histopathology Using Only
+  Global Labels: A Weakly-Supervised Approach","['Pierre Courtiol', 'Eric W. Tramel', 'Marc Sanselme', 'Gilles Wainrib']",arXiv:1802.02212
+http://arxiv.org/abs/1801.08747v1,2018-01-26T10:46:43Z,Weakly Supervised Object Detection with Pointwise Mutual Information,"['Rene Grzeszick', 'Sebastian Sudholt', 'Gernot A. Fink']",arXiv:1801.08747
+http://arxiv.org/abs/1801.08614v1,2018-01-25T22:05:19Z,"Accurate Weakly Supervised Deep Lesion Segmentation on CT Scans:
+  Self-Paced 3D Mask Generation from RECIST","['Jinzheng Cai', 'Youbao Tang', 'Le Lu', 'Adam P. Harrison', 'Ke Yan', 'Jing Xiao', 'Lin Yang', 'Ronald M. Summers']",arXiv:1801.08614
+http://arxiv.org/abs/1801.03329v3,2018-01-10T12:10:24Z,Weakly Supervised One-Shot Detection with Attention Similarity Networks,"['Gil Keren', 'Maximilian Schmitt', 'Thomas Kehrenberg', 'Björn Schuller']",arXiv:1801.03329
+http://arxiv.org/abs/1712.09673v2,2017-12-27T20:30:45Z,"Multiple Instance Deep Learning for Weakly Supervised Small-Footprint
+  Audio Event Detection","['Shao-Yen Tseng', 'Juncheng Li', 'Yun Wang', 'Joseph Szurley', 'Florian Metze', 'Samarjit Das']",arXiv:1712.09673
+http://arxiv.org/abs/1712.05080v2,2017-12-14T03:34:03Z,Weakly Supervised Action Localization by Sparse Temporal Pooling Network,"['Phuc Nguyen', 'Ting Liu', 'Gautam Prasad', 'Bohyung Han']",arXiv:1712.05080
+http://arxiv.org/abs/1712.00621v1,2017-12-02T15:23:43Z,"DR-Net: Transmission Steered Single Image Dehazing Network with Weakly
+  Supervised Refinement","['Chongyi Li', 'Jichang Guo', 'Fatih Porikli', 'Chunle Guo', 'Huzhu Fu', 'Xi Li']",arXiv:1712.00621
+http://arxiv.org/abs/1711.09191v1,2017-11-25T05:08:09Z,"Multiple Instance Curriculum Learning for Weakly Supervised Object
+  Detection","['Siyang Li', 'Xiangxin Zhu', 'Qin Huang', 'Hao Xu', 'C. -C. Jay Kuo']",arXiv:1711.09191
+http://arxiv.org/abs/1711.08174v2,2017-11-22T08:36:39Z,"Weakly Supervised Object Discovery by Generative Adversarial & Ranking
+  Networks","['Ali Diba', 'Vivek Sharma', 'Rainer Stiefelhagen', 'Luc Van Gool']",arXiv:1711.08174
+http://arxiv.org/abs/1711.06998v1,2017-11-19T10:47:39Z,"Kill Two Birds with One Stone: Weakly-Supervised Neural Network for
+  Image Annotation and Tag Refinement","['Junjie Zhang', 'Qi Wu', 'Jian Zhang', 'Chunhua Shen', 'Jianfeng Lu']",arXiv:1711.06998
+http://arxiv.org/abs/1711.05282v2,2017-11-14T19:08:23Z,C-WSL: Count-guided Weakly Supervised Localization,"['Mingfei Gao', 'Ang Li', 'Ruichi Yu', 'Vlad I. Morariu', 'Larry S. Davis']",arXiv:1711.05282
+http://arxiv.org/abs/1711.03037v2,2017-11-08T16:28:17Z,"A joint separation-classification model for sound event detection of
+  weakly labelled data","['Qiuqiang Kong', 'Yong Xu', 'Wenwu Wang', 'Mark D. Plumbley']",arXiv:1711.03037
+http://arxiv.org/abs/1711.01369v4,2017-11-04T00:22:23Z,"Knowledge Transfer from Weakly Labeled Audio using Convolutional Neural
+  Network for Sound Events and Scenes","['Anurag Kumar', 'Maksim Khadkevich', 'Christian Fugen']",arXiv:1711.01369
+http://arxiv.org/abs/1711.00313v2,2017-11-01T12:38:59Z,"Avoiding Your Teacher's Mistakes: Training Neural Networks with
+  Controlled Weak Supervision","['Mostafa Dehghani', 'Aliaksei Severyn', 'Sascha Rothe', 'Jaap Kamps']",arXiv:1711.00313
+http://arxiv.org/abs/1710.04826v1,2017-10-13T07:08:43Z,WeText: Scene Text Detection under Weak Supervision,"['Shangxuan Tian', 'Shijian Lu', 'Chongshou Li']",arXiv:1710.04826
+http://arxiv.org/abs/1710.04647v1,2017-10-12T17:58:30Z,"Progressive Representation Adaptation for Weakly Supervised Object
+  Localization","['Dong Li', 'Jia-Bin Huang', 'Yali Li', 'Shengjin Wang', 'Ming-Hsuan Yang']",arXiv:1710.04647
+http://arxiv.org/abs/1710.03811v2,2017-10-10T20:31:42Z,"DeepSolarEye: Power Loss Prediction and Weakly Supervised Soiling
+  Localization via Fully Convolutional Networks for Solar Panels","['Sachin Mehta', 'Amar P. Azad', 'Saneem A. Chemmengath', 'Vikas Raykar', 'Shivkumar Kalyanaraman']",arXiv:1710.03811
+http://arxiv.org/abs/1710.02998v1,2017-10-09T09:14:24Z,"Sound event detection using weakly labeled dataset with stacked
+  convolutional and recurrent neural network","['Sharath Adavanne', 'Tuomas Virtanen']",arXiv:1710.02998
+http://arxiv.org/abs/1710.00343v1,2017-10-01T12:57:45Z,"Large-scale weakly supervised audio classification using gated
+  convolutional neural network","['Yong Xu', 'Qiuqiang Kong', 'Wenwu Wang', 'Mark D. Plumbley']",arXiv:1710.00343
+http://arxiv.org/abs/1710.01168v1,2017-09-30T17:24:21Z,"Fast Fine-grained Image Classification via Weakly Supervised
+  Discriminative Localization","['Xiangteng He', 'Yuxin Peng', 'Junjie Zhao']",arXiv:1710.01168
+http://arxiv.org/abs/1709.09885v2,2017-09-28T10:35:41Z,"Sentiment Classification with Word Attention based on Weakly Supervised
+  Learning with a Convolutional Neural Network","['Gichang Lee', 'Jaeyun Jeong', 'Seungwan Seo', 'CzangYeob Kim', 'Pilsung Kang']",arXiv:1709.09885
+http://arxiv.org/abs/1709.01829v1,2017-09-06T14:11:59Z,Soft Proposal Networks for Weakly Supervised Object Localization,"['Yi Zhu', 'Yanzhao Zhou', 'Qixiang Ye', 'Qiang Qiu', 'Jianbin Jiao']",arXiv:1709.01829
+http://arxiv.org/abs/1708.04400v1,2017-08-15T05:36:52Z,"Bringing Background into the Foreground: Making All Classes Equal in
+  Weakly-supervised Video Semantic Segmentation","['Fatemeh Sadat Saleh', 'Mohammad Sadegh Aliakbarian', 'Mathieu Salzmann', 'Lars Petersson', 'Jose M. Alvarez']",arXiv:1708.04400
+http://arxiv.org/abs/1708.02459v1,2017-08-08T12:19:48Z,"Weakly Supervised Image Annotation and Segmentation with Objects and
+  Attributes","['Zhiyuan Shi', 'Yongxin Yang', 'Timothy M. Hospedales', 'Tao Xiang']",arXiv:1708.02459
+http://arxiv.org/abs/1708.02108v3,2017-08-07T13:20:50Z,Two-Phase Learning for Weakly Supervised Object Localization,"['Dahun Kim', 'Donghyeon Cho', 'Donggeun Yoo', 'In So Kweon']",arXiv:1708.02108
+http://arxiv.org/abs/1708.01956v1,2017-08-07T01:07:20Z,"PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel
+  Pairwise R-FCN","['Hanwang Zhang', 'Zawlin Kyaw', 'Jinyang Yu', 'Shih-Fu Chang']",arXiv:1708.01956
+http://arxiv.org/abs/1708.01723v1,2017-08-05T07:24:43Z,Optimizing Region Selection for Weakly Supervised Object Detection,"['Wenhui Jiang', 'Thuyen Ngo', 'B. S. Manjunath', 'Zhicheng Zhao', 'Fei Su']",arXiv:1708.01723
+http://arxiv.org/abs/1707.08721v2,2017-07-27T06:58:39Z,Exploiting Web Images for Weakly Supervised Object Detection,"['Qingyi Tao', 'Hao Yang', 'Jianfei Cai']",arXiv:1707.08721
+http://arxiv.org/abs/1707.06180v1,2017-07-19T16:10:53Z,Object-Extent Pooling for Weakly Supervised Single-Shot Localization,"['Amogh Gudi', 'Nicolai van Rosmalen', 'Marco Loog', 'Jan van Gemert']",arXiv:1707.06180
+http://arxiv.org/abs/1707.05821v1,2017-07-18T19:03:22Z,"Discovering Class-Specific Pixels for Weakly-Supervised Semantic
+  Segmentation","['Arslan Chaudhry', 'Puneet K. Dokania', 'Philip H. S. Torr']",arXiv:1707.05821
+http://arxiv.org/abs/1707.02850v1,2017-07-10T13:36:25Z,Adaptive Binarization for Weakly Supervised Affordance Segmentation,"['Johann Sawatzky', 'Juergen Gall']",arXiv:1707.02850
+http://arxiv.org/abs/1707.02530v2,2017-07-09T06:16:23Z,"Deep CNN Framework for Audio Event Recognition using Weakly Labeled Web
+  Data","['Anurag Kumar', 'Bhiksha Raj']",arXiv:1707.02530
+http://arxiv.org/abs/1707.02483v1,2017-07-08T19:45:47Z,"Weakly Supervised Cross-Lingual Named Entity Recognition via Effective
+  Annotation and Representation Projection","['Jian Ni', 'Georgiana Dinu', 'Radu Florian']",arXiv:1707.02483
+http://arxiv.org/abs/1707.01086v2,2017-07-04T17:54:57Z,"Discriminative Localization in CNNs for Weakly-Supervised Segmentation
+  of Pulmonary Nodules","['Xinyang Feng', 'Jie Yang', 'Andrew F. Laine', 'Elsa D. Angelini']",arXiv:1707.01086
+http://arxiv.org/abs/1706.09634v1,2017-06-29T09:15:56Z,"Weakly-supervised localization of diabetic retinopathy lesions in
+  retinal fundus images","['Waleed M. Gondal', 'Jan M. Köhler', 'René Grzeszick', 'Gernot A. Fink', 'Michael Hirsch']",arXiv:1706.09634
+http://arxiv.org/abs/1706.06768v1,2017-06-21T07:29:21Z,"Saliency Guided End-to-End Learning for Weakly Supervised Object
+  Detection","['Baisheng Lai', 'Xiaojin Gong']",arXiv:1706.06768
+http://arxiv.org/abs/1706.04970v2,2017-06-15T17:13:37Z,"A convolutional autoencoder approach for mining features in cellular
+  electron cryo-tomograms and weakly supervised coarse segmentation","['Xiangrui Zeng', 'Miguel Ricardo Leung', 'Tzviya Zeev-Ben-Mordehai', 'Min Xu']",arXiv:1706.04970
+http://arxiv.org/abs/1706.02850v1,2017-06-09T07:14:08Z,"Weakly supervised training of deep convolutional neural networks for
+  overhead pedestrian localization in depth fields","['Alessandro Corbetta', 'Vlado Menkovski', 'Federico Toschi']",arXiv:1706.02850
+http://arxiv.org/abs/1706.02051v2,2017-06-07T05:38:49Z,Automatic Emphysema Detection using Weakly Labeled HRCT Lung Images,"['Isabel Pino Peña', 'Veronika Cheplygina', 'Sofia Paschaloudi', 'Morten Vuust', 'Jesper Carl', 'Ulla Møller Weinreich', 'Lasse Riis Østergaard', 'Marleen de Bruijne']",arXiv:1706.02051
+http://arxiv.org/abs/1706.02189v1,2017-06-06T03:23:17Z,"Incorporating Network Built-in Priors in Weakly-supervised Semantic
+  Segmentation","['Fatemeh Sadat Saleh', 'Mohammad Sadegh Aliakbarian', 'Mathieu Salzmann', 'Lars Petersson', 'Jose M. Alvarez', 'Stephen Gould']",arXiv:1706.02189
+http://arxiv.org/abs/1706.00699v2,2017-06-02T14:34:21Z,"Action Sets: Weakly Supervised Action Segmentation without Ordering
+  Constraints","['Alexander Richard', 'Hilde Kuehne', 'Juergen Gall']",arXiv:1706.00699
+http://arxiv.org/abs/1705.09052v3,2017-05-25T05:35:41Z,"Weakly Supervised Semantic Segmentation Based on Web Image
+  Co-segmentation","['Tong Shen', 'Guosheng Lin', 'Lingqiao Liu', 'Chunhua Shen', 'Ian Reid']",arXiv:1705.09052
+http://arxiv.org/abs/1705.07999v2,2017-05-22T20:55:47Z,GP-Unet: Lesion Detection from Weak Labels with a 3D Regression Network,"['Florian Dubost', 'Gerda Bortsova', 'Hieab Adams', 'Arfan Ikram', 'Wiro Niessen', 'Meike Vernooij', 'Marleen De Bruijne']",arXiv:1705.07999
+http://arxiv.org/abs/1705.02315v5,2017-05-05T17:31:12Z,"ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on
+  Weakly-Supervised Classification and Localization of Common Thorax Diseases","['Xiaosong Wang', 'Yifan Peng', 'Le Lu', 'Zhiyong Lu', 'Mohammadhadi Bagheri', 'Ronald M. Summers']",arXiv:1705.02315
+http://arxiv.org/abs/1704.06410v2,2017-04-21T06:23:44Z,"Solar Power Plant Detection on Multi-Spectral Satellite Imagery using
+  Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion","['Nevrez Imamoglu', 'Motoki Kimura', 'Hiroki Miyamoto', 'Aito Fujita', 'Ryosuke Nakamura']",arXiv:1704.06410
+http://arxiv.org/abs/1704.05188v2,2017-04-18T03:30:28Z,Deep Self-Taught Learning for Weakly Supervised Object Localization,"['Zequn Jie', 'Yunchao Wei', 'Xiaojie Jin', 'Jiashi Feng', 'Wei Liu']",arXiv:1704.05188
+http://arxiv.org/abs/1704.04749v1,2017-04-16T11:07:02Z,"AnchorNet: A Weakly Supervised Network to Learn Geometry-sensitive
+  Features For Semantic Matching","['David Novotny', 'Diane Larlus', 'Andrea Vedaldi']",arXiv:1704.04749
+http://arxiv.org/abs/1704.04232v2,2017-04-13T17:59:31Z,"Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised
+  Object and Action Localization","['Krishna Kumar Singh', 'Yong Jae Lee']",arXiv:1704.04232
+http://arxiv.org/abs/1704.02998v2,2017-04-10T18:15:34Z,Weakly-Supervised Spatial Context Networks,"['Zuxuan Wu', 'Larry S. Davis', 'Leonid Sigal']",arXiv:1704.02998
+http://arxiv.org/abs/1703.09695v1,2017-03-28T17:57:21Z,"Semi and Weakly Supervised Semantic Segmentation Using Generative
+  Adversarial Network","['Nasim Souly', 'Concetto Spampinato', 'Mubarak Shah']",arXiv:1703.09695
+http://arxiv.org/abs/1703.08000v2,2017-03-23T11:01:27Z,Weakly Supervised Object Localization Using Things and Stuff Transfer,"['Miaojing Shi', 'Holger Caesar', 'Vittorio Ferrari']",arXiv:1703.08000
+http://arxiv.org/abs/1703.06370v1,2017-03-19T00:29:35Z,"Weakly-supervised DCNN for RGB-D Object Recognition in Real-World
+  Applications Which Lack Large-scale Annotated Training Data","['Li Sun', 'Cheng Zhao', 'Rustam Stolkin']",arXiv:1703.06370
+http://arxiv.org/abs/1703.06052v1,2017-03-17T15:31:58Z,"Attention and Localization based on a Deep Convolutional Recurrent Model
+  for Weakly Supervised Audio Tagging","['Yong Xu', 'Qiuqiang Kong', 'Qiang Huang', 'Wenwu Wang', 'Mark D. Plumbley']",arXiv:1703.06052
+http://arxiv.org/abs/1703.03329v2,2017-03-09T16:29:39Z,UntrimmedNets for Weakly Supervised Action Recognition and Detection,"['Limin Wang', 'Yuanjun Xiong', 'Dahua Lin', 'Luc Van Gool']",arXiv:1703.03329
+http://arxiv.org/abs/1703.01290v1,2017-03-03T18:55:10Z,"Bridging Saliency Detection to Weakly Supervised Object Detection Based
+  on Self-paced Curriculum Learning","['Dingwen Zhang', 'Deyu Meng', 'Long Zhao', 'Junwei Han']",arXiv:1703.01290
+http://arxiv.org/abs/1701.00794v1,2017-01-03T19:29:41Z,Constrained Deep Weak Supervision for Histopathology Image Segmentation,"['Zhipeng Jia', 'Xingyi Huang', 'Eric I-Chao Chang', 'Yan Xu']",arXiv:1701.00794
+http://arxiv.org/abs/1701.00352v3,2017-01-02T10:12:03Z,Weakly Supervised Semantic Segmentation using Web-Crawled Videos,"['Seunghoon Hong', 'Donghun Yeo', 'Suha Kwak', 'Honglak Lee', 'Bohyung Han']",arXiv:1701.00352
+http://arxiv.org/abs/1612.02766v1,2016-12-08T18:46:39Z,Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation,"['Xianming Liu', 'Amy Zhang', 'Tobias Tiecke', 'Andreas Gros', 'Thomas S. Huang']",arXiv:1612.02766
+http://arxiv.org/abs/1612.02101v3,2016-12-07T02:37:51Z,Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation,"['Qinbin Hou', 'Puneet Kumar Dokania', 'Daniela Massiceti', 'Yunchao Wei', 'Ming-Ming Cheng', 'Philip Torr']",arXiv:1612.02101
+http://arxiv.org/abs/1611.08258v1,2016-11-24T17:07:48Z,Weakly Supervised Cascaded Convolutional Networks,"['Ali Diba', 'Vivek Sharma', 'Ali Pazandeh', 'Hamed Pirsiavash', 'Luc Van Gool']",arXiv:1611.08258
+http://arxiv.org/abs/1611.05603v1,2016-11-17T08:20:23Z,"Weakly-supervised Learning of Mid-level Features for Pedestrian
+  Attribute Recognition and Localization","['Kai Yu', 'Biao Leng', 'Zhang Zhang', 'Dangwei Li', 'Kaiqi Huang']",arXiv:1611.05603
+http://arxiv.org/abs/1611.05345v3,2016-11-16T16:23:51Z,"Backtracking Spatial Pyramid Pooling (SPP)-based Image Classifier for
+  Weakly Supervised Top-down Salient Object Detection","['Hisham Cholakkal', 'Jubin Johnson', 'Deepu Rajan']",arXiv:1611.05345
+http://arxiv.org/abs/1611.04871v3,2016-11-12T07:39:50Z,"Audio Event and Scene Recognition: A Unified Approach using Strongly and
+  Weakly Labeled Data","['Anurag Kumar', 'Bhiksha Raj']",arXiv:1611.04871
+http://arxiv.org/abs/1610.01797v1,2016-10-06T09:51:12Z,"A Joint Detection-Classification Model for Audio Tagging of Weakly
+  Labelled Data","['Qiuqiang Kong', 'Yong Xu', 'Wenwu Wang', 'Mark Plumbley']",arXiv:1610.01797
+http://arxiv.org/abs/1610.01238v3,2016-10-05T00:44:49Z,"Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for
+  Urban Autonomy","['Dan Barnes', 'Will Maddern', 'Ingmar Posner']",arXiv:1610.01238
+http://arxiv.org/abs/1609.04331v1,2016-09-14T16:17:03Z,"ContextLocNet: Context-Aware Deep Network Models for Weakly Supervised
+  Localization","['Vadim Kantorov', 'Maxime Oquab', 'Minsu Cho', 'Ivan Laptev']",arXiv:1609.04331
+http://arxiv.org/abs/1609.00446v1,2016-09-02T01:49:51Z,"Built-in Foreground/Background Prior for Weakly-Supervised Semantic
+  Segmentation","['Fatemehsadat Saleh', 'Mohammad Sadegh Ali Akbarian', 'Mathieu Salzmann', 'Lars Petersson', 'Stephen Gould', 'Jose M. Alvarez']",arXiv:1609.00446
+http://arxiv.org/abs/1609.00153v2,2016-09-01T09:15:41Z,"Weakly Supervised PatchNets: Describing and Aggregating Local Patches
+  for Scene Recognition","['Zhe Wang', 'Limin Wang', 'Yali Wang', 'Bowen Zhang', 'Yu Qiao']",arXiv:1609.00153
+http://arxiv.org/abs/1608.04314v2,2016-08-15T16:07:24Z,Weakly Supervised Object Localization Using Size Estimates,"['Miaojing Shi', 'Vittorio Ferrari']",arXiv:1608.04314
+http://arxiv.org/abs/1607.04731v1,2016-07-16T11:49:18Z,Weakly supervised object detection using pseudo-strong labels,"['Ke Yang', 'Dongsheng Li', 'Yong Dou', 'Shaohe Lv', 'Qiang Wang']",arXiv:1607.04731
+http://arxiv.org/abs/1606.02280v1,2016-06-07T19:54:53Z,"Semi-Supervised Domain Adaptation for Weakly Labeled Semantic Video
+  Object Segmentation","['Huiling Wang', 'Tapani Raiko', 'Lasse Lensu', 'Tinghuai Wang', 'Juha Karhunen']",arXiv:1606.02280
+http://arxiv.org/abs/1606.02009v2,2016-06-07T03:20:37Z,Learning deep structured network for weakly supervised change detection,"['Salman H Khan', 'Xuming He', 'Fatih Porikli', 'Mohammed Bennamoun', 'Ferdous Sohel', 'Roberto Togneri']",arXiv:1606.02009
+http://arxiv.org/abs/1605.07651v3,2016-05-24T20:34:03Z,Self Paced Deep Learning for Weakly Supervised Object Detection,"['Enver Sangineto', 'Moin Nabi', 'Dubravko Culibrk', 'Nicu Sebe']",arXiv:1605.07651
+http://arxiv.org/abs/1605.05538v1,2016-05-18T12:06:35Z,Improving Weakly-Supervised Object Localization By Micro-Annotation,"['Alexander Kolesnikov', 'Christoph H. Lampert']",arXiv:1605.05538
+http://arxiv.org/abs/1605.02401v3,2016-05-09T02:17:12Z,Audio Event Detection using Weakly Labeled Data,"['Anurag Kumar', 'Bhiksha Raj']",arXiv:1605.02401
+http://arxiv.org/abs/1604.05766v1,2016-04-19T22:23:29Z,"Track and Transfer: Watching Videos to Simulate Strong Human Supervision
+  for Weakly-Supervised Object Detection","['Krishna Kumar Singh', 'Fanyi Xiao', 'Yong Jae Lee']",arXiv:1604.05766
+http://arxiv.org/abs/1603.07485v2,2016-03-24T09:04:16Z,Simple Does It: Weakly Supervised Instance and Semantic Segmentation,"['Anna Khoreva', 'Rodrigo Benenson', 'Jan Hosang', 'Matthias Hein', 'Bernt Schiele']",arXiv:1603.07485
+http://arxiv.org/abs/1603.07188v3,2016-03-23T14:01:03Z,Weakly-Supervised Semantic Segmentation using Motion Cues,"['Pavel Tokmakov', 'Karteek Alahari', 'Cordelia Schmid']",arXiv:1603.07188
+http://arxiv.org/abs/1603.06098v3,2016-03-19T14:13:42Z,"Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image
+  Segmentation","['Alexander Kolesnikov', 'Christoph H. Lampert']",arXiv:1603.06098
+http://arxiv.org/abs/1603.00489v2,2016-03-01T21:07:09Z,Weakly Supervised Localization using Deep Feature Maps,"['Archith J. Bency', 'Heesung Kwon', 'Hyungtae Lee', 'S. Karthikeyan', 'B. S. Manjunath']",arXiv:1603.00489
+http://arxiv.org/abs/1602.04984v3,2016-02-16T11:05:24Z,"Deconvolutional Feature Stacking for Weakly-Supervised Semantic
+  Segmentation","['Hyo-Eun Kim', 'Sangheum Hwang']",arXiv:1602.04984
+http://arxiv.org/abs/1602.01625v1,2016-02-04T10:41:57Z,Self-Transfer Learning for Fully Weakly Supervised Object Localization,"['Sangheum Hwang', 'Hyo-Eun Kim']",arXiv:1602.01625
+http://arxiv.org/abs/1511.07247v3,2015-11-23T14:51:51Z,NetVLAD: CNN architecture for weakly supervised place recognition,"['Relja Arandjelović', 'Petr Gronat', 'Akihiko Torii', 'Tomas Pajdla', 'Josef Sivic']",arXiv:1511.07247
+http://arxiv.org/abs/1511.02853v4,2015-11-09T20:58:30Z,Weakly Supervised Deep Detection Networks,"['Hakan Bilen', 'Andrea Vedaldi']",arXiv:1511.02853
+http://arxiv.org/abs/1509.03150v2,2015-09-10T13:45:01Z,"STC: A Simple to Complex Framework for Weakly-supervised Semantic
+  Segmentation","['Yunchao Wei', 'Xiaodan Liang', 'Yunpeng Chen', 'Xiaohui Shen', 'Ming-Ming Cheng', 'Jiashi Feng', 'Yao Zhao', 'Shuicheng Yan']",arXiv:1509.03150
+http://arxiv.org/abs/1506.09179v1,2015-06-30T17:49:40Z,"Learning to Detect Blue-white Structures in Dermoscopy Images with Weak
+  Supervision","['Ali Madooei', 'Mark S. Drew', 'Hossein Hajimirsadeghi']",arXiv:1506.09179
+http://arxiv.org/abs/1506.03648v2,2015-06-11T12:30:17Z,"Constrained Convolutional Neural Networks for Weakly Supervised
+  Segmentation","['Deepak Pathak', 'Philipp Krähenbühl', 'Trevor Darrell']",arXiv:1506.03648
+http://arxiv.org/abs/1503.00949v3,2015-03-03T14:06:02Z,"Weakly Supervised Object Localization with Multi-fold Multiple Instance
+  Learning","['Ramazan Gokberk Cinbis', 'Jakob Verbeek', 'Cordelia Schmid']",arXiv:1503.00949
+http://arxiv.org/abs/1501.07492v2,2015-01-29T15:57:52Z,Weakly Supervised Learning for Salient Object Detection,['Huaizu Jiang'],arXiv:1501.07492
+http://arxiv.org/abs/1412.0100v1,2014-11-29T12:18:14Z,"Multiple Instance Reinforcement Learning for Efficient Weakly-Supervised
+  Detection in Images","['Stefan Mathe', 'Cristian Sminchisescu']",arXiv:1412.0100
+http://arxiv.org/abs/1107.3823v1,2011-07-19T19:43:10Z,"Weakly Supervised Learning of Foreground-Background Segmentation using
+  Masked RBMs","['Nicolas Heess', 'Nicolas Le Roux', 'John Winn']",arXiv:1107.3823
